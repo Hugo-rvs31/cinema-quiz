@@ -1,0 +1,1286 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "12 years a slave",
+      "image": "/img/img-cinema/1-12-years-a-slave.jpg",
+      "annee": "2013",
+      "realisateur": "Steve McQueen",
+      "synopsis": "Les États-Unis, quelques années avant la guerre de Sécession. Solomon Northup, jeune homme noir originaire de l'État de New York, est enlevé et vendu comme esclave. Face à la cruauté d'un propriétaire de plantation de coton, Solomon se bat pour rester en vie et garder sa dignité."
+    },
+    {
+      "id": 2,
+      "title": "28 jours plus tard",
+      "image": "/img/img-cinema/2-28-jours-plus-tard.png",
+      "annee": "2002",
+      "realisateur": "Danny Boyle",
+      "synopsis": "Un commando de la Protection Animale fait irruption dans un laboratoire top secret pour délivrer des dizaines de chimpanzés soumis à de terribles expériences. Mais aussitôt libérés, les primates, contaminés par un mystérieux virus et animés d'une rage incontrôlable, bondissent sur leurs sauveurs et les massacrent. 28 jours plus tard, le mal s'est répandu à une vitesse fulgurante à travers le pays, la population a été évacuée en masse et Londres n'est plus qu'une ville fantôme. Les rares rescapés se terrent pour échapper aux Contaminés assoiffés de violence. C'est dans ce contexte que Jim, un coursier, sort d'un profond coma..."
+    },
+    {
+      "id": 3,
+      "title": "Babel",
+      "image": "/img/img-cinema/3-babel.webp",
+      "annee": "2006",
+      "realisateur": "Alejandro Gonzalez Inarritu",
+      "synopsis": "En plein désert marocain, un coup de feu retentit. Il va déclencher toute une série d'événements qui impliqueront un couple de touristes américains au bord du naufrage, deux jeunes Marocains auteurs d'un crime accidentel, une nourrice qui voyage illégalement avec deux enfants américains, et une adolescente japonaise rebelle dont le père est recherché par la police à Tokyo. Séparés par leurs cultures et leurs modes de vie, chacun de ces quatre groupes de personnes va cependant connaître une même destinée d'isolement et de douleur..."
+    },
+    {
+      "id": 4,
+      "title": "Black Book",
+      "image": "/img/img-cinema/4-black-book.jpg",
+      "annee": "2006",
+      "realisateur": "Paul Verhoeven",
+      "synopsis": "La Haye, sous l'occupation allemande. Lorsque sa cachette est détruite par une bombe, la belle chanteuse Rachel Stein tente, avec un groupe de Juifs, de gagner la Hollande Méridionale, déjà libérée. Mais une patrouille allemande les intercepte dans le delta du Biesboch. Tous les réfugiés sont abattus ; seule Rachel échappe au massacre.Elle rejoint alors la Résistance et, sous le nom d'Ellis de Vries, parvient à infiltrer le Service de Renseignements allemand et à se lier avec l'officier Mûntze. Séduit, celui-ci lui offre un emploi..."
+    },
+    {
+      "id": 5,
+      "title": "Bullhead",
+      "image": "/img/img-cinema/5-bullhead.png",
+      "annee": "2011",
+      "realisateur": "Michaël R. Roskam",
+      "synopsis": "Jacky est issu d'une importante famille d'agriculteurs et d'engraisseurs du sud du Limbourg. A 33 ans, il apparaît comme un être renfermé et imprévisible, parfois violent… Grâce à sa collaboration avec un vétérinaire corrompu, Jacky s’est forgé une belle place dans le milieu de la mafia des hormones. Alors qu’il est en passe de conclure un marché exclusif avec le plus puissant des trafiquants d'hormones de Flandre occidentale, un agent fédéral est assassiné. C’est le branle-bas de combat parmi les policiers. Les choses se compliquent pour Jacky et tandis que l’étau se resserre autour de lui, tout son passé, et ses lourds secrets, ressurgissent…"
+    },
+    {
+      "id": 6,
+      "title": "Dark City",
+      "image": "/img/img-cinema/6-dark-city.jpg",
+      "annee": "1998",
+      "realisateur": "Alex Proyas",
+      "synopsis": "Se réveillant sans aucun souvenir dans une chambre d'hôtel impersonnelle, John Murdoch découvre bientôt qu'il est recherché pour une série de meurtres sadiques. Traqué par l'inspecteur Bumstead, il cherche à retrouver la mémoire et ainsi comprendre qui il est. Il s'enfonce dans un labyrinthe mystérieux où il croise des créatures douées de pouvoirs effrayants. Grâce au docteur Schreber, Murdoch réussit à se remémorer certains détails de son passé trouble."
+    },
+    {
+      "id": 7,
+      "title": "Elle l'adore",
+      "image": "/img/img-cinema/7-elle-ladore.jpg",
+      "annee": "2014",
+      "realisateur": "Jeanne Herry",
+      "synopsis": "Muriel est esthéticienne. Elle est bavarde, un peu menteuse, elle aime raconter des histoires souvent farfelues. Depuis 20 ans, Muriel est aussi la première fan du chanteur à succès Vincent Lacroix. Avec ses chansons et ses concerts, il occupe presque toute sa vie.Lorsqu'une nuit Vincent, son idole, sonne à la porte de Muriel, sa vie bascule. Elle est entrainée dans une histoire qu’elle n’aurait pas osé inventer."
+    },
+    {
+      "id": 8,
+      "title": "Etreintes brisées",
+      "image": "/img/img-cinema/8-etreintes-brisees.jpg",
+      "annee": "2009",
+      "realisateur": "Pedro Almodovar",
+      "synopsis": "Dans l'obscurité, un homme écrit, vit et aime. Quatorze ans auparavant, il a eu un violent accident de voiture, dans lequel il n'a pas seulement perdu la vue mais où est morte Lena, la femme de sa vie.Cet homme a deux noms : Harry Caine, pseudonyme ludique sous lequel il signe ses travaux littéraires, ses récits et scénarios ; et Mateo Blanco, qui est son nom de baptême, sous lequel il vit et signe les films qu'il dirige. Après l'accident, Mateo Blanco devient son pseudonyme, Harry Caine. Dans la mesure où il ne peut plus diriger de films, il préfère survivre avec l'idée que Mateo Blanco est mort avec Lena, la femme qu'il aimait, dans l'accident. Désormais, Harry Caine vit grâce aux scénarios qu'il écrit et à l'aide de son ancienne et fidèle directrice de production, Judit García, et du fils de celle-ci, Diego. Depuis qu'il a décidé de vivre et de raconter des histoires, Harry est un aveugle très actif et attractif qui a développé tous ses autres sens pour jouir de la vie, sur fond d'ironie et dans une amnésie qu'il a volontairement choisie ou, plus exactement, qu'il s'est imposé. Il a effacé de sa biographie tout ce qui est arrivé quatorze ans auparavant. Il n'en parle plus, il ne pose plus de questions ; le monde a eu vite fait d'oublier Mateo Blanco et il est lui-même le premier à ne pas désirer le ressusciter... Une histoire d'amour fou, dominée par la fatalité, la jalousie et la trahison. Une histoire dont l'image la plus éloquente est la photo de Mateo et Lena, déchirée en mille morceaux."
+    },
+    {
+      "id": 9,
+      "title": "Get out",
+      "image": "/img/img-cinema/9-get-out.webp",
+      "annee": "2017",
+      "realisateur": "Jordan Peele",
+      "synopsis": "Couple mixte, Chris et sa petite amie Rose  filent le parfait amour. Le moment est donc venu de rencontrer la belle famille, Missy et Dean lors d’un week-end sur leur domaine dans le nord de l’État. Chris commence par penser que l’atmosphère tendue est liée à leur différence de couleur de peau, mais très vite une série d’incidents de plus en plus inquiétants lui permet de découvrir l’inimaginable."
+    },
+    {
+      "id": 10,
+      "title": "Incendies",
+      "image": "/img/img-cinema/10-incendies.webp",
+      "annee": "2010",
+      "realisateur": "Denis Villeneuve",
+      "synopsis": "A la lecture du testament de leur mère, Jeanne et Simon Marwan se voient remettre deux enveloppes : l’une destinée à un père qu’ils croyaient mort et l‘autre à un frère dont ils ignoraient l’existence. Jeanne voit dans cet énigmatique legs la clé du silence de sa mère, enfermée dans un mutisme inexpliqué les dernières semaines précédant sa mort. Elle décide immédiatement de partir au Moyen Orient exhumer le passé de cette famille dont elle ne sait presque rien… Simon, lui, n’a que faire des caprices posthumes de cette mère qui s’est toujours montrée distante. Mais son amour pour sa sœur jumelle le poussera bientôt à rejoindre Jeanne et à sillonner avec elle le pays de leurs ancêtres sur la piste d’une mère bien loin de celle qu’ils ont connue."
+    },
+    {
+      "id": 11,
+      "title": "It follows",
+      "image": "/img/img-cinema/11-it-follows.avif",
+      "annee": "2014",
+      "realisateur": "David Robert Mitchell",
+      "synopsis": "Dans une banlieue pavillonnaire de Detroit, Jay, étudiante insouciante d’une vingtaine d’années, se rend au cinéma avec Hugh, un garçon de son âge qu’elle a commencé à fréquenter. Mais ce dernier écourte la séance, pris de panique devant une étrange vision. Lors d’un second rendez-vous au bord du lac, les deux jeunes gens font l’amour pour la première fois. À la fin de leurs ébats, Hugh endort sa partenaire avec du chloroforme... Quand Jay reprend conscience, elle est attachée dans un fauteuil roulant. Face à elle, un Hugh apeuré lui explique qu’une chose, qui se présentera sous différentes formes, connues ou inconnues, la suit désormais dans le but de la tuer. Si elle parvient à ses fins, la malédiction s’abattra alors sur la personne qui la lui a transmise. Pour s’en libérer, Jay n’a qu’une solution : coucher avec quelqu’un d’autre, qui deviendra cible à sa place…"
+    },
+    {
+      "id": 12,
+      "title": "La môme",
+      "image": "/img/img-cinema/12-la-mome.jpg",
+      "annee": "2007",
+      "realisateur": "Olivier Dahan",
+      "synopsis": "De son enfance à la gloire, de ses victoires à ses blessures, de Belleville à New York, l'exceptionnel parcours d'Edith Piaf. A travers un destin plus incroyable qu'un roman, découvrez l'âme d'une artiste et le coeur d'une femme. Intime, intense, fragile et indestructible, dévouée à son art jusqu'au sacrifice, voici la plus immortelle des chanteuses..."
+    },
+    {
+      "id": 13,
+      "title": "La mouche",
+      "image": "/img/img-cinema/13-la-mouche.webp",
+      "annee": "1986",
+      "realisateur": "David Cronenberg",
+      "synopsis": "Seth Brundle est un jeune biologiste très doué. Après avoir fait ses premières armes dans une brillante équipe, il se décide à travailler seul. Il met au point une invention qui doit révolutionner le monde : la téléportation, qui consiste à transporter la matière à travers l'espace. Les essais sur un babouin sont peu convaincants et après des fuites dans la presse, il décide de se téléporter lui-même. Seulement il ne s'aperçoit pas qu'une mouche fait partie du voyage."
+    },
+    {
+      "id": 14,
+      "title": "La vie des autres",
+      "image": "/img/img-cinema/14-la-vie-des-autres.png",
+      "annee": "2006",
+      "realisateur": "Florian H. von Donnersmarck",
+      "synopsis": "Au début des années 1980, en Allemagne de l'Est, l'auteur à succès Georg Dreyman et sa compagne, l'actrice Christa-Maria Sieland, sont considérés comme faisant partie de l'élite des intellectuels de l'Etat communiste, même si, secrètement, ils n'adhèrent aux idées du parti. Le Ministère de la Culture commence à s'intéresser à Christa et dépêche un agent secret, nommé Wiesler, ayant pour mission de l'observer. Tandis qu'il progresse dans l'enquête, le couple d'intellectuels le fascine de plus en plus..."
+    },
+    {
+      "id": 15,
+      "title": "L'âge de cristal",
+      "image": "/img/img-cinema/15-lage-de-cristal.webp",
+      "annee": "1976",
+      "realisateur": "Michael Anderson",
+      "synopsis": "Dans la société de 2274, si les sujets vivent essentiellement de plaisirs, ils sont contraints de mourir à 30 ans pour éviter la surpopulation. Mais Logan 5 et Jessica 6 se rebellent et s'enfuient..."
+    },
+    {
+      "id": 16,
+      "title": "L'auberge espagnole",
+      "image": "/img/img-cinema/16-lauberge-espagnole.webp",
+      "annee": "2002",
+      "realisateur": "Cédric Klapisch",
+      "synopsis": "Xavier, un jeune homme de vingt-cinq ans, part à Barcelone pour terminer ses études en économie et apprendre l'espagnol. Cette langue est nécessaire pour occuper un poste, que lui promet un ami de son père, au ministère des finances. Mais pour ce faire, il doit quitter sa petite amie Martine, avec qui il vit depuis quatre ans. En Espagne, Xavier cherche un logement et trouve finalement un appartement dans le centre de Barcelone qu'il compte partager avec sept autres personnes. Chacun de ses co-locataires est originaire d'un pays différent."
+    },
+    {
+      "id": 17,
+      "title": "Le fabuleux destin d'Amélie Poulain",
+      "image": "/img/img-cinema/17-le-fabuleux-destin-damelie-poulain.jpg",
+      "annee": "2001",
+      "realisateur": "Jean-Pierre Jeunet",
+      "synopsis": "Amélie, une jeune serveuse dans un bar de Montmartre, passe son temps à observer les gens et à laisser son imagination divaguer. Elle s'est fixé un but : faire le bien de ceux qui l'entourent. Elle invente alors des stratagèmes pour intervenir incognito dans leur existence. Le chemin d'Amélie est jalonné de rencontres : Georgette, la buraliste hypocondriaque ; Lucien, le commis d'épicerie ; Madeleine Wallace, la concierge portée sur le porto et les chiens empaillés ; Raymond Dufayel alias l'homme de verre, son voisin qui ne vit qu'à travers une reproduction d'un tableau de Renoir. Cette quête du bonheur amène Amélie à faire la connaissance de Nino Quincampoix, un étrange prince charmant. Celui-ci partage son temps entre un train fantôme et un sex-shop, et cherche à identifier un inconnu dont la photo réapparaît sans cesse dans plusieurs cabines de Photomaton."
+    },
+    {
+      "id": 18,
+      "title": "Le scaphandre et le papillon",
+      "image": "/img/img-cinema/18-le-scaphandre-et-le-papillon.jpg",
+      "annee": "2007",
+      "realisateur": "Julian Schnabel",
+      "synopsis": "Le 8 décembre 1995, un accident vasculaire brutal a plongé Jean-Dominique Bauby, journaliste et père de deux enfants, dans un coma profond. Quand il en sortit, toutes ses fonctions motrices étaient détériorées. Atteint de ce que la médecine appelle le locked-in syndrome, il ne pouvait plus bouger, parler ni même respirer sans assistance. Dans ce corps inerte, seul un oeil bouge. Cet oeil, devient son lien avec le monde, avec les autres, avec la vie. Il cligne une fois pour dire oui, deux fois pour dire non. Avec son oeil, il arrête l'attention de son visiteur sur les lettres de l'alphabet qu'on lui dicte et forme des mots, des phrases, des pages entières... Avec son oeil, il écrit ce livre, Le Scaphandre et le papillon, dont chaque matin pendant des semaines, il a mémorisé les phrases avant de les dicter..."
+    },
+    {
+      "id": 19,
+      "title": "Les fils de l'homme",
+      "image": "/img/img-cinema/19-les-fils-de-lhomme.webp",
+      "annee": "2006",
+      "realisateur": "Alfonso Cuaron",
+      "synopsis": "Dans une société futuriste où les êtres humains ne parviennent plus à se reproduire, l'annonce de la mort de la plus jeune personne, âgée de 18 ans, met la population en émoi. Au même moment, une femme tombe enceinte - un fait qui ne s'est pas produit depuis une vingtaine d'années - et devient par la même occasion la personne la plus enviée et la plus recherchée de la Terre. Un homme est chargé de sa protection..."
+    },
+    {
+      "id": 20,
+      "title": "Les liaisons dangereuses",
+      "image": "/img/img-cinema/20-les-liaisons-dangereuses.jpg",
+      "annee": "1988",
+      "realisateur": "Stephen Frears",
+      "synopsis": "Deux aristocrates brillants et spirituels, la marquise de Merteuil et le séduisant Vicomte de Valmont, signent un pacte d'inviolable amitié à la fin de leur liaison. C'est au nom de celui-ci que la marquise demande à Valmont de séduire la candide Cecile de Volanges qui doit prochainement épouser son ex-favori, M. de Bastide. Mais Valmont a entrepris de séduire la vertueuse Mme de Tourvel."
+    },
+    {
+      "id": 21,
+      "title": "Looper",
+      "image": "/img/img-cinema/21-looper.jpg",
+      "annee": "2012",
+      "realisateur": "Rian Johnson",
+      "synopsis": "Dans un futur proche, la Mafia a mis au point un système infaillible pour faire disparaître tous les témoins gênants. Elle expédie ses victimes dans le passé, à notre époque, où des tueurs d’un genre nouveau (les Loopers) les éliminent. Un jour, l’un d’entre eux, Joe, découvre que la victime qu’il doit exécuter n’est autre que… lui-même, avec 20 ans de plus. La machine si bien huilée déraille…"
+    },
+    {
+      "id": 22,
+      "title": "Midsommar",
+      "image": "/img/img-cinema/22-midsommar.webp",
+      "annee": "2019",
+      "realisateur": "Ari Aster",
+      "synopsis": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu qu'une fois tous les 90 ans et se déroule dans un village suédois isolé. Mais ce qui commence comme des vacances insouciantes dans un pays où le soleil ne se couche pas va vite prendre une tournure beaucoup plus sinistre et inquiétante."
+    },
+    {
+      "id": 23,
+      "title": "Millenium",
+      "image": "/img/img-cinema/23-millenium.jpg",
+      "annee": "2009",
+      "realisateur": "Niels Arden Oplev",
+      "synopsis": "Mikael Blomkvist est journaliste économique dans le magazine Millenium. Condamné pour diffamation, il décide de prendre de la distance avec sa vie et son métier. Mais Henrik Vanger, grande figure de l'industrie suédoise, fait appel à lui afin d'enquêter sur une disparition non élucidée, celui d'Harriet Vanger, nièce du grand homme et disparue à l'âge de seize ans. Au cours de ses recherches, Blomkvist se rend compte que La famille Vanger semble cacher bien des haines et des secrets. Dans le cadre de son enquête, le journaliste est amené à rencontrer Lisbeth Salander. La jeune femme de vingt-quatre ans possède un don exceptionnel, celui de découvrir des informations introuvables. Tous deux vont être amenés à se croiser dans une enquête qui va révéler beaucoup plus que ce que chacun aurait pu imaginer..."
+    },
+    {
+      "id": 24,
+      "title": "Minority report",
+      "image": "/img/img-cinema/24-minority-report.webp",
+      "annee": "2002",
+      "realisateur": "Steven Spielberg",
+      "synopsis": "A Washington, en 2054, la société du futur a éradiqué le meurtre en se dotant du système de prévention / détection / répression le plus sophistiqué du monde. Dissimulés au coeur du Ministère de la Justice, trois extra-lucides captent les signes précurseurs des violences homicides et en adressent les images à leur contrôleur, John Anderton, le chef de la Précrime devenu justicier après la disparition tragique de son fils. Celui-ci n'a alors plus qu'à lancer son escouade aux trousses du coupable... Mais un jour se produit l'impensable : l'ordinateur lui renvoie sa propre image. D'ici 36 heures, Anderton aura assassiné un parfait étranger. Devenu la cible de ses propres troupes, Anderton prend la fuite. Son seul espoir pour déjouer le complot : dénicher sa future victime ; sa seule arme : les visions parcellaires, énigmatiques, de la plus fragile des Pré-Cogs : Agatha."
+    },
+    {
+      "id": 25,
+      "title": "Céline",
+      "image": "/img/img-cinema/25-celine.jpeg",
+      "annee": "1992",
+      "realisateur": "Jean-Claude Brisseau",
+      "synopsis": "Céline, jeune femme au bord du suicide, est recueillie par Geneviève, infirmière qui l'apaise et la soigne en lui apprenant les techniques de relaxation. Céline prend goût à ces exercices et se perd en méditation. Mais bientôt des phénomènes étranges se passent en elle et autour d'elle."
+    },
+    {
+      "id": 26,
+      "title": "Music box",
+      "image": "/img/img-cinema/26-music-box.avif",
+      "annee": "1989",
+      "realisateur": "Costa Gavras",
+      "synopsis": "Ann Talbot, brillante avocate de Chicago, est amenée à défendre son père, poursuivi pour crimes de guerre. Michael Laszlo a fui la Hongrie à la fin de la Seconde Guerre mondiale et s'est refugié aux Etats-Unis. Après quarante-cinq ans de vie paisible et honnête, il est convoqué par le bureau des enquêtes spéciales. Des preuves accablantes ont été réunies contre lui et de nombreux témoins auraient reconnu en lui un tortionnaire nazi. Pour Ann, il s'agit de démonter un traquenard politique, mais l'enquête qu'elle entreprend va s'avérer plus complexe que prévu."
+    },
+    {
+      "id": 27,
+      "title": "Mysterious skin",
+      "image": "/img/img-cinema/27-mysterious-skin.jpg",
+      "annee": "2004",
+      "realisateur": "Gregg Araki",
+      "synopsis": "A huit ans, Brian Lackey se réveille dans la cave de sa maison, le nez en sang, sans aucune idée de ce qui a pu lui arriver. Sa vie change complètement après cet incident : peur du noir, cauchemars, évanouissements... Dix ans plus tard, il est certain d'avoir été enlevé par des extraterrestres et pense que seul Neil Mc Cormick pourrait avoir la clé de l'énigme. Ce dernier est un outsider à la beauté du diable, une petite frappe dont tout le monde tombe amoureux mais qui ne s'attache à personne. Il regrette encore la relation qu'il avait établie avec son coach de baseball quand il avait huit ans. Brian tente de retrouver Neil pour dénouer le mystère qui les empêche de vivre."
+    },
+    {
+      "id": 28,
+      "title": "Potiche",
+      "image": "/img/img-cinema/28-potiche.jpg",
+      "annee": "2010",
+      "realisateur": "François Ozon",
+      "synopsis": "En 1977, dans une province de la bourgeoisie française, Suzanne Pujol est l’épouse popote et soumise d’un riche industriel Robert Pujol. Il dirige son usine de parapluies d’une main de fer et s’avère aussi désagréable et despote avec ses ouvriers qu’avec ses enfants et sa femme, qu’il prend pour une potiche. À la suite d’une grève et d’une séquestration de son mari, Suzanne se retrouve à la direction de l’usine et se révèle à la surprise générale une femme de tête et d’action. Mais lorsque Robert rentre d’une cure de repos en pleine forme, tout se complique…"
+    },
+    {
+      "id": 29,
+      "title": "Ridicule",
+      "image": "/img/img-cinema/29-ridicule.jpg",
+      "annee": "1996",
+      "realisateur": "Patrice Lecomte",
+      "synopsis": "A travers les aventures de Grégoire Ponceludon de Malavoy, issu d'une famille d'ancienne noblesse tombée dans la précarite, une étude de la cour de Louis XVI et ses antichambres à Versailles en 1780, ou déjà la spiritualité avait pour ennemi mortel le ridicule."
+    },
+    {
+      "id": 30,
+      "title": "Tamara Drewe",
+      "image": "/img/img-cinema/30-tamara-drewe.webp",
+      "annee": "2010",
+      "realisateur": "Stephen Frears",
+      "synopsis": "Avec son nez refait, ses jambes interminables, son job dans la presse people, ses aspirations à la célébrité et sa facilité à briser les coeurs, Tamara Drewe est l'Amazone londonienne du XXIe siècle. Son retour au village où vécut sa mère est un choc pour la petite communauté qui y prospère en paix. Hommes et femmes, bobos et ruraux, auteur de best-sellers, universitaire frustré, rock star au rancart ou fils du pays, tous sont attirés par Tamara dont la beauté pyromane et les divagations amoureuses éveillent d'obscures passions et vont provoquer un enchaînement de circonstances aussi absurdes que poignantes."
+    },
+    {
+      "id": 31,
+      "title": "The Truman show",
+      "image": "/img/img-cinema/31-the-truman-show.png",
+      "annee": "1998",
+      "realisateur": "Peter Weir",
+      "synopsis": "Truman Burbank mène une vie calme et heureuse. Il habite dans un petit pavillon propret de la radieuse station balnéaire de Seahaven. Il part tous les matins à son bureau d'agent d'assurances dont il ressort huit heures plus tard pour regagner son foyer, savourer le confort de son habitat modèle, la bonne humeur inaltérable et le sourire mécanique de sa femme, Meryl. Mais parfois, Truman étouffe sous tant de bonheur et la nuit l'angoisse le submerge. Il se sent de plus en plus étranger, comme si son entourage jouait un rôle. Il se sent observé..."
+    },
+    {
+      "id": 32,
+      "title": "Titanic",
+      "image": "/img/img-cinema/32-titanic.jpg",
+      "annee": "1997",
+      "realisateur": "James Cameron",
+      "synopsis": "Southampton, 10 avril 1912. Le paquebot le plus grand et le plus moderne du monde, réputé pour son insubmersibilité, le Titanic, appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. A son bord, un artiste pauvre et une grande bourgeoise tombent amoureux."
+    },
+    {
+      "id": 33,
+      "title": "Total recall",
+      "image": "/img/img-cinema/33-total-recall.jpg",
+      "annee": "1990",
+      "realisateur": "Paul Verhoeven",
+      "synopsis": "La planète Terre, 2048. Hanté par un cauchemar qui l’entraîne chaque nuit sur Mars, Doug Quaid s’adresse à un laboratoire, Rekall, qui lui offre de matérialiser son rêve grâce à un puissant hallucinogène. Mais l’expérience dérape : la drogue réveille en lui le souvenir d’un séjour bien réel sur Mars, à l’époque où il était l’agent le plus redouté du despote Cohaagen. Des tueurs désormais à ses trousses, Quaid décide de repartir sur la planète rouge où l’attendent d’autres souvenirs et bien d’autres dangers..."
+    },
+    {
+      "id": 34,
+      "title": "Trois couleurs: Rouge",
+      "image": "/img/img-cinema/34-trois-couleurs-rouge.jpg",
+      "annee": "1994",
+      "realisateur": "Krzysztof Kieslowski",
+      "synopsis": "Dans ce troisième volet qui conclut les trois couleurs, une jeune femme, Valentine, étudiante de l'université de Genève, modèle, écrase un chien. Le chien est juste blessé. Sur une plaque, attachée a son collier, Valentine trouve l'adresse du propritétaire. C'est un juge..."
+    },
+    {
+      "id": 35,
+      "title": "We need to talk about Kevin",
+      "image": "/img/img-cinema/35-we-need-to-talk-about-kevin.jpg",
+      "annee": "2011",
+      "realisateur": "Lynne Ramsay",
+      "synopsis": "Eva a mis sa vie professionnelle et ses ambitions personnelles entre parenthèses pour donner naissance à Kevin. La communication entre mère et fils s’avère d’emblée très compliquée. A l’aube de ses 16 ans, il commet l’irréparable. Eva s’interroge alors sur sa responsabilité. En se remémorant les étapes de sa vie avant et avec Kevin, elle tente de comprendre ce qu’elle aurait pu ou peut-être dû faire."
+    },
+    {
+      "id": 36,
+      "title": "Valley of love",
+      "image": "/img/img-cinema/36-valley-of-love.jpg",
+      "annee": "2015",
+      "realisateur": "Guillaume Nicloux",
+      "synopsis": "Isabelle et Gérard se rendent à un étrange rendez-vous dans la Vallée de la mort, en Californie. Ils ne se sont pas revus depuis des années et répondent à une invitation de leur fils Michael, photographe, qu'ils ont reçue après son suicide, 6 mois auparavant. Malgré l'absurdité de la situation, ils décident de suivre la programme initiatique imaginé par Michael..."
+    },
+    {
+      "id": 37,
+      "title": "The Bubble",
+      "image": "/img/img-cinema/37-the-bubble.jpg",
+      "annee": "2006",
+      "realisateur": "Eytan Fox",
+      "synopsis": "Trois jeunes Israéliens, Noam, disquaire, Yali, gérant de café, et Lulu, vendeuse dans une boutique de produits de beauté, partagent un appartement dans un quartier branché de Tel-Aviv, symbole de cette bulle, surnom donné à la ville. Dans ce cocon quasi déconnecté de la réalité des territoires et des conflits politiques qui agitent le pays, ils mènent une existence tout à fait ordinaire, préférant se concentrer sur leur vie amoureuse. Leur quotidien va pourtant être bouleversé par l'arrivée d'Ashraf, un Palestinien dont Noam tombe amoureux lors d'un incident au Check Point de Naplouse."
+    },
+
+    {
+      "id": 38,
+      "title": "Le diable par la queue",
+      "image": "/img/img-cinema/38-le-diable-par-la-queue.jpg",
+      "annee": "1969",
+      "realisateur": "Philippe de Broca",
+      "synopsis": "Une famille d'aristocrates désargentés a transformé son château en hôtel. Malgré la bonne volonté de chacun, l’isolement du manoir ne s’avère guère propice aux affaires. Pour remédier à cela, la jolie Amélie séduit Charles, un jeune garagiste, qui accepte de rabattre vers leur établissement les clients de sa station-service en mettant leur voiture en panne. Un certain nombre de voyageurs se retrouvent ainsi immobilisés un soir d'orage. Parmi eux, un insolite trio : le baron César Anselme de Maricorne, flanqué de ses deux secrétaires. Cet homme séduisant est en réalité un dangereux gangster qui vient de réussir un hold-up de 50 millions de francs..."
+    },
+
+    {
+      "id": 39,
+      "title": "Parasite",
+      "image": "/img/img-cinema/39-parasite.webp",
+      "annee": "2019",
+      "realisateur": "Bong Joon-Ho",
+      "synopsis": "Toute la famille de Ki-taek est au chômage, et s’intéresse fortement au train de vie de la richissime famille Park. Un jour, leur fils réussit à se faire recommander pour donner des cours particuliers d’anglais chez les Park. C’est le début d’un engrenage incontrôlable, dont personne ne sortira véritablement indemne..."
+    },
+    {
+      "id": 40,
+      "title": "Marie-Antoinette",
+      "image": "/img/img-cinema/40-marie-antoinette.webp",
+      "annee": "2006",
+      "realisateur": "Sofia Coppola",
+      "synopsis": "Évocation de la vie de la reine d'origine autrichienne, épouse mal-aimée de Louis XVI, guillotinée en 1793. Au sortir de l'adolescence, une jeune fille découvre un monde hostile et codifié, un univers frivole où chacun observe et juge l'autre sans aménité. Mariée à un homme maladroit qui la délaisse, elle est rapidement lassée par les devoirs de représentation qu'on lui impose. Elle s'évade dans l'ivresse de la fête et les plaisirs des sens pour réinventer un monde à elle. Y a-t-il un prix à payer à chercher le bonheur que certains vous refusent ?"
+    },
+    {
+      "id": 41,
+      "title": "Elle",
+      "image": "/img/img-cinema/41-elle.jpg",
+      "annee": "2016",
+      "realisateur": "Paul Verhoeven",
+      "synopsis": "Michèle fait partie de ces femmes que rien ne semble atteindre. À la tête d'une grande entreprise de jeux vidéo, elle gère ses affaires comme sa vie sentimentale : d'une main de fer. Sa vie bascule lorsqu’elle est agressée chez elle par un mystérieux inconnu. Inébranlable, Michèle se met à le traquer en retour. Un jeu étrange s'installe alors entre eux. Un jeu qui, à tout instant, peut dégénérer."
+    },
+    {
+      "id": 42,
+      "title": "Brazil",
+      "image": "/img/img-cinema/42-brazil.jpg",
+      "annee": "1985",
+      "realisateur": "Terry Gilliam",
+      "synopsis": "Sam Lowry, fonctionnaire modèle d'une mégapole étrange, à la fois d'hier, beaucoup d'aujourd'hui et tout à fait de demain, a des problèmes avec sa maman et avec l'Etat, tout puissant. Pour couronner le tout, des songes bizarres l'entraînent chaque nuit sur les ailes d'Icare, à la recherche d'une jeune femme blonde, évanescente, inaccessible. Chaque fois qu'il est sur le point de l'atteindre, leurs trajectoires se séparent et le songe s'interrompt cruellement. Pourtant une nuit, la belle Jill Layton entre dans sa vie... Par le biais d'une erreur dans la machinerie fantastique qui préside à l'organisation de la vie quotidienne des citoyens de cette ville étrange, l'Ordinateur suprême a désigné le brave Buttle à la place de l'escroc Tuttle, activement recherché. Après le décès fâcheux du pauvre Buttle, Saw Lowry, jusque là employé rampant, est promu au Service des Recherches, très brigué... pour dédommager la veuve du défunt. La belle Jill habite au dessus de l'infortunée famille... En fait de recherches, Sam va passer son temps à retrouver la femme de ses rêves. Sa maman, elle, a des soucis beaucoup plus terre-à-terre. Elle surveille fébrilement les résultats des multiples interventions de chirurgie plastique réalisées par une sorte de Grand-Maître d'une secte étrange dans cet univers incroyable. Et son cher garçon suit attentivement les évolutions du visage et du corps de sa mère, ainsi que celles, nettement plus catastrophiques, de sa tante, soumise aux mêmes supplices vécus avec délice, comme une règle de vie impérative là-bas : rester jeune. Tout cela dans un univers de tuyaux, de pompes géantes, une sorte de ville-poumon gigantesque d'où Sam sortira amplement vainqueur de toutes les embûches pour retrouver sa belle. Mais à quel prix..."
+    },
+    {
+      "id": 43,
+      "title": "Usual Suspects",
+      "image": "/img/img-cinema/43-usual-suspects.jpg",
+      "annee": "1995",
+      "realisateur": "Bryan Singer",
+      "synopsis": "À la suite d’une dénonciation anonyme, la police new-yorkaise arrête cinq gangsters suspectés d’avoir détourné un camion d’armes. Faute de preuve, elle les relâche, ignorant encore que cette arrestation va provoquer un engrenage de violence qui conduira jusqu’à l’explosion d’un bateau en Californie quinze jours plus tard. Bilan : 27 morts et 91 millions de dollars volatilisés dans la nature. Le survivant de cette tragédie, Verbal Kint, est parmi les suspects interrogés. Il faisait partie d’une bande de malfrats qui, sans se connaître, ont été mystérieusement réunis au cours d’une garde à vue à New York, par la seule manipulation d’un certain Keyser Söze, criminel machiavélique possédant une intelligence hors du commun."
+    },
+    {
+      "id": 44,
+      "title": "Interstellar",
+      "image": "/img/img-cinema/44-interstellar.jpg",
+      "annee": "2014",
+      "realisateur": "Christopher Nolan",
+      "synopsis": "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire. "
+    },
+    {
+      "id": 45,
+      "title": "la cérémonie",
+      "image": "/img/img-cinema/45-la-ceremonie.jpg",
+      "annee": "1995",
+      "realisateur": "Claude Chabrol",
+      "synopsis": "Sophie, bonne analphabète et secrète mais dévouée, est engagée au service d'une famille bourgeoise de Saint-Malo. Son amitié avec la postière, curieuse et envieuse, va déclencher une série de drames. Claude Chabrol peint avec noirceur le milieu bourgeois provincial."
+    },
+    {
+      "id": 46,
+      "title": "Maps to the Stars",
+      "image": "/img/img-cinema/46-maps-to-the-stars.webp",
+      "annee": "2014",
+      "realisateur": "David Cronenberg",
+      "synopsis": "A Hollywood, la ville des rêves, se télescopent les étoiles : Benjie, 13 ans et déjà star; son père, Sanford Weiss, auteur à succès et coach des célébrités; sa cliente, la belle Havana Segrand, qu’il aide  à se réaliser en tant que femme et actrice. La capitale du Cinéma promet aussi le bonheur sur pellicule et papier glacé à ceux qui tentent de rejoindre les étoiles: Agatha, une jeune fille devenue, à peine débarquée, l’assistante d’Havana et le séduisant chauffeur de limousine avec lequel elle se lie, Jerome Fontana, qui aspire à la célébrité. Mais alors, pourquoi dit-on qu’Hollywood est la ville des vices et des névroses, des incestes et des jalousies ? La ville des rêves fait revivre les fantômes et promet surtout le déchainement des pulsions et l’odeur du sang."
+    },
+    {
+      "id": 47,
+      "title": "Mulholland Drive",
+      "image": "/img/img-cinema/47-mulholland-drive.webp",
+      "annee": "2001",
+      "realisateur": "David Lynch",
+      "synopsis": "Un violent accident de voiture sur la route de Mulholland Drive sauve une femme de ses poursuivants. Hagarde, la belle s’enfonce dans la nature et se réfugie dans une demeure inoccupée. Le lendemain, Betty Elms débarque à l’aéroport de Los Angeles. Actrice, elle compte bien devenir une star, et sa tante, partie sur un tournage, lui prête son appartement. Dans la salle de bains, Betty découvre avec surprise l’accidentée, terrée et terrifiée. Prise de compassion pour l’infortunée, qui se révèle amnésique, elle décide de l’héberger tout en l’aidant à retrouver peu à peu des bribes de son passé. Leurs seuls indices résident dans un sac rempli d’argent et une mystérieuse clé bleue..."
+    },
+    {
+      "id": 48,
+      "title": "Un jour sans fin",
+      "image": "/img/img-cinema/48-un-jour-sans-fin.jpg",
+      "annee": "1993",
+      "realisateur": "Harold Ramis",
+      "synopsis": "Phil Connors, journaliste à la télévision et responsable de la météo part faire son reportage annuel dans la bourgade de Punxsutawney où l'on fête le Groundhog Day : Jour de la marmotte. Dans l'impossibilité de rentrer chez lui ensuite à Pittsburgh pour cause d'intempéries il se voit forcé de passer une nuit de plus dans cette ville perdue. Réveillé très tôt le lendemain il constate que tout se produit exactement comme la veille et réalise qu'il est condamné à revivre indéfiniment la même journée, celle du 2 février..."
+    },
+    {
+      "id": 49,
+      "title": "Broken flowers",
+      "image": "/img/img-cinema/49-broken-flowers.jpg",
+      "annee": "2005",
+      "realisateur": "Jim Jarmusch",
+      "synopsis": "Célibataire endurci, Don Johnston vient d'être quitté par Sherry, sa dernière conquête. Alors qu'il se résigne une nouvelle fois à vivre seul, il reçoit une lettre anonyme dans laquelle une des anciennes petites amies lui apprend qu'il est le père d'un enfant de 19 ans, et que celui-ci est peut-être parti à sa recherche. Sous les conseils de son meilleur ami Winston, détective amateur, il décide de mener l'enquête afin d'éclaircir ce mystère. Malgré son tempérament casanier, le sédentaire Don se lance alors dans un long périple, au cours duquel il retrouve quatre de ses anciennes amours. A travers ces visites-surprises, Don se retrouve confronté à son passé, et, du même coup, à son présent."
+    },
+    {
+      "id": 50,
+      "title": "Match point",
+      "image": "/img/img-cinema/50-match-point.jpg",
+      "annee": "2005",
+      "realisateur": "Woody Allen",
+      "synopsis": "Jeune prof de tennis issu d'un milieu modeste, Chris Wilton se fait embaucher dans un club huppé des beaux quartiers de Londres. Il ne tarde pas à sympathiser avec Tom Hewett, un jeune homme de la haute société avec qui il partage sa passion pour l'opéra. Très vite, Chris fréquente régulièrement les Hewett et séduit Chloe, la sœur de Tom. Alors qu'il s'apprête à l'épouser et qu'il voit sa situation sociale se métamorphoser, il fait la connaissance de la ravissante fiancée de Tom, Nola Rice, une jeune Américaine venue tenter sa chance comme comédienne en Angleterre..."
+    },
+    {
+      "id": 51,
+      "title": "Melancholia",
+      "image": "/img/img-cinema/51-melancholia.jpg",
+      "annee": "2011",
+      "realisateur": "Lars von Trier",
+      "synopsis": "À l'occasion de leur mariage, Justine et Michael donnent une somptueuse réception dans la maison de la soeur de Justine et de son beau-frère. Pendant ce temps, la planète Melancholia se dirige vers la Terre..."
+    },
+    {
+      "id": 52,
+      "title": "American beauty",
+      "image": "/img/img-cinema/52-american-beauty.jpg",
+      "annee": "1999",
+      "realisateur": "Sam Mendes",
+      "synopsis": "Une maison de rêve, un pavillon bourgeois discrètement cossu dissimule dans une banlieue résidentielle, c'est ici que résident Lester Burnhamm, sa femme Carolyn et leur fille Jane. L'agitation du monde et sa violence semblent bien loin ici. Mais derrière cette respectable façade se tisse une étrange et grinçante tragi-comédie familiale ou désirs inavoués, frustrations et violences refoulées conduiront inexorablement un homme vers la mort."
+    },
+    {
+      "id": 53,
+      "title": "Good Bye, Lenin !",
+      "image": "/img/img-cinema/53-goodbye-lenin.webp",
+      "annee": "2003",
+      "realisateur": "Wolfgang Becker",
+      "synopsis": "Alex, un jeune Berlinois de l'Est, apprend la chute du mur alors que sa mère est dans le coma à la suite d'un infarctus. Celle-ci a toujours été quelqu'un d'actif, participant avec enthousiasme à l'animation d'une chorale. Les mois passent et le coma continue. La ville se transforme, les voitures occidentales sillonnent les rues, les publicités envahissent les murs. Au bout de huit mois, elle ouvre les yeux dans une ville qu'elle ne peut plus reconnaître. Alex veut absolument lui éviter un choc brutal que son coeur affaibli ne pourrait supporter. Profitant de son alitement, avec l'aide de sa famille et de ses amis, il reconstruit autour d'elle son univers familier, convoque les jeunes chanteurs de la chorale, sollicite l'aide d'un ancien cosmonaute, reconverti en chauffeur de taxi, et s'efforce de faire revivre la RDA dans les 79 m² de l'appartement, remis aux normes socialistes."
+    },
+    {
+      "id": 54,
+      "title": "Abyss",
+      "image": "/img/img-cinema/54-abyss.jpg",
+      "annee": "1989",
+      "realisateur": "James Cameron",
+      "synopsis": "Un commando de la Marine américaine débarque à bord de la station de forage sous-marine DeepCore, afin de porter secours à un sous-marin échoué dans les profondeurs. L'équipe de Bud Brigman accueille ces nouveaux arrivants, ainsi que Lindsey, future ex-femme de Bud. Alors que les travaux de récupération commencent autour du submersible naufragé, l'équipage de DeepCore doit faire face à des phénomènes inexpliqués. Et s'ils n'étaient pas seuls, dans les abysses ?"
+    },
+    {
+      "id": 55,
+      "title": "Requiem for a dream",
+      "image": "/img/img-cinema/55-requiem-for-a-dream.webp",
+      "annee": "2000",
+      "realisateur": "Darren Aronofsky",
+      "synopsis": "Sara Goldfarb vit seule à Coney Island. Mère juive veuve et fantasque, elle vit dans l’espoir obsessionnel d’être un jour invité sur le plateau de son émission de télévision préférée. C’est dans cette perspective qu’elle suit un régime draconien, afin d’entrer dans la robe qu’elle portera, lorsque le grand soir sera venu. Son fils Harry est dépendant à la drogue. Avec sa petite amie Marion et son copain Tyrone, ils noient leur quotidien dans d’infantiles visions du paradis terrestre. En quête d’une vie meilleure, le quatuor est entraîné dans une spirale infernale qui les enfonce, toujours un peu plus, dans l’angoisse et l’autodestruction…"
+    },
+    {
+      "id": 56,
+      "title": "Erin Brockovich, seule contre tous",
+      "image": "/img/img-cinema/56-erin-brockovich.jpg",
+      "annee": "2000",
+      "realisateur": "Steven Soderbergh",
+      "synopsis": "Mère élevant seule ses trois enfants, Erin Brockovich n'avait vraiment pas besoin d'un accident de voiture. D'autant que le responsable sort du tribunal financièrement indemne. Obligée de trouver rapidement un travail pour couvrir tous ses frais medicaux et de justice, Erin obtient de son avocat de l'employer comme archiviste dans son cabinet. Son allure et son franc-parler ne lui valent pas des débuts faciles mais elle apprend vite. En classant des documents, Erin déterre une affaire louche d'empoisonnement et décide de se jeter dans la bataille."
+    },
+    {
+      "id": 57,
+      "title": "Sixième Sens",
+      "image": "/img/img-cinema/57-sixieme-sens.jpg",
+      "annee": "1999",
+      "realisateur": "M. Night Shyamalan",
+      "synopsis": "Cole Sear, garconnet de huit ans est hanté par un terrible secret. Son imaginaire est visité par des esprits menaçants. Trop jeune pour comprendre le pourquoi de ces apparitions et traumatisé par ces pouvoirs paranormaux, Cole s'enferme dans une peur maladive et ne veut reveler à personne la cause de son enfermement, à l'exception d'un psychologue pour enfants. La recherche d'une explication rationnelle guidera l'enfant et le thérapeute vers une vérité foudroyante et inexplicable."
+    },
+    {
+      "id": 58,
+      "title": "Le parrain",
+      "image": "/img/img-cinema/58-le-parrain.jpg",
+      "annee": "1972",
+      "realisateur": "Francis Ford Coppola",
+      "synopsis": "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, parrain de cette famille, marie sa fille à un bookmaker. Sollozzo, parrain de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue, mais celui-ci refuse. Sonny, un de ses fils, y est quant à lui favorable. Afin de traiter avec Sonny, Sollozzo tente de faire tuer Don Vito, mais celui-ci en réchappe. Michael, le frère cadet de Sonny, recherche alors les commanditaires de l'attentat et tue Sollozzo et le chef de la police, en représailles. Michael part alors en Sicile, où il épouse Apollonia, mais celle-ci est assassinée à sa place. De retour à New York, Michael épouse Kay Adams et se prépare à devenir le successeur de son père..."
+    },
+    {
+      "id": 59,
+      "title": "Le parrain - 2e Partie",
+      "image": "/img/img-cinema/59-le-parrain-2.webp",
+      "annee": "1974",
+      "realisateur": "Francis Ford Coppola",
+      "synopsis": "Depuis la mort de Don Vito Corleone, son fils Michael règne sur la famille. Amené à négocier avec la mafia juive, il perd alors le soutien d'un de ses lieutenants, Frankie Pentageli. Echappant de justesse à un attentat, Michael tente de retrouver le coupable, soupçonnant Hyman Roth, le chef de la mafia juive.Vito Corleone, immigrant italien, arrive à New York au début du siècle ; très vite, il devient un des caïds du quartier, utilisant la violence comme moyen de régler toutes les affaires. Seul au départ, il bâtit peu à peu un véritable empire, origine de la fortune de la famille des Corleone."
+    },
+    {
+      "id": 60,
+      "title": "Les autres",
+      "image": "/img/img-cinema/60-les-autres.jpg",
+      "annee": "2001",
+      "realisateur": "Alejandro Amenábar",
+      "synopsis": "En 1945, dans une immense demeure victorienne isolée sur l'île de Jersey située au large de la Normandie, vit Grace, une jeune femme pieuse, et ses deux enfants, Anne et Nicholas. Les journées sont longues pour cette mère de famille qui passe tout son temps à éduquer ses enfants en leur inculquant ses principes religieux. Atteints d'un mal étrange, Anne et Nicholas ne doivent en aucun cas être exposés à la lumière du jour. Ils vivent donc reclus dans ce manoir obscur, tous rideaux tirés. Un jour d'épais brouillard, trois personnes frappent à la porte du manoir isolé, en quête d’un travail. Grace, qui a justement besoin d'aide pour l'entretien du parc ainsi que d’une nouvelle nounou pour ses enfants, les engage. Dès lors, des événements étranges surviennent dans la demeure..."
+    },
+    {
+      "id": 61,
+      "title": "My Own Private Idaho",
+      "image": "/img/img-cinema/61-my-own-private-idaho.jpg",
+      "annee": "1991",
+      "realisateur": "Gus Van Sant",
+      "synopsis": "Mike et Scott vivent parmi les marginaux de Portland, partageant leur solitude, les drogues et les hommes ou femmes à qui ils se vendent. Mike est introverti, homo et souffre de crises de narcolepsie. Enfant abandonné, il est obsédé par l'idée de retrouver sa mère. Scott, lui, est le fils du maire de la ville, un homme qu'il déteste et qui cherche à lui imposer un avenir tout tracé. Mike ne cache pas son amour à Scott, qui se refuse pourtant à lui. Ensemble, ils prennent la route pour retrouver la mère de Mike. Le voyage les mène en Idaho, puis au-delà, bouleversant leurs valeurs mutuelles..."
+    },
+    {
+      "id": 62,
+      "title": "The father",
+      "image": "/img/img-cinema/62-the-father.jpg",
+      "annee": "2020",
+      "realisateur": "Floran Zeller",
+      "synopsis": "THE FATHER raconte la trajectoire intérieure d’un homme de 81 ans, Anthony, dont la réalité se brise peu à peu sous nos yeux. Mais c’est aussi l’histoire d’Anne, sa fille, qui tente de l’accompagner dans un labyrinthe de questions sans réponses."
+    },
+    {
+      "id": 63,
+      "title": "L'Armée des 12 singes",
+      "image": "/img/img-cinema/63-larmee-des-12-singes.webp",
+      "annee": "1995",
+      "realisateur": "Terry Gilliam",
+      "synopsis": "Nous sommes en l'an 2035. Les quelques milliers d'habitants qui restent sur notre planète sont contraints de vivre sous terre. La surface du globe est devenue inhabitable à la suite d'un virus ayant décimé 99% de la population. Les survivants mettent tous leurs espoirs dans un voyage à travers le temps pour découvrir les causes de la catastrophe et la prévenir. C'est James Cole, hanté depuis des années par une image incompréhensible, qui est désigné pour cette mission."
+    },
+    {
+      "id": 64,
+      "title": "Volver",
+      "image": "/img/img-cinema/64-volver.webp",
+      "annee": "2006",
+      "realisateur": "Pedro Almodóvar",
+      "synopsis": "Madrid et les quartiers effervescents de la classe ouvrière, où les immigrés des différentes provinces espagnoles partagent leurs rêves, leur vie et leur fortune avec une multitude d'ethnies étrangères. Au sein de cette trame sociale, trois générations de femmes survivent au vent, au feu, et même à la mort, grâce à leur bonté, à leur audace et à une vitalité sans limites."
+    },
+    {
+      "id": 65,
+      "title": "The host",
+      "image": "/img/img-cinema/65-the-host.webp",
+      "annee": "2006",
+      "realisateur": "Bong Joon-Ho",
+      "synopsis": "A Séoul, Gang-du tient un petit snack au bord de la rivière où il vit avec sa famille, dont sa fille adorée Hyun-seo. Un jour, un monstre géant surgit des profondeurs de la rivière et attaque la foule. Gang-du tente de s'enfuir avec sa fille, mais elle est enlevée brusquement par le monstre, qui disparaît au fond de la rivière. La famille Park décide alors de partir à la recherche de la créature, pour retrouver Hyun-seo..."
+    },
+    {
+      "id": 66,
+      "title": "Barry Lyndon",
+      "image": "/img/img-cinema/66-barry-lyndon.webp",
+      "annee": "1975",
+      "realisateur": "Stanley Kubrick",
+      "synopsis": "Au XVIIIe siècle en Irlande, à la mort de son père, le jeune Redmond Barry ambitionne de monter dans l'échelle sociale. Il élimine en duel son rival,un officier britannique amoureux de sa cousine mais est ensuite contraint à l'exil. Il s'engage dans l'armée britannique et part combattre sur le continent européen. Il déserte bientôt et rejoint l'armée prussienne des soldats de Frederic II afin d'échapper à la peine de mort. Envoyé en mission, il doit espionner un noble joueur, mène un double-jeu et se retrouve sous la protection de ce dernier. Introduit dans la haute société européenne, il parvient à devenir l'amant d'une riche et magnifique jeune femme, Lady Lyndon. Prenant connaissance de l'adultère, son vieil époux sombre dans la dépression et meurt de dépit. Redmond Barry épouse Lady Lyndon et devient Barry Lyndon..."
+    },
+    {
+      "id": 67,
+      "title": "Le ruban blanc",
+      "image": "/img/img-cinema/67-le-ruban-blanc.avif",
+      "annee": "2009",
+      "realisateur": "Michael Haneke",
+      "synopsis": "Un village protestant de l'Allemagne du Nord à la veille de la Première Guerre mondiale (1913/1914). L'histoire d'enfants et d'adolescents d'une chorale dirigée par l'instituteur du village et celle de leurs familles : le baron, le régisseur du domaine, le pasteur, le médecin, la sage-femme, les paysans... D'étranges accidents surviennent et prennent peu à peu le caractère d'un rituel punitif. Qui se cache derrière tout cela ?"
+    },
+    {
+      "id": 68,
+      "title": "Dogville",
+      "image": "/img/img-cinema/68-dogville.jpg",
+      "annee": "2003",
+      "realisateur": "Lars von Trier",
+      "synopsis": "Dans les années trente, des coups de feu retentissent un soir dans Dogville, une petite ville des Rocheuses. Grace, une belle femme terrifiée, monte en courant un chemin de montagne où elle fait la rencontre de Tom, un jeune habitant de la bourgade. Elle lui explique qu'elle est traquée par des gangsters et que sa vie est en danger. Encouragée par Tom, la population locale consent à la cacher, en échange de quoi Grace accepte de travailler pour elle. Lorsqu'un avis de recherche est lancé contre la jeune femme, les habitants de Dogville s'estiment en droit d'exiger une compensation, vu le risque qu'ils courent à l'abriter. Mais la pauvre Grace garde en elle un secret fatal qui leur fera regretter leur geste..."
+    },
+    {
+      "id": 69,
+      "title": "Les Chaussons rouges",
+      "image": "/img/img-cinema/69-les-chaussons-rouges.jpg",
+      "annee": "1948",
+      "realisateur": "Michael Powell et Emeric Pressburger",
+      "synopsis": "Vicky, danseuse, et Julian, compositeur, sont engagés dans une troupe de ballet. Tyrannique, le directeur pousse Vicky à s'identifier à l'héroïne du ballet Les Chaussons rouges. Elle y sacrifie tout, même son amour pour Julien."
+    },
+    {
+      "id": 70,
+      "title": "Dans ses yeux",
+      "image": "/img/img-cinema/70-dans-ses-yeux.jpg",
+      "annee": "2009",
+      "realisateur": "Juan José Campanella",
+      "synopsis": "1974, Buenos Aires. Benjamin Esposito enquête sur le meurtre violent d'une jeune femme. 25 ans plus tard, il décide d'écrire un roman basé sur cette affaire classée dont il a été témoin et protagoniste. Ce travail d'écriture le ramène à ce meurtre qui l'obsède depuis tant d'années mais également à l'amour qu'il portait alors à sa collègue de travail. Benjamin replonge ainsi dans cette période sombre de l'Argentine où l'ambiance était étouffante et les apparences trompeuses..."
+    },
+    {
+      "id": 71,
+      "title": "Les diaboliques",
+      "image": "/img/img-cinema/71-les-diaboliques.webp",
+      "annee": "1955",
+      "realisateur": "Henri-Georges Clouzot",
+      "synopsis": "Dans une institution destinée à l'éducation des jeunes garçons, Christina et Nicole, respectivement épouse et maîtresse du directeur Michel Delasalle, s'associent afin d'assassiner l'homme qu'ells ont fini par haïr. Mais quelques jours après leur méfait, le corps de Michel disparaît..."
+    },
+    {
+      "id": 72,
+      "title": "Le vieux fusil",
+      "image": "/img/img-cinema/72-le-vieux-fusil.jpg",
+      "annee": "1975",
+      "realisateur": "Robert Enrico",
+      "synopsis": "Montauban, 1944. Le chirurgien Julien Dandieu y mène une vie paisible avec sa femme, Clara, et leur fille Florence. Cependant, l’invasion allemande ne peut le laisser indifférent : préférant les savoir éloignées des tourments de cette guerre, Julien demande à son ami François de les conduire à la campagne, où cette famille possède un château. Une semaine plus tard, ne supportant plus l’absence des siens, Julien rejoint sa famille pour découvrir, avec effroi, que les Allemands ont déjà semé la terreur dans le village."
+    },
+    {
+      "id": 73,
+      "title": "L'Incinérateur de cadavres",
+      "image": "/img/img-cinema/73-lincinerateur-de-cadavres.jpg",
+      "annee": "1969",
+      "realisateur": "Juraj Herz",
+      "synopsis": "Monsieur Kopfrkingl, homme brave et peu avare de sa personne, exerce son métier d’incinérateur avec un amour troublant. Et cherche à développer son commerce, qu'il considère comme un bienfait pour l'humanité. Il revoit par hasard un compagnon d'armes – et sympathisant nazi  – qui lui suggère qu'il pourrait avoir du sang allemand dans les veines. Sa vision du monde commence alors à changer... assez radicalement."
+    },
+    {
+      "id": 74,
+      "title": "Les Funérailles des roses",
+      "image": "/img/img-cinema/74-les-funerailles-des-roses.webp",
+      "annee": "1969",
+      "realisateur": "Toshio Matsumoto",
+      "synopsis": "Tokyo, fin des années 1960. Eddie, jeune drag-queen, est la favorite de Gonda, propriétaire du bar Genet où elle travaille. Cette relation provoque la jalousie de la maîtresse de Gonda, Leda, drag-queen plus âgée et matrone du bar. Eddie et Gonda se demandent alors comment se débarrasser de cette dernière..."
+    },
+    {
+      "id": 75,
+      "title": "Maris et Femmes",
+      "image": "/img/img-cinema/75-maris-et-femmes.jpg",
+      "annee": "1992",
+      "realisateur": "Woody Allen",
+      "synopsis": "Au cours d'une soirée, Jack et Sally annoncent à leurs amis Gabe et Judy Roth leur intention de se séparer par consentement mutuel. Seulement, leur grande complicité va devenir un mur insurmontable à cette séparation.Gabe et Judy, pour leur part, voient leur couple se défaire au contact de leurs rencontres respectives et du poids de trop de non-dits."
+    },
+    {
+      "id": 76,
+      "title": "Les Filles d'Avril",
+      "image": "/img/img-cinema/76-les-filles-davril.avif",
+      "annee": "2017",
+      "realisateur": "Michel Franco",
+      "synopsis": "Valeria est enceinte, et amoureuse. A seulement 17 ans, elle a décidé avec son petit ami de garder l'enfant. Très vite dépassée par ses nouvelles responsabilités, elle appelle à l'aide sa mère Avril, installée loin d'elle et de sa sœur. À son arrivée, Avril prend les choses en mains, et remplace progressivement sa fille dans son quotidien... Jusqu'à franchir la limite. "
+    },
+    {
+      "id": 77,
+      "title": "Sueurs froides (Vertigo)",
+      "image": "/img/img-cinema/77-sueurs-froides.jpg",
+      "annee": "1958",
+      "realisateur": "Alfred Hitchcock",
+      "synopsis": "Scottie est sujet au vertige, ce qui lui porte préjudice dans son métier de policier. Rendu responsable de la mort d'un de ses collègues, il décide de quitter la police. Une ancienne relation le contacte afin qu'il suive sa femme, possédée selon lui par l'esprit de son aïeule. Scottie s'éprend de la jeune femme et se trouve ballotté par des évènements qu'il ne peut contrôler."
+    },
+    {
+      "id": 78,
+      "title": "Une journée particulière",
+      "image": "/img/img-cinema/78-une-journee-particuliere.jpg",
+      "annee": "1977",
+      "realisateur": "Ettore Scola",
+      "synopsis": "A Rome le 6 mai 1938. Alors que tous les habitants de l'immeuble assistent au défilé du Duce Mussolini et d'Hitler, une mère de famille nombreuse et un homosexuel se rencontrent."
+    },
+    {
+      "id": 79,
+      "title": "Metropolis",
+      "image": "/img/img-cinema/79-metropolis.jpg",
+      "annee": "1927",
+      "realisateur": "Fritz Lang",
+      "synopsis": "Des ouvriers travaillent dans les souterrains d'une fabuleuse métropole de l'an 2026. Ils assurent le bonheur des nantis qui vivent dans les jardins suspendus de la ville. Un androïde mène les ouvriers vers la révolte."
+    },
+    {
+      "id": 80,
+      "title": "Un thé au Sahara",
+      "image": "/img/img-cinema/80-un-the-au-sahara.jpg",
+      "annee": "1990",
+      "realisateur": "Bernardo Bertolucci",
+      "synopsis": "En 1947 un jeune couple d'Americains, Port Moresby et Kit, partent pour l'Afrique à la recherche de leur amour que la civilisation d'après-guerre perturbe. Pour Bertolucci le livre de Bowles raconte une belle histoire d'amour, une histoire d'amour banale entre deux personnes très compliquées qui s'adorent mais ne peuvent pas trouver le bonheur ensemble."
+    },
+    {
+      "id": 81,
+      "title": "Annie Hall",
+      "image": "/img/img-cinema/81-annie-hall.jpg",
+      "annee": "1977",
+      "realisateur": "Woody Allen",
+      "synopsis": "A l'aube de ses quarante ans, Alvy Singer fait le bilan de la situation. Une introspection sur sa dernière rencontre, Annie Hall, qui vient de le quitter, et un hommage à la ville qu'il aime, New York."
+    },
+    {
+      "id": 82,
+      "title": "Panique",
+      "image": "/img/img-cinema/82-panique.jpg",
+      "annee": "1947",
+      "realisateur": "Julien Duvivier",
+      "synopsis": "Monsieur Hire est un homme que les villageois jugent comme bizarre et presque inquiétant. Lorsqu'un crime est commis, le vrai coupable cherche donc à faire porter le chapeau à ce coupable idéal."
+    },
+    {
+      "id": 83,
+      "title": "Tous les autres s'appellent Ali",
+      "image": "/img/img-cinema/83-tous-les-autres-sappellent-ali.jpg",
+      "annee": "1974",
+      "realisateur": "Rainer Werner Fassbinder",
+      "synopsis": "Dans un café fréquenté par des travailleurs immigrés, Emmi, veuve d'une soixantaine d'années, fait la connaissance d'Ali, un Marocain plus jeune qu'elle. Ali s'installe chez elle dès le lendemain, puis ils se marient. Les enfants d'Emmi, ses voisins, ses collègues, tous sont scandalisés par cette union. Le couple est mis à l'écart, mais va vite se révéler indispensable à la communauté..."
+    },
+    {
+      "id": 84,
+      "title": "Quai des Orfèvres",
+      "image": "/img/img-cinema/84-quai-des-orfevres.jpg",
+      "annee": "1947",
+      "realisateur": "Henri-Georges Clouzot",
+      "synopsis": "Jenny Lamour, chanteuse de music-hall douée, ne manque pas d'ambition. Elle accepte l'invitation à dîner de Brignon, homme riche et puissant qui peut l'aider dans sa carrière malgré l'opposition de Maurice, son époux. Jaloux et se croyant trompé, Maurice se précipite chez Brignon pour découvrir son rival assassiné."
+    },
+    {
+      "id": 85,
+      "title": "Point limite",
+      "image": "/img/img-cinema/85-point-limite.png",
+      "annee": "1964",
+      "realisateur": "Sidney Lumet",
+      "synopsis": "La défaillance d'un minuscule transistor provoque l'alarme au Strategic Air Command où sont surveillées les mouvements de tous les avions du monde. Cette défaillance fait croire à l'existence d'un engin non identifié. Une escadrille de bombardiers atomiques est envoyée en direction de Moscou."
+    },
+    {
+      "id": 86,
+      "title": "L'Homme qui tua Liberty Valance",
+      "image": "/img/img-cinema/86-lhomme-qui-tua-liberty-valance.jpg",
+      "annee": "1962",
+      "realisateur": "John Ford",
+      "synopsis": "Un homme politique reconnu, Ransom Stoddad, assiste à l'enterrement de son ami Tom Doniphon avec sa femme. C'est pour lui l'occasion de revenir avec un journaliste sur les moments importants de sa vie, notamment son arrivée dans l'Ouest, l'arrestation de sa diligeance par le célèbre bandit Liberty Valance, sa volonté de se venger de celui-ci. Jadis, Donophon était devenu son allié..."
+    },
+    {
+      "id": 87,
+      "title": "Punishment park",
+      "image": "/img/img-cinema/87-punishment-park.jpg",
+      "annee": "1971",
+      "realisateur": "Peter Watkins",
+      "synopsis": "Fable politique inspirée par l'application du McCarren Act, une loi d'exception votée en 1970 à la faveur d'une aggravation du conflit au Nord-Vietnam, autorisant à placer en détention toute personne susceptible de porter atteinte à la sécurité intérieure. Dans une zone désertique du sud de la Californie, un groupe de condamnés est amené, contre la promesse de leur libération, à traverser le désert à pied, sans eau ni nourriture, pour atteindre le drapeau américain sans être capturés par les forces spéciales armées et motorisées lancées à leur poursuite."
+    },
+    {
+      "id": 88,
+      "title": "Tout ce que le ciel permet",
+      "image": "/img/img-cinema/88-tout-ce-que-le-ciel-permet.webp",
+      "annee": "1955",
+      "realisateur": "Douglas Sirk",
+      "synopsis": "Veuve d'âge mûr, Carey Scott mène une vie terne et sans histoire dans une petite localité de Nouvelle-Angleterre, se consacrant au bonheur de ses deux enfants Ned et Kay, qui viennent d'entrer à l'Université. Mais Carey rêve encore d'un grand amour. C'est dans cette disposition d'esprit qu'elle rencontre Ron Kirby, le séduisant pépiniériste - de quinze ans plus jeune qu'elle - engagé par ses soins pour s'occuper de son jardin..."
+    },
+    {
+      "id": 89,
+      "title": "Sauvage",
+      "image": "/img/img-cinema/89-sauvage.jpg",
+      "annee": "2018",
+      "realisateur": "Camille Vidal-Naquet",
+      "synopsis": "Léo, 22 ans, se vend dans la rue pour un peu d’argent. Les hommes défilent. Lui reste là, en quête d’amour. Il ignore de quoi demain sera fait. Il s’élance dans les rues. Son cœur bat fort."
+    },
+    {
+      "id": 90,
+      "title": "Les Garçons de la bande",
+      "image": "/img/img-cinema/90-les-garçons-de-la-bande.avif",
+      "annee": "1970",
+      "realisateur": "William Friedkin",
+      "synopsis": "Harold fête son anniversaire chez Michael. Ses amis lui ont réservé un présent peu commun : un beau jeune homme. La soirée se déroule bien mais se dégrade sous l'effet de l'alcool. Chacun laisse alors éclater ses rancoeurs."
+    },
+    {
+      "id": 91,
+      "title": "Et vogue le navire...",
+      "image": "/img/img-cinema/91-et-vogue-le-navire.jpg",
+      "annee": "1983",
+      "realisateur": "Federico Fellini",
+      "synopsis": "Au mois de juillet 1914, dans le port de Naples, le «Gloria», un paquebot, doit bientôt partir vers l'île natale d'Edmée Tetua, célèbre cantatrice, dont les cendres doivent être dispersées en mer. A bord du navire, Orlando, un journaliste, mais aussi de nombreux officiels, des amis de la disparue ainsi que plusieurs artistes. La traversée se déroule paisiblement, rythmée par des spectacles improvisés par les prestigieux passagers. En chemin, le navire recueille un groupe de réfugiés serbes en fuite. Peu de temps après, un cuirassé autrichien réclame ces hommes à l'équipage. L'inspiration fellinienne est toujours là et ce superbe voyage, aux confins du rêve, est une nouvelle facette de l'oeuvre d'un cinéaste à l'inspiration toujours renouvellée."
+    },
+    {
+      "id": 92,
+      "title": "La zone d'intérêt",
+      "image": "/img/img-cinema/92-la-zone-dinteret.jpg",
+      "annee": "2023",
+      "realisateur": "Jonathan Glazer",
+      "synopsis": "Le commandant d’Auschwitz, Rudolf Höss, et sa femme Hedwig s’efforcent de construire une vie de rêve pour leur famille dans une maison avec jardin à côté du camp."
+    },
+    {
+      "id": 93,
+      "title": "Japanese Story",
+      "image": "/img/img-cinema/93-japanese-story.jpg",
+      "annee": "2003",
+      "realisateur": "Sue Brooks",
+      "synopsis": "Associée à un de ses amis dans une société de logiciels spécialisée en cartes géologiques, Sandy, passionnée par son travail et évidemment débordée, se retrouve dans l'obligation de gérer le séjour d'un homme d'affaires japonais, client potentiel. Leur première rencontre est un véritable fiasco. Pour Sandy, Hiromitsu est froid, antipathique, sexiste et un peu volubile. Lui la considère comme une femme très impolie, arrogante, peu attrayante, tout juste bonne à lui servir de guide, car il veut absolument visiter le désert du Pilbara. Cette expérience, extraordinaire sous bien des aspects, va les amener à reconsidérer leurs a priori."
+    },
+    {
+      "id": 94,
+      "title": "Soleil trompeur",
+      "image": "/img/img-cinema/94-soleil-trompeur.jpg",
+      "annee": "1994",
+      "realisateur": "Nikita Mikhalkov",
+      "synopsis": "A travers l'histoire de Dimitri et de Maroussia, hommage aux victimes et à tous ceux qui ont été brûles par le soleil trompeur de la révolution."
+    },
+    {
+      "id": 95,
+      "title": "L'Enlèvement de Michel Houellebecq",
+      "image": "/img/img-cinema/95-lenlevement-de-michel-houellebecq.jpg",
+      "annee": "2014",
+      "realisateur": "Guillaume Nicloux",
+      "synopsis": "Michel Houellebecq vit selon des règles précises et immuables. Mais un matin, sa vie bascule. Il est enlevé."
+    },
+    {
+      "id": 96,
+      "title": "Le Hasard",
+      "image": "/img/img-cinema/96-le-hasard.jpg",
+      "annee": "1987",
+      "realisateur": "Krzysztof Kieslowski",
+      "synopsis": "Trois versions du destin d'un jeune homme indécis suivant qu'il prend ou rate un train."
+    },
+    {
+      "id": 97,
+      "title": "Matrix",
+      "image": "/img/img-cinema/97-matrix.jpg",
+      "annee": "1999",
+      "realisateur": "Lilly Wachowski et Lana Wachowski",
+      "synopsis": "Programmeur anonyme dans un service administratif le jour, Thomas Anderson devient Neo la nuit venue. Sous ce pseudonyme, il est l'un des pirates les plus recherchés du cyber-espace. A cheval entre deux mondes, Neo est assailli par d'étranges songes et des messages cryptés provenant d'un certain Morpheus. Celui-ci l'exhorte à aller au-delà des apparences et à trouver la réponse à la question qui hante constamment ses pensées : qu'est-ce que la Matrice ? Nul ne le sait, et aucun homme n'est encore parvenu à en percer les defenses. Mais Morpheus est persuadé que Neo est l'Elu, le libérateur mythique de l'humanité annoncé selon la prophétie. Ensemble, ils se lancent dans une lutte sans retour contre la Matrice et ses terribles agents..."
+    },
+    {
+      "id": 98,
+      "title": "Basic Instinct",
+      "image": "/img/img-cinema/98-basic-instinct.webp",
+      "annee": "1992",
+      "realisateur": "Paul Verhoeven",
+      "synopsis": "Nick Curran, inspecteur de police à San Francisco, enquête sur le meurtre d'une star du rock, Johnny Boz, tué de trente et un coups de pic à glace par une inconnue alors qu'il faisait l'amour. Nick apprend que le chanteur fréquentait Catherine Tramell, riche et brillante romanciere. Au cours de son enquête, il s'apercoit que les parents de Catherine sont morts dans un accident suspect, que son professeur de psychologie a été assassiné dix ans plus tôt à coups de pic à glace et qu'enfin, une de ses meilleures amies a, en 1956, tué ses trois enfants et son mari."
+    },
+    {
+      "id": 99,
+      "title": "Last Action Hero",
+      "image": "/img/img-cinema/99-last-action-hero.webp",
+      "annee": "1993",
+      "realisateur": "John McTiernan",
+      "synopsis": "Grâce a un billet magique, Danny Madigan, un enfant de onze ans, peut vivre les aventures de son policier préferé, Slater, croisé des temps modernes. Ensemble ils affrontent force danger et triomphent toujours. Mais les choses se compliquent lorsque des personnes mal intentionnées s'emparent du billet magique et gagnent New York, ou le crime paie encore plus qu'au cinéma."
+    },
+    {
+      "id": 100,
+      "title": "3 Billboards - Les Panneaux de la vengeance",
+      "image": "/img/img-cinema/100-3-billboards.webp",
+      "annee": "2017",
+      "realisateur": "Martin McDonagh",
+      "synopsis": "Après des mois sans que l'enquête sur la mort de sa fille ait avancé, Mildred Hayes prend les choses en main, affichant un message controversé visant le très respecté chef de la police sur trois grands panneaux à l'entrée de leur ville."
+    },
+    {
+      "id": 101,
+      "title": "Bienvenue à Zombieland",
+      "image": "/img/img-cinema/101-bienvenue-à-zombieland.jpg",
+      "annee": "2009",
+      "realisateur": "Ruben Fleischer",
+      "synopsis": "Dans un monde infesté de zombies, deux hommes tentent de survivre. Columbus, le plus jeune, est terrorisé à l'idée d'être dévoré. C'est une poule mouillée, mais sa prudence pourrait bien lui sauver la vie... Tallahassee, lui, est un chasseur de zombies qui ne craint plus rien ni personne. Armé d'un fusil d'assaut, il se donne corps et âme à la seule mission qui compte pour lui : trouver les derniers exemplaires de ses biscuits préférés, des Twinkies, encore disponibles sur Terre. Dans leur périple, les deux survivants sont rejoints par Wichita et Little Rock, deux jeunes filles. Tous ont désormais deux défis impossibles à relever : affronter les zombies et apprendre à s'entendre..."
+    },
+    {
+      "id": 102,
+      "title": "Stoker",
+      "image": "/img/img-cinema/102-stoker.jpg",
+      "annee": "2012",
+      "realisateur": "Park Chan-Wook",
+      "synopsis": "Après la mort de son père dans un étrange accident de voiture, India, une adolescente, voit un oncle dont elle ignorait l’existence, venir s’installer avec elle et sa mère. Rapidement, la jeune fille se met à soupçonner l’homme d’avoir d’autres motivations que celle de les aider. La méfiance s’installe, mais l’attirance aussi…"
+    },
+    {
+      "id": 103,
+      "title": "La nuit nous appartient",
+      "image": "/img/img-cinema/103-la-nuit-nous-appartient.jpeg",
+      "annee": "2007",
+      "realisateur": "James Gray",
+      "synopsis": "New York, fin des années 80. Bobby est le jeune patron d'une boite de nuit branchée appartenant aux Russes. Avec l'explosion du trafic de drogue, la mafia russe étend son influence sur le monde de la nuit. Pour continuer son ascension, Bobby doit cacher ses liens avec sa famille. Seule sa petite amie, Amada est au courant : son frère, Joseph, et son père, Burt, sont des membres éminents de la police new-yorkaise... Chaque jour, l'affrontement entre la mafia russe et la police est de plus en plus violent, et face aux menaces qui pèsent contre sa famille Bobby va devoir choisir son camp..."
+    },
+    {
+      "id": 104,
+      "title": "2001 : L'Odyssée de l'espace",
+      "image": "/img/img-cinema/104-2001-lodyssee-de-lespace.jpg",
+      "annee": "1968",
+      "realisateur": "Stanley Kubrick",
+      "synopsis": "A l'aube de l'Humanité, dans le désert africain, une tribu de primates subit les assauts répétés d'une bande rivale, qui lui dispute un point d'eau. La découverte d'un monolithe noir inspire au chef des singes assiégés un geste inédit et décisif. Brandissant un os, il passe à l'attaque et massacre ses adversaires. Le premier instrument est né. En 2001, quatre millions d'années plus tard, un vaisseau spatial évolue en orbite lunaire au rythme langoureux du Beau Danube Bleu. A son bord, le Dr. Heywood Floyd enquête secrètement sur la découverte d'un monolithe noir qui émet d'étranges signaux vers Jupiter. Dix-huit mois plus tard, les astronautes David Bowman et Frank Poole font route vers Jupiter à bord du Discovery. Les deux hommes vaquent sereinement à leurs tâches quotidiennes sous le contrôle de HAL 9000, un ordinateur exceptionnel doué d'intelligence et de parole. Cependant, HAL, sans doute plus humain que ses maîtres, commence à donner des signes d'inquiétude : à quoi rime cette mission et que risque-t-on de découvrir sur Jupiter ?"
+    },
+    {
+      "id": 105,
+      "title": "La piel que habito",
+      "image": "/img/img-cinema/105-la-piel-que-habito.jpg",
+      "annee": "2011",
+      "realisateur": "Pedro Almodóvar",
+      "synopsis": "Depuis que sa femme a été victime de brûlures dans un accident de voiture, le docteur Robert Ledgard, éminent chirurgien esthétique, se consacre à la création d’une nouvelle peau, grâce à laquelle il aurait pu sauver son épouse. Douze ans après le drame, il réussit dans son laboratoire privé à cultiver cette peau : sensible aux caresses, elle constitue néanmoins une véritable cuirasse contre toute agression, tant externe qu’interne, dont est victime l’organe le plus étendu de notre corps. Pour y parvenir, le chirurgien a recours aux possibilités qu’offre la thérapie cellulaire. Outre les années de recherche et d’expérimentation, il faut aussi à Robert une femme cobaye, un complice et une absence totale de scrupules. Les scrupules ne l’ont jamais étouffé, il en est tout simplement dénué. Marilia, la femme qui s’est occupée de Robert depuis le jour où il est né, est la plus fidèle des complices. Quant à la femme cobaye…"
+    },
+    {
+      "id": 106,
+      "title": "Le Rêve de Cassandre",
+      "image": "/img/img-cinema/106-le-reve-de-cassandre.webp",
+      "annee": "2007",
+      "realisateur": "Woody Allen",
+      "synopsis": "Sur un coup de coeur, deux frères s'offrent un voilier qu'ils baptisent Cassandra's Dream. Une vraie folie car ni l'un ni l'autre n'ont réellement les moyens d'assumer ce signe extérieur de richesse. Terry travaille dans un garage tandis que Ian dirige le restaurant de leurs parents. Lorsque le premier est confronté à une importante dette de jeu et que le second s'éprend d'Angela, ambitieuse comédienne de théâtre, ils sont obligés de solliciter l'aide de leur oncle Howard qui a fait fortune en Californie. En contrepartie de son solide coup de pouce financier, il leur demande de lui rendre un petit service."
+    },
+    {
+      "id": 107,
+      "title": "Mon beau-père et moi",
+      "image": "/img/img-cinema/107-mon-beau-pere-et-moi.jpg",
+      "annee": "2000",
+      "realisateur": "Jay Roach",
+      "synopsis": "Greg Focker, un modeste infirmier de Chicago, vit depuis deux mois avec la charmante Pam Byrnes et rêve d'officialiser leur union. Ravie de sa proposition, la jeune femme insiste pour un strict respect des règles bourgeoises : Greg devra obtenir l'accord de son père, Jack. Deux semaines plus tard, le couple fait son apparition dans la luxueuse résidence des Byrnes. Accueilli à bras ouverts par la mère de Pam, Dina, Greg décèle d'emblée une certaine froideur chez Jack. Ce dernier ne compte pas céder sa fille chérie au premier venu. Bien décidé à emporter la mise, Greg, nerveux, se met en quatre pour s'attirer la sympathie et le respect de son beau-père, ancien agent de la CIA, mais toutes ses amabilités, toutes ses plaisanteries tombent à plat face à cet homme crispé, possessif et paranoïaque."
+    },
+    {
+      "id": 108,
+      "title": "The irishman",
+      "image": "/img/img-cinema/108-the-irishman.jpg",
+      "annee": "2019",
+      "realisateur": "Martin Scorsese",
+      "synopsis": "Cette saga sur le crime organisé dans l'Amérique de l'après-guerre est racontée du point de vue de Frank Sheeran, un ancien soldat de la Seconde Guerre mondiale devenu escroc et tueur à gages ayant travaillé aux côtés de quelques-unes des plus grandes figures du 20e siècle. Couvrant plusieurs décennies, le film relate l'un des mystères insondables de l'histoire des États-Unis : la disparition du légendaire dirigeant syndicaliste Jimmy Hoffa. Il offre également une plongée monumentale dans les arcanes de la mafia en révélant ses rouages, ses luttes internes et ses liens avec le monde politique."
+    },
+    {
+      "id": 109,
+      "title": "Julia",
+      "image": "/img/img-cinema/109-julia.jpg",
+      "annee": "2008",
+      "realisateur": "Erick Zonca",
+      "synopsis": "Julia, séductrice et grande gueule a de plus en plus de mal à cacher son alcoolisme et finit par perdre pied. Une rencontre l'entraîne dans un engrenage infernal qui l'amène à kidnapper Tom, un enfant de huit ans. Commence alors une fuite sans issue à travers le sud des Etats-Unis et qui les conduira jusqu'au Mexique."
+    },
+    {
+      "id": 110,
+      "title": "Souvenir",
+      "image": "/img/img-cinema/110-souvenir.jpg",
+      "annee": "2016",
+      "realisateur": "Bavo Defurne",
+      "synopsis": "Une chanteuse oubliée, qui a autrefois participé à l'Eurovision, rencontre un jeune boxeur qui va la convaincre de tenter un come-back."
+    },
+    {
+      "id": 111,
+      "title": "Christine",
+      "image": "/img/img-cinema/111-christine.jpeg",
+      "annee": "1983",
+      "realisateur": "John Carpenter",
+      "synopsis": "La première fois qu'Arnie vit Christine, il tomba en extase devant cette beauté aux formes éblouissantes. C'était dit, ils aillaient lier leurs destins pour le meilleur et pour le pire. Mais Christine, la belle Plymouth, modèle 57, n'aime pas trop les rivales. Gare à celles qui voudront approcher Arnie."
+    },
+    {
+      "id": 112,
+      "title": "Elephant",
+      "image": "/img/img-cinema/112-elephant.jpg",
+      "annee": "2003",
+      "realisateur": "Gus Van Sant",
+      "synopsis": "En ce jour d'automne, les lycéens, comme à leur habitude, partagent leur temps entre cours, football, photographie, potins, etc. Pour chacun des élèves, le lycée représente une expérience différente, enrichissante ou amicale pour les uns, traumatisante, solitaire ou difficile pour les autres. Cette journée semble ordinaire, et pourtant le drame couve..."
+    },
+    {
+      "id": 113,
+      "title": "Saint Laurent",
+      "image": "/img/img-cinema/113-saint-laurent.jpg",
+      "annee": "2014",
+      "realisateur": "Bertrand Bonello",
+      "synopsis": "1967 - 1976. La rencontre de l'un des plus grands couturiers de tous les temps avec une décennie libre. Aucun des deux n’en sortira intact."
+    },
+    {
+      "id": 114,
+      "title": "Le Cinquième Élément",
+      "image": "/img/img-cinema/114-le-cinquieme-element.webp",
+      "annee": "1997",
+      "realisateur": "Luc Besson",
+      "synopsis": "Au XXIII siècle, dans un univers étrange et coloré, où tout espoir de survie est impossible sans la découverte du cinquième élément, un héros affronte le mal pour sauver l'humanité."
+    },
+    {
+      "id": 115,
+      "title": "Le Locataire",
+      "image": "/img/img-cinema/115-le-locataire.jpg",
+      "annee": "1976",
+      "realisateur": "Roman Polanski",
+      "synopsis": "Trelkovsky, d'origine juive polonaise, travaille dans un service d'archives et se lie difficilement avec ses collègues. Il visite un appartement inoccupé dans un quartier populaire de Paris et la concierge lui apprend que la locataire précédente s'est jetée par la fenêtre quelques jours auparavant. Trelkovsky s'installe dans l'appartement. Mais il est bientôt victime de multiples vexations de la part de ses voisins..."
+    },
+    {
+      "id": 116,
+      "title": "Le crime était presque parfait",
+      "image": "/img/img-cinema/116-le-crime-etait-presque-parfait.png",
+      "annee": "1954",
+      "realisateur": "Alfred Hitchcock",
+      "synopsis": "Tony Wendice, une ancienne gloire du tennis, s'est marié avec Margot pour sa richesse. Mais celle-ci le trompe depuis peu avec Mark Halliday, un jeune auteur de romans policiers. Craignant que sa femme le quitte et le laisse sans le sou, Tony fait appel au capitaine Lesgate et le charge d'assassiner Margot en échange d'une grosse somme d'argent."
+    },
+    {
+      "id": 117,
+      "title": "M le maudit",
+      "image": "/img/img-cinema/117-m-le-maudit.jpg",
+      "annee": "1931",
+      "realisateur": "Fritz Lang",
+      "synopsis": "Toute la presse ne parle que de ça : le maniaque tueur d’enfants, qui terrorise la ville depuis quelques temps, vient de faire une nouvelle victime. Chargé de l’enquête, le commissaire Lohmann multiplie les rafles dans les bas-fonds. Gênée par toute cette agitation la pègre décide de retrouver elle-même le criminel : elle charge les mendiants et les clochards de surveiller chaque coin de rue…"
+    },
+    {
+      "id": 118,
+      "title": "The Voices",
+      "image": "/img/img-cinema/118-the-voices.jpg",
+      "annee": "2014",
+      "realisateur": "Marjane Satrapi",
+      "synopsis": "Jerry vit à Milton, petite ville américaine bien tranquille où il travaille dans une usine de baignoires. Célibataire, il n’est pas solitaire pour autant dans la mesure où il s’entend très bien avec son chat, M. Moustache, et son chien, Bosco. Jerry voit régulièrement sa psy, aussi charmante que compréhensive, à qui il révèle un jour qu’il apprécie de plus en plus Fiona - la délicieuse Anglaise qui travaille à la comptabilité de l’usine. Bref, tout se passe bien dans sa vie plutôt ordinaire - du moins tant qu’il n’oublie pas de prendre ses médicaments..."
+    },
+    {
+      "id": 119,
+      "title": "Tom à la ferme",
+      "image": "/img/img-cinema/119-tom-a-la-ferme.jpg",
+      "annee": "2013",
+      "realisateur": "Xavier Dolan",
+      "synopsis": "Un jeune publicitaire voyage jusqu'au fin fond de la campagne pour des funérailles et constate que personne n’y connaît son nom ni la nature de sa relation avec le défunt. Lorsque le frère aîné de celui-ci lui impose un jeu de rôles malsain visant à protéger sa mère et l'honneur de leur famille, une relation toxique s'amorce bientôt pour ne s'arrêter que lorsque la vérité éclatera enfin, quelles qu'en soient les conséquences."
+    },
+    {
+      "id": 120,
+      "title": "The Dark Knight - Le Chevalier noir",
+      "image": "/img/img-cinema/120-the-dark-knight.jpg",
+      "annee": "2008",
+      "realisateur": "Christopher Nolan",
+      "synopsis": "Dans ce nouveau volet, Batman augmente les mises dans sa guerre contre le crime. Avec l'appui du lieutenant de police Jim Gordon et du procureur de Gotham, Harvey Dent, Batman vise à éradiquer le crime organisé qui pullule dans la ville. Leur association est très efficace mais elle sera bientôt bouleversée par le chaos déclenché par un criminel extraordinaire que les citoyens de Gotham connaissent sous le nom de Joker."
+    },
+    {
+      "id": 121,
+      "title": "Oslo, 31 août",
+      "image": "/img/img-cinema/121-oslo-31-aout.jpg",
+      "annee": "2011",
+      "realisateur": "Joachim Trier",
+      "synopsis": "C’est le dernier jour de l’été et Anders, en fin de cure de désintoxication, se rend en ville le temps d’une journée pour un entretien d’embauche. L’occasion d’un bilan sur les opportunités manquées, les rêves de jeunesse envolés, et, peut-être, l’espoir d’un nouveau départ…"
+    },
+    {
+      "id": 122,
+      "title": "Coup de torchon",
+      "image": "/img/img-cinema/122-coup-de-torchon.jpg",
+      "annee": "1981",
+      "realisateur": "Bertrand Tavernier",
+      "synopsis": "Lucien Cordier, unique policier d'une petite bourgade africaine, est un être faible. Sa femme le trompe, les proxénètes le provoquent ouvertement, le représentant de l'ordre est la risée du village. Rabroué par son supérieur, Lucien entre dans une folie meurtrière."
+    },
+    {
+      "id": 123,
+      "title": "Une affaire de femmes",
+      "image": "/img/img-cinema/123-une-affaire-de-femmes.webp",
+      "annee": "1988",
+      "realisateur": "Claude Chabrol",
+      "synopsis": "Pendant l’Occupation, Marie élève difficilement ses deux enfants, tandis que son mari Paul est prisonnier en Allemagne. Elle aide une voisine à mettre fin à une grossesse non désirée. Bientôt, c’est l’engrenage. Les raisons ne manquent pas en ces temps difficiles : maris prisonniers, passades amoureuses ou liaisons coupables avec l’occupant, petit à petit, les services de Marie se rétribueront et deviendront son gagne- pain. Le retour de Paul, aigri et affaibli, contraste avec l’aisance matérielle ainsi obtenue et Marie rêve bientôt d’une autre vie... Mais la France de Vichy n’aime pas que le bonheur individuel se déploie en marge de la morale officielle..."
+    },
+    {
+      "id": 124,
+      "title": "Passion",
+      "image": "/img/img-cinema/124-passion.jpg",
+      "annee": "2012",
+      "realisateur": "Brian De Palma",
+      "synopsis": "Deux femmes se livrent à un jeu de manipulation pervers au sein d'une multinationale. Isabelle est fascinée par sa supérieure, Christine. Cette dernière profite de son ascendant sur Isabelle pour l'entraîner dans un jeu de séduction et de manipulation, de domination et de servitude."
+    },
+    {
+      "id": 125,
+      "title": "Mission to Mars",
+      "image": "/img/img-cinema/125-mission-to-mars.png",
+      "annee": "2000",
+      "realisateur": "Brian De Palma",
+      "synopsis": "2020. La NASA envoie pour la première fois une équipe d'astronautes sur Mars. Mais peu de temps après leur arrivée, ils sont confrontés à un phénomène surnaturel d'une puissance terrifiante et toutes les communications sont coupées. Une deuxième mission est envoyée à leur recherche..."
+    },
+    {
+      "id": 126,
+      "title": "Mars Attacks!",
+      "image": "/img/img-cinema/126-mars-attacks.jpg",
+      "annee": "1996",
+      "realisateur": "Tim Burton",
+      "synopsis": "Effervescence sur la planète Terre. Les petits bonshommes verts ont enfin décidé de nous rendre visite. Ils sont sur le point d'atterrir dans leurs rutilantes soucoupes. La fièvre des grands jours s'empare de l'Amerique dans une comédie de science-fiction nostalgique des années cinquante."
+    },
+    {
+      "id": 127,
+      "title": "La Planète des singes",
+      "image": "/img/img-cinema/127-la-planète-des-singes-burton.jpg",
+      "annee": "2001",
+      "realisateur": "Tim Burton",
+      "synopsis": "En 2029, un groupe d'astronautes entraîne sur la station orbitale Oberon des singes pour remplacer l'homme dans des explorations spatiales à haut risque. Suite à la réception d'étranges signaux, les astronautes envoient le chimpanzé Pericles afin d'en connaître l'origine. Toutes les communications entre le primate et la station sont subitement interrompues et le vaisseau disparaît des radars. Désobéissant à ses supérieurs, Leo Davidson embarque dans un des vaisseaux expérimentaux pour aller porter secours à Pericles. Tout comme lui, il perd le contrôle des commandes et s'écrase dans les marais d'une forêt tropicale. L'intrépide pilote voit alors un groupe d'humains affolés foncer droit sur lui, et se fait capturer par des chimpanzés parlants. Qu'est-il arrivé sur cette planète pour que des singes en viennent à dominer la race humaine ?"
+    },
+    {
+      "id": 128,
+      "title": "Big Eyes",
+      "image": "/img/img-cinema/128-big-eyes.jpg",
+      "annee": "2014",
+      "realisateur": "Tim Burton",
+      "synopsis": "BIG EYES raconte la scandaleuse histoire vraie de l’une des plus grandes impostures de l’histoire de l’art. À la fin des années 50 et au début des années 60, le peintre Walter Keane a connu un succès phénoménal et révolutionné le commerce de l’art grâce à ses énigmatiques tableaux représentant des enfants malheureux aux yeux immenses. La surprenante et choquante vérité a cependant fini par éclater : ces toiles n’avaient pas été peintes par Walter mais par sa femme, Margaret. L’extraordinaire mensonge des Keane a réussi à duper le monde entier. Le film se concentre sur l’éveil artistique de Margaret, le succès phénoménal de ses tableaux et sa relation tumultueuse avec son mari, qui a connu la gloire en s’attribuant tout le mérite de son travail."
+    },
+    {
+      "id": 129,
+      "title": "Le Seigneur des anneaux - Le Retour du roi (2003)",
+      "image": "/img/img-cinema/129-le-seigneur-des-anneaux-le-retour-du-roi.jpg",
+      "annee": "2003",
+      "realisateur": "Pter Jackson",
+      "synopsis": "Les armées de Sauron ont attaqué Minas Tirith, la capitale de Gondor. Jamais ce royaume autrefois puissant n'a eu autant besoin de son roi. Mais Aragorn trouvera-t-il en lui la volonté d'accomplir sa destinée ? Tandis que Gandalf s'efforce de soutenir les forces brisées de Gondor, Théoden exhorte les guerriers de Rohan à se joindre au combat. Mais malgré leur courage et leur loyauté, les forces des Hommes ne sont pas de taille à lutter contre les innombrables légions d'ennemis qui s'abattent sur le royaume... Chaque victoire se paye d'immenses sacrifices. Malgré ses pertes, la Communauté se jette dans la bataille pour la vie, ses membres faisant tout pour détourner l'attention de Sauron afin de donner à Frodon une chance d'accomplir sa quête. Voyageant à travers les terres ennemies, ce dernier doit se reposer sur Sam et Gollum, tandis que l'Anneau continue de le tenter..."
+    },
+    {
+      "id": 130,
+      "title": "Shrek 2",
+      "image": "/img/img-cinema/130-shrek-2.jpg",
+      "annee": "2004",
+      "realisateur": "Andrew Adamson, Kelly Asbury et Conrad Vernon",
+      "synopsis": "Devenus de jeunes mariés, Shrek et Fiona rentrent de leur heureuse lune de miel. Ils sont invités par les parents de Fiona à venir dîner dans leur royaume, à Far Far Away. Mais ils ne se doutent pas que leur fille est devenue une ravissante ogresse... Ce mariage met par ailleurs en péril l'avenir et les projets les plus secrets du Roi..."
+    },
+    {
+      "id": 131,
+      "title": "La Famille Addams",
+      "image": "/img/img-cinema/131-la-famille-addams.jpg",
+      "annee": "1991",
+      "realisateur": "Barry Sonnenfeld",
+      "synopsis": "Rififi chez les Addams, célèbre famille macabre qui vit dans un manoir hanté, lorsque débarque l'oncle Fétide, sosie d'un des membres de la famille disparu vingt-cinq ans plus tôt... Ne serait-il pas un usurpateur qui cherche à les doubler pour faire main basse sur leur trésor caché ?"
+    },
+    {
+      "id": 132,
+      "title": "Juste la fin du monde",
+      "image": "/img/img-cinema/132-juste-la-fin-du-monde.jpg",
+      "annee": "2016",
+      "realisateur": "Xavier Dolan",
+      "synopsis": "Après douze ans d’absence, un écrivain retourne dans son village natal pour annoncer à sa famille sa mort prochaine. Ce sont les retrouvailles avec le cercle familial où l’on se dit l’amour que l’on se porte à travers les éternelles querelles, et où l’on dit malgré nous les rancoeurs qui parlent au nom du doute et de la solitude."
+    },
+    {
+      "id": 133,
+      "title": "Rosemary's Baby",
+      "image": "/img/img-cinema/133-rosemarys-baby.jpg",
+      "annee": "1968",
+      "realisateur": "Roman Polanski",
+      "synopsis": "Malgré les conseils de leur vieil ami Hutch, Guy Woodhouse et sa jeune femme, enceinte, s'installent dans un immeuble new-yorkais vétuste, considéré par leur ami comme une demeure maléfique. Aussitôt, leurs voisins, Minnie et Roman Castevet, vieux couple d'Europe centrale, imposent leur amitié et leurs services. Si Guy accepte facilement ce voisinage, Rosemary s'en inquiète..."
+    },
+    {
+      "id": 134,
+      "title": "Tigre et Dragon",
+      "image": "/img/img-cinema/134-tigre-et-dragon.jpg",
+      "annee": "2000",
+      "realisateur": "Ang Lee",
+      "synopsis": "Dans la Chine du XIXème siècle, Li Mu Bai, virtuose des arts martiaux, possède une épée légère, rapide et magique nommée Destinée. Elle est l'objet de nombreuses convoitises. Las des combats, Li Mu Bai décide de confier Destinée à une excellente guerrière, Yu Shu Lien, à qui il n'ose pas avouer son amour. Celle-ci doit remettre la fameuse épée au seigneur Té, mais une fois la nuit tombée un habile voleur parvient à la lui dérober. A la résidence du seigneur Té, Shu Lien fait la connaissance de Jen, la fille du gouverneur Yu, qui a été promise à un homme qu'elle n'aime point et ferait tout pour mener une vie aussi libre que Shu Lien. Mais l'apparente candeur de Jen cache un sinistre secret ; elle travaille de concert avec la terrible Jade La Hyène et n'est autre que l'auteur du vol de Destinée. Li et Shu Lien partent alors à la poursuite de Jen pour récupérer l'épée aux vertus magiques."
+    },
+    {
+      "id": 135,
+      "title": "American Gangster",
+      "image": "/img/img-cinema/135-american-gangster.webp",
+      "annee": "2007",
+      "realisateur": "Ridley Scott",
+      "synopsis": "Début des années 1970, New York. Frank Lucas a vécu pendant vingt ans dans l'ombre du Parrain noir de Harlem, Bumpy Johnson, qui en fait son garde du corps et confident. Lorsque son patron succombe à une crise cardiaque, Lucas assure discrètement la relève et ne tarde pas à révéler son leadership, son sens aigu des affaires et son extrême prudence, en prenant pour auxiliaires ses frères et cousins et en gardant un profil bas. Inconnu de la police comme des hautes instances de la Cosa Nostra, Lucas organise avec la complicité d'officiers basés au Vietnam un véritable pont aérien et importe ainsi par avions entiers des centaines de kilos d'héroïne pure, qu'il revend à bas prix dans les rues de New York. Tandis que Lucas amasse ainsi, en toute discrétion, une fortune colossale, l'inspecteur Roberts du NYPD enquête patiemment sur l'origine et le fonctionnement de ce marché parallèle d'un genre inédit, et finit par soupçonner l'insaisissable Frank Lucas. Une étrange partie de cache-cache commence alors entre ces deux solitaires perfectionnistes dont les destins seront bientôt inextricablement mêlés..."
+    },
+    {
+      "id": 136,
+      "title": "Amour",
+      "image": "/img/img-cinema/136-amour.avif",
+      "annee": "2012",
+      "realisateur": "Michael Haneke",
+      "synopsis": "Georges et Anne sont octogénaires, ce sont des gens cultivés, professeurs de musique à la retraite. Leur fille, également musicienne, vit à l’étranger avec sa famille. Un jour, Anne est victime d’une petite attaque cérébrale. Lorsqu’elle sort de l’hôpital et revient chez elle, elle est paralysée d’un côté. L’amour qui unit ce vieux couple va être mis à rude épreuve."
+    },
+    {
+      "id": 137,
+      "title": "Aliens, le retour",
+      "image": "/img/img-cinema/137-aliens-le-retour.webp",
+      "annee": "1986",
+      "realisateur": "James Cameron",
+      "synopsis": "Après 57 ans de dérive dans l'espace, Ellen Ripley est secourue par la corporation Weyland-Yutani. Malgré son rapport concernant l’incident survenu sur le Nostromo, elle n’est pas prise au sérieux par les militaires quant à la présence de xénomorphes sur la planète LV-426 où se posa son équipage… planète où plusieurs familles de colons ont été envoyées en mission de terraformage. Après la disparition de ces derniers, Ripley décide d'accompagner une escouade de marines dans leur mission de sauvetage... et d’affronter à nouveau la Bête."
+    },
+    {
+      "id": 138,
+      "title": "Le Dernier Roi d'Écosse",
+      "image": "/img/img-cinema/138-le-dernier-roi-décosse.jpg",
+      "annee": "2006",
+      "realisateur": "Kevin Macdonald",
+      "synopsis": "Jeune médecin écossais tout juste diplômé, Nicholas Garrigan débarque en Ouganda en quête d'aventure et décidé à venir en aide à la population. Peu après son arrivée, il est appelé sur les lieux d'un accident : le nouveau leader du pays, Idi Amin Dada, a percuté une vache avec sa Citroen DS. La façon dont Garrigan maîtrise la situation, son calme et sa franchise surprennent Amin Dada. Fasciné par l'Histoire et la culture écossaise, il trouve le jeune homme sympathique et lui propose de devenir son médecin personnel. Séduit par le charisme du chef de l'Etat, le jeune médecin rejoint le cercle présidentiel au sein duquel il mène grand train. Bombardé confident du dictateur, piégé au coeur de la mégalomanie meurtrière d'Amin Dada, Garrigan, témoin d'enlèvements et d'assassinats, devient malgré lui peu à peu complice d'un des plus terrifiants régimes africains du XXème siècle."
+    },
+    {
+      "id": 139,
+      "title": "Gone Girl",
+      "image": "/img/img-cinema/139-gone-girl.jpg",
+      "annee": "2014",
+      "realisateur": "David Fincher",
+      "synopsis": "À l’occasion de son cinquième anniversaire de mariage, Nick Dunne signale la disparition de sa femme, Amy. Sous la pression de la police et l’affolement des médias, l’image du couple modèle commence à s’effriter. Très vite, les mensonges de Nick et son étrange comportement amènent tout le monde à se poser la même question : a-t-il tué sa femme ?"
+    },
+    {
+      "id": 140,
+      "title": "7h58 ce samedi-là",
+      "image": "/img/img-cinema/140-7h58-ce-samedi-là.webp",
+      "annee": "2007",
+      "realisateur": "Sidney Lumet",
+      "synopsis": "Ce samedi matin-là, dans la banlieue de New York, tout semble normal dans la vie des Hanson. Alors que Charles, le père, passe un test de conduite, sa femme Nanette ouvre la bijouterie familiale. Leur fils aîné, Andy, s'inquiète pour le contrôle fiscal qui débute lundi. Et comme d'habitude, Hank, son frère cadet, se noie dans ses problèmes d'argent. Mais à 7h58, ce samedi-là, tout va basculer dans la vie des Hanson."
+    },
+    {
+      "id": 141,
+      "title": "Le Nom de la rose",
+      "image": "/img/img-cinema/141-le-nom-de-la-rose.webp",
+      "annee": "1986",
+      "realisateur": "Jean-Jacques Annaud",
+      "synopsis": "En l'an 1327, dans une abbaye bénédictine, des moines disparaissent. Un franciscain, Guillaume de Baskerville aidé du jeune novice Adso von Melk mène l'enquête. C'est l'époque où l'Eglise, en pleine crise, se voit disputer son pouvoir spirituel et temporel. C'est aussi l'apogée de l'inquisition. Un thriller moyenageux très attendu préparé avec soin pendant trois ans, respectant le mieux possible l'époque et qui a coûté la bagatelle de dix-neuf millions de dollars. C'est également un film de Jean-Jacques Annaud toujours passionnément entraîné par ses sujets."
+    },
+    {
+      "id": 142,
+      "title": "Le Lauréat",
+      "image": "/img/img-cinema/142-le-laureat.jpg",
+      "annee": "1967",
+      "realisateur": "Mike Nichols",
+      "synopsis": "Benjamin Braddock, un étudiant fraîchement diplômé, ne sait pas quoi faire de son avenir. Lors d'une soirée mondaine chez ses parents où il vagabonde, il fait la connaissance de Mrs Robinson, l'épouse du patron de son père. La femme, d'âge mûr, entreprend de séduire le garçon et y parvient très rapidement. Benjamin découvre les joies du sexe et profite de la situation du haut de ses 21 ans. Mais les choses se compliquent lorsque Monsieur Robinson demande à Benjamin de sortir avec Elaine, sa fille. Le jeune homme accepte et en tombe amoureux, s'attirant par la même occasion les foudres de Mrs Robinson. Cette dernière, folle de jalousie, décide d'empêcher leur union en proposant sa fille en mariage à un autre homme."
+    },
+    {
+      "id": 143,
+      "title": "Les Aristochats",
+      "image": "/img/img-cinema/143-les-aristochats.jpg",
+      "annee": "1970",
+      "realisateur": "Wolfgang Reitherman",
+      "synopsis": "Paris, 1910. Madame de Bonnefamille, millionnaire excentrique, vit seule entourée de ses chats : Duchesse et ses trois petits, Marie, Toulouse et Berlioz. Un jour, elle convie son notaire pour léguer toute sa fortune à ses compagnons à quatre pattes. Cependant, une clause du testament stipule qu'à la mort des chats, ses biens iront à son maître d'hôtel, Edgar. Ce dernier, entendant la nouvelle, décide d'éliminer ces héritiers. Après leur avoir administré une drogue, il les emporte à la campagne avec la ferme intention de les noyer…"
+    },
+    {
+      "id": 144,
+      "title": "Drive",
+      "image": "/img/img-cinema/144-drive.jpg",
+      "annee": "2011",
+      "realisateur": "Nicolas Winding Refn",
+      "synopsis": "Un jeune homme solitaire, The Driver, conduit le jour à Hollywood pour le cinéma en tant que cascadeur et la nuit pour des truands. Ultra professionnel et peu bavard, il a son propre code de conduite. Jamais il n’a pris part aux crimes de ses employeurs autrement qu’en conduisant - et au volant, il est le meilleur ! Shannon, le manager qui lui décroche tous ses contrats, propose à Bernie Rose, un malfrat notoire, d’investir dans un véhicule pour que son poulain puisse affronter les circuits de stock-car professionnels. Celui-ci accepte mais impose son associé, Nino, dans le projet. C’est alors que la route du pilote croise celle d’Irene et de son jeune fils. Pour la première fois de sa vie, il n’est plus seul. Lorsque le mari d’Irene sort de prison et se retrouve enrôlé de force dans un braquage pour s’acquitter d’une dette, il décide pourtant de lui venir en aide. L’expédition tourne mal… Doublé par ses commanditaires, et obsédé par les risques qui pèsent sur Irene, il n’a dès lors pas d’autre alternative que de les traquer un à un…"
+    },
+    {
+      "id": 145,
+      "title": "Oblivion",
+      "image": "/img/img-cinema/145-oblivion.jpg",
+      "annee": "2013",
+      "realisateur": "Joseph Kosinski",
+      "synopsis": "2077 : Jack Harper, en station sur la planète Terre dont toute la population a été évacuée, est en charge de la sécurité et de la réparation des drones. Suite à des décennies de guerre contre une force extra-terrestre terrifiante qui a ravagé la Terre, Jack fait partie d’une gigantesque opération d’extraction des dernières ressources nécessaires à la survie des siens. Sa mission touche à sa fin. Dans à peine deux semaines, il rejoindra le reste des survivants dans une colonie spatiale à des milliers de kilomètres de cette planète dévastée qu’il considère néanmoins comme son chez-lui. Vivant et patrouillant à très haute altitude de ce qu’il reste de la Terre, la vie céleste de Jack est bouleversée quand il assiste au crash d’un vaisseau spatial et décide de porter secours à la belle inconnue qu’il renferme. Ressentant pour Jack une attirance et une affinité qui défient toute logique, Julia déclenche par sa présence une suite d’événements qui pousse Jack à remettre en question tout ce qu’il croyait savoir. Ce qu’il pensait être la réalité vole en éclats quand il est confronté à certains éléments de son passé qui avaient été effacés de sa mémoire. Se découvrant une nouvelle mission, Jack est poussé à une forme d’héroïsme dont il ne se serait jamais cru capable. Le sort de l’humanité est entre les mains d’un homme qui croyait que le seul monde qu’il a connu allait bientôt être perdu à tout jamais."
+    },
+    {
+      "id": 146,
+      "title": "Jean-Philippe",
+      "image": "/img/img-cinema/146-jean-philippe.jpg",
+      "annee": "2006",
+      "realisateur": "Laurent Tuel",
+      "synopsis": "Fabrice, cadre moyen, est un fan absolu de Johnny Hallyday, peut-être même le plusgrand... Mais un jour, il se réveille dans une réalité différente, un monde parallèle oùJohnny n'existe pas. Perdu, orphelin, il se met alors à la recherche de Jean-Philippe Smet, pour savoir ce qu'il est devenu dans cette autre dimension, et lorsqu'il le retrouve enfin, c'est pour découvrir un patron de bowling, un type comme les autres qui n'est jamais devenu une star. Fabrice n'a plus qu'un seul but : ressusciter son idole, réveiller le Johnny qui sommeilleen Jean-Philippe. Mais Jean-Philippe peut-il devenir en quelques mois ce que Johnny Hallyday a misdes années à construire ? Les deux compères ont 40 ans de Johnny à rattraper ! A travers l'aventure de ce pari impossible, une amitié extraordinaire va naître entre les deux hommes..."
+    },
+    {
+      "id": 147,
+      "title": "Les Adieux à la reine",
+      "image": "/img/img-cinema/147-les-adieux-à-la-reine.jpg",
+      "annee": "2012",
+      "realisateur": "Benoît Jacquot",
+      "synopsis": "En 1789, à l’aube de la Révolution, Versailles continue de vivre dans l’insouciance et la désinvolture, loin du tumulte qui gronde à Paris. Quand la nouvelle de la prise de la Bastille arrive à la Cour, le château se vide, nobles et serviteurs s’enfuient… Mais Sidonie Laborde, jeune lectrice entièrement dévouée à la Reine, ne veut pas croire les bruits qu’elle entend. Protégée par Marie-Antoinette, rien ne peut lui arriver. Elle ignore que ce sont les trois derniers jours qu’elle vit à ses côtés."
+    },
+    {
+      "id": 148,
+      "title": "Apocalypto",
+      "image": "/img/img-cinema/148-apocalypto.jpg",
+      "annee": "2007",
+      "realisateur": "Mel Gibson",
+      "synopsis": "Dans les temps turbulents précédant la chute de la légendaire civilisation Maya. Jeune père porteur de grandes espérances, chef de son petit village, Patte de Jaguar vit une existence idyllique brusquement perturbée par une violente invasion..."
+    },
+    {
+      "id": 149,
+      "title": "",
+      "image": "/img/img-cinema/149.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 150,
+      "title": "",
+      "image": "/img/img-cinema/150.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 151,
+      "title": "",
+      "image": "/img/img-cinema/151.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 152,
+      "title": "",
+      "image": "/img/img-cinema/152.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 153,
+      "title": "",
+      "image": "/img/img-cinema/153.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    },
+    {
+      "id": 119,
+      "title": "",
+      "image": "/img/img-cinema/119.jpg",
+      "annee": "",
+      "realisateur": "",
+      "synopsis": ""
+    }
+  ]
+}
