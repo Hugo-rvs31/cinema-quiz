@@ -7,13 +7,39 @@
 }
 
 .nav-home {
-  color: white;
-  background-color: blue;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.568);
   font-size: 1.3rem;
+  transition: 0.5s ease;
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.726);
+    color: white;
+  }
 }
 
 .nav-quiz {
+  position: absolute;
   color: black;
-  background-color: yellow;
+  background-color: rgba(255, 255, 255, 0.438);
   font-size: 1.2rem;
+  right: 50%;
+  transform: translateX(50%);
+  bottom: 10px;
+  transition: 0.5s ease;
+  &:hover {
+    background: white;
+  }
+
+  @media (max-width: 641px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 20px;
+    height: 40px;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+  }
 }
