@@ -6,6 +6,9 @@
   justify-content: center;
 
   .game-rules-box {
+    h1 {
+      text-align: center;
+    }
     border-radius: 10px;
     padding: 60px;
     width: 70%;
@@ -19,6 +22,15 @@
 
     .game-rules {
       text-align: center;
+
+      @media (max-width: 530px) {
+        font-size: 0.85rem;
+      }
+    }
+
+    @media (max-width: 530px) {
+      padding: 20px;
+      font-size: 0.9rem;
     }
   }
 }

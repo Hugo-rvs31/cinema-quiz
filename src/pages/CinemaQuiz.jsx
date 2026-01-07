@@ -51,7 +51,7 @@ const CinemaQuiz = () => {
   // -----------------------
   useEffect(() => {
     axios
-      .get("/db-cinema.json")
+      .get("/cinema-quiz/db-cinema.json")
       .then((response) => {
         const filmsData = response.data.films;
         if (Array.isArray(filmsData) && filmsData.length > 0) {

@@ -1,4 +1,3 @@
-import React from "react";
 import { NavLink, useLocation } from "react-router-dom";
 
 const Navigation = () => {
@@ -9,7 +8,7 @@ const Navigation = () => {
   return (
     <NavLink
       id="navigation"
-      to={isHome ? "/cinema-quiz" : "/"}
+      to={isHome ? "/quiz" : "/"}
       className={isHome ? "nav-home" : "nav-quiz"}
     >
       {isHome ? "Démarrer le quiz Cinéma" : "Accueil"}

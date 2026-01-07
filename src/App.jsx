@@ -1,18 +1,17 @@
 import React from "react";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Navigation from "./components/Navigation";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import CinemaQuiz from "./pages/CinemaQuiz";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/cinema-quiz" element={<CinemaQuiz />} />
+        <Route path="/quiz" element={<CinemaQuiz />} />
         <Route path="*" element={<Home />} />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 

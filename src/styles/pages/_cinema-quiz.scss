@@ -112,6 +112,10 @@
             background: #222;
             cursor: not-allowed;
           }
+          @media (max-width: 530px) {
+            padding: 0.5rem 1.1rem;
+            font-size: 0.8rem;
+          }
         }
       }
 
@@ -138,7 +142,7 @@
 
       .end-block {
         position: absolute;
-        top: 290px;
+        top: 310px;
         background: rgba(231, 132, 132, 0.384);
         border-radius: 20px;
         padding: 30px;
@@ -176,14 +180,23 @@
           }
         }
         @media (max-width: 1200px) {
-          top: 265px;
+          top: 285px;
+        }
+        @media (max-width: 641px) {
+          top: 280px;
         }
 
         @media (max-width: 470px) {
-          top: 250px;
+          top: 260px;
         }
         @media (max-width: 370px) {
-          top: 225px;
+          top: 242px;
+        }
+        @media (max-width: 239px) {
+          top: 260px;
+        }
+        @media (max-width: 217px) {
+          top: 285px;
         }
       }
     }
@@ -199,6 +212,10 @@
       padding: 5px 0;
       padding: 5px 0;
       border-radius: 20px;
+
+      @media (max-width: 530px) {
+        font-size: 0.9rem;
+      }
 
       &:hover {
         background-color: white;
