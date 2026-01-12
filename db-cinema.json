@@ -1031,7 +1031,7 @@
       "title": "Le Seigneur des anneaux - Le Retour du roi (2003)",
       "image": "img/129-le-seigneur-des-anneaux-le-retour-du-roi.jpg",
       "annee": "2003",
-      "realisateur": "Pter Jackson",
+      "realisateur": "Peter Jackson",
       "synopsis": "Les armées de Sauron ont attaqué Minas Tirith, la capitale de Gondor. Jamais ce royaume autrefois puissant n'a eu autant besoin de son roi. Mais Aragorn trouvera-t-il en lui la volonté d'accomplir sa destinée ? Tandis que Gandalf s'efforce de soutenir les forces brisées de Gondor, Théoden exhorte les guerriers de Rohan à se joindre au combat. Mais malgré leur courage et leur loyauté, les forces des Hommes ne sont pas de taille à lutter contre les innombrables légions d'ennemis qui s'abattent sur le royaume... Chaque victoire se paye d'immenses sacrifices. Malgré ses pertes, la Communauté se jette dans la bataille pour la vie, ses membres faisant tout pour détourner l'attention de Sauron afin de donner à Frodon une chance d'accomplir sa quête. Voyageant à travers les terres ennemies, ce dernier doit se reposer sur Sam et Gollum, tandis que l'Anneau continue de le tenter..."
     },
     {
@@ -1285,7 +1285,7 @@
     {
       "id": 161,
       "title": "La moustache",
-      "image": "img/À Paris, André Chatelin, un restaurateur au grand cœur, voit débarquer la fille de sa première épouse qu'il n'a pas vue depuis des années. La jeune femme se prénomme Catherine et déclare que depuis la mort de sa mère à Marseille elle n'a nulle part où aller. Bientôt, la jeune fille tente d'évincer Gérard, un sympathique étudiant sans le sou qu'André considère comme son fils. Ce n'est que le début de son projet machiavélique…",
+      "image": "img/161-la-moustache.webp",
       "annee": "2005",
       "realisateur": "Emmanuel Carrère",
       "synopsis": "Qu'est-ce que tu dirais si je me rasais la moustache ? demande Marc à Agnès. Je ne sais pas. Je t'aime avec mais je t'ai jamais connu sans. Elle sort un moment faire des courses, le laissant devant le miroir de la salle de bain. Et il le fait. Comme ça : par jeu, pour voir la tête qu'elle fera, pour changer un petit quelque chose dans leur vie heureuse et sans histoire.Elle rentre et ne fait aucune remarque. Le plus drôle, c'est qu'elle a vraiment l'air de ne rien remarquer. Les autres non plus."
@@ -1377,6 +1377,462 @@
       "annee": "2020",
       "realisateur": "Pete Docter et Kemp Powers",
       "synopsis": "Passionné de jazz et professeur de musique dans un collège, Joe Gardner a enfin l’opportunité de réaliser son rêve : jouer dans le meilleur club de jazz de New York. Mais un malencontreux faux pas le précipite dans le « Grand Avant » – un endroit fantastique où les nouvelles âmes acquièrent leur personnalité, leur caractère et leur spécificité avant d’être envoyées sur Terre. Bien décidé à retrouver sa vie, Joe fait équipe avec 22, une âme espiègle et pleine d’esprit, qui n’a jamais saisi l’intérêt de vivre une vie humaine. En essayant désespérément de montrer à 22 à quel point l’existence est formidable, Joe pourrait bien découvrir les réponses aux questions les plus importantes sur le sens de la vie."
+    },
+    {
+      "id": 173,
+      "title": "Capitaine Phillips",
+      "image": "img/173-capitaine-phillips.avif",
+      "annee": "2013",
+      "realisateur": "Paul Greengrass",
+      "synopsis": "Capitaine Phillips retrace l’histoire vraie de la prise d’otages du navire de marine marchande américain Maersk Alabama, menée en 2009 par des pirates somaliens. La relation qui s’instaure entre le capitaine Richard Phillips, commandant du bateau, et Muse, le chef des pirates somaliens qui le prend en otage, est au cœur du récit. Les deux hommes sont inévitablement amenés à s’affronter lorsque Muse et son équipe s’attaquent au navire désarmé de Phillips. À plus de 230 kilomètres des côtes somaliennes, les deux camps vont se retrouver à la merci de forces qui les dépassent…"
+    },
+    {
+      "id": 174,
+      "title": "Chat noir, chat blanc",
+      "image": "img/174-chat-noir-chat-blanc.jpg",
+      "annee": "1998",
+      "realisateur": "Emir Kusturica",
+      "synopsis": "Matko le gitan, qui vit au bord du Danube de petits trafics avec les Russes, a besoin d'argent pour réaliser un coup important. Il demande à Grga Pitic, parrain de la communauté gitane et vieil ami de la famille, de le financer. Grga accepte, mais Matko n'est pas à la hauteur et se fait doubler par le dangereux Dadan. Pour solder sa dette, Dadan lui propose de marier son fils Zare à Ladybird, sa minuscule soeur cadette. Mais Zane en aime une autre, la blonde Ida. Le mariage a lieu. La mariée profite d'un moment d'inattention et s'enfuit."
+    },
+    {
+      "id": 175,
+      "title": "Les nuits de la pleine lune",
+      "image": "img/175-les-nuits-de-la-pleine-lune.webp",
+      "annee": "1984",
+      "realisateur": "Eric Rohmer",
+      "synopsis": "Louise joue dangereusement avec les sentiments de ceux qu'elle séduit et Rémi, son compagnon, est le premier à en souffrir. Elle sera prise à son propre jeu le jour où Rémi en découvrira la clé."
+    },
+    {
+      "id": 176,
+      "title": "Europe 51",
+      "image": "img/176-europe-51.jpg",
+      "annee": "1952",
+      "realisateur": "Roberto Rossellini",
+      "synopsis": "Une jeune femme riche et futile est bouleversée par le suicide de son enfant, dont elle se sent responsable. Son drame personnel lui fait découvrir la misère et les souffrances des autres, à qui elle se dévouera désormais."
+    },
+    {
+      "id": 177,
+      "title": "Barbara",
+      "image": "img/177-barbara.webp",
+      "annee": "2012",
+      "realisateur": "Christian Petzold",
+      "synopsis": "Eté 1980. Barbara est chirurgien-pédiatre dans un hôpital de Berlin-Est. Soupçonnée de vouloir passer à l’Ouest, elle est mutée par les autorités dans une clinique de province, au milieu de nulle part. Tandis que son amant Jörg, qui vit à l’Ouest, prépare son évasion, Barbara est troublée par l’attention que lui porte André, le médecin-chef de l’hôpital. La confiance professionnelle qu’il lui accorde, ses attentions, son sourire... Est-il amoureux d’elle ? Est-il chargé de l’espionner ?"
+    },
+    {
+      "id": 178,
+      "title": "La Jetée",
+      "image": "img/178-la-jetee.jpg",
+      "annee": "1962",
+      "realisateur": "Chris Marker",
+      "synopsis": "L'histoire débute à Paris, après la Troisième Guerre mondiale  et la destruction nucléaire de toute la surface de la Terre. Le héros est le cobaye de scientifiques qui cherchent à rétablir un corridor temporel afin de permettre aux hommes du futur de transporter des vivres, des médicaments et des sources d'énergies : D'appeler le passé et l'avenir au secours du présent. Il a été choisi en raison de sa très bonne mémoire visuelle : il garde une image très forte et présente d'un événement vécu pendant son enfance, lors d'une promenade avec sa mère sur la jetée de l'aéroport d'Orly."
+    },
+    {
+      "id": 179,
+      "title": "Trois couleurs : Blanc",
+      "image": "img/179-trois-couleurs-blanc.jpg",
+      "annee": "1994",
+      "realisateur": "Krzysztof Kieslowski",
+      "synopsis": "Dans ce deuxième volet de ses Trois couleurs, Krzysztof Kieslowski conte l'histoire de Karol, le coiffeur polonais, et de sa femme Dominique, française. Karol a tout perdu après son divorce avec Dominique, il ne peut même pas retourner en Pologne et refuse de devenir meurtrier pour de l'argent. Après avoir enfin réussi à retourner dans son pays, il se lance dans diverses entreprises et tombe dans le piège de sa vengeance sur Dominique, mais en (re)gagnant enfin son amour."
+    },
+    {
+      "id": 180,
+      "title": "Logorama",
+      "image": "img/180-logorama.jpg",
+      "annee": "2009",
+      "realisateur": "François Alaux et Hervé de Crécy",
+      "synopsis": "Une course poursuite effrénée, des animaux sauvages lâchés dans la ville, une prise d'otage qui tourne au drame... et bien plus encore dans Logorama and Co. !"
+    },
+    {
+      "id": 181,
+      "title": "Esther",
+      "image": "img/181-esther.jpg",
+      "annee": "2009",
+      "realisateur": "Jaume Collet-Serra",
+      "synopsis": "Après avoir perdu l'enfant qu'elle attendait, la fragile Kate voit ressurgir les douloureux souvenirs d'un passé qu'elle préférerait oublier. Hantée par des cauchemars récurrents, et décidée à retrouver une vie de couple équilibrée, elle fait le choix, avec son compagnon John, d'adopter un enfant. A l'orphelinat voisin, Kate et John se sentent étrangement attirés par une fillette, Esther. Mais Kate ne tarde pas à découvrir la face cachée de la douce enfant. Autour d'elle, personne n'a rien remarqué, et nul ne semble partager ses doutes et ses inquiétudes..."
+    },
+    {
+      "id": 182,
+      "title": "Le Congrès",
+      "image": "img/182-le-congrès.webp",
+      "annee": "2013",
+      "realisateur": "Ari Folman",
+      "synopsis": "Robin Wright (que joue Robin Wright), se voit proposer par la Miramount d’être scannée. Son alias pourra ainsi être librement exploité dans tous les films que la major compagnie hollywoodienne décidera de tourner, même les plus commerciaux, ceux qu’elle avait jusque-là refusés. Pendant 20 ans, elle doit disparaître et reviendra comme invitée d’honneur du Congrès Miramount-Nagasaki dans un monde transformé et aux apparences fantastiques…"
+    },
+    {
+      "id": 183,
+      "title": "Another Earth",
+      "image": "img/183-another-earth.jpg",
+      "annee": "2011",
+      "realisateur": "Mike Cahill",
+      "synopsis": "Rhoda Williams, brillante jeune diplômée en astrophysique, rêve d’explorer l’espace. John Burroughs est un compositeur au sommet de sa carrière qui attend un deuxième enfant. Le soir une autre planète semblable à la Terre est découverte, la tragédie les frappe et les vies de ces étrangers deviennent inextricablement liées l’une à l’autre."
+    },
+    {
+      "id": 184,
+      "title": "Goodnight Mommy",
+      "image": "img/184-goodnight-mommy.webp",
+      "annee": "2014",
+      "realisateur": "Severin Fiala et Veronika Franz",
+      "synopsis": "En plein été, dans une maison de campagne perdue au milieu des champs de maïs et des bois, des jumeaux de dix ans attendent le retour de leur mère. Lorsqu’elle revient à la maison, le visage entièrement bandé suite à une opération de chirurgie esthétique, les enfants mettent en doute son identité…"
+    },
+    {
+      "id": 185,
+      "title": "OSS 117 - Rio ne répond plus...",
+      "image": "img/185-oss-117-rio-ne-répond-plus.webp",
+      "annee": "2009",
+      "realisateur": "Michel Hazanavicius",
+      "synopsis": "Douze ans après Le Caire, OSS 117 est de retour pour une nouvelle mission à l'autre bout du monde. Lancé sur les traces d'un microfilm compromettant pour l'Etat français, le plus célèbre de nos agents va devoir faire équipe avec la plus séduisante des lieutenants-colonels du Mossad pour capturer un nazi maître chanteur. Des plages ensoleillées de Rio aux luxuriantes forêts amazoniennes, des plus profondes grottes secrètes au sommet du Christ du Corcovado, c'est une nouvelle aventure qui commence. Quel que soit le danger, quel que soit l'enjeu, on peut toujours compter sur Hubert Bonisseur de la Bath pour s'en sortir..."
+    },
+    {
+      "id": 186,
+      "title": "Jalouse",
+      "image": "img/186-jalouse.avif",
+      "annee": "2017",
+      "realisateur": "David et Stéphane Foenkinos",
+      "synopsis": "Nathalie Pêcheux, professeure de lettres divorcée, passe quasiment du jour au lendemain de mère attentionnée à jalouse maladive. Si sa première cible est sa ravissante fille de 18 ans, Mathilde, danseuse classique, son champ d'action s'étend bientôt à ses amis, ses collègues, voire son voisinage... Entre comédie grinçante et suspense psychologique, la bascule inattendue d’une femme."
+    },
+    {
+      "id": 187,
+      "title": "La cage dorée",
+      "image": "img/187-la-cage-dorée.avif",
+      "annee": "2013",
+      "realisateur": "Ruben Alvès",
+      "synopsis": "Dans les beaux quartiers de Paris, Maria et José Ribeiro vivent depuis bientôt trente ans au rez-de-chaussée d’un bel immeuble haussmannien, dans leur chère petite loge. Ce couple d’immigrés portugais fait l’unanimité dans le quartier : Maria, excellente concierge, et José, chef de chantier hors pair, sont devenus au fil du temps indispensables à la vie quotidienne de tous ceux qui les entourent. Tant appréciés et si bien intégrés que, le jour où on leur offre leur rêve, rentrer au Portugal dans les meilleures conditions, personne ne veut laisser partir les Ribeiro, si dévoués et si discrets. Jusqu’où seront capables d’aller leur famille, les voisins, et leurs patrons pour les retenir ? Et après tout, Maria et José ont-ils vraiment envie de quitter la France et d’abandonner leur si précieuse cage dorée ?"
+    },
+    {
+      "id": 188,
+      "title": "Rosalie Blum",
+      "image": "img/188-rosalie-blum.jpg",
+      "annee": "2016",
+      "realisateur": "Julien Rappeneau",
+      "synopsis": "Vincent Machot connaît sa vie par cœur. Il la partage entre son salon de coiffure, son cousin, son chat, et sa mère bien trop envahissante. Mais la vie réserve parfois des surprises, même aux plus prudents... Il croise par hasard Rosalie Blum, une femme mystérieuse et solitaire, qu'il est convaincu d'avoir déjà rencontrée. Mais où ? Intrigué, il se décide à la suivre partout, dans l'espoir d'en savoir plus. Il ne se doute pas que cette filature va l’entraîner dans une aventure pleine d’imprévus où il découvrira des personnages aussi fantasques qu’attachants. Une chose est sûre : la vie de Vincent Machot va changer…"
+    },
+    {
+      "id": 189,
+      "title": "Les Femmes du 6e étage",
+      "image": "img/189-les-femmes-du-6e-étage.png",
+      "annee": "2011",
+      "realisateur": "Philippe Le Guay",
+      "synopsis": "Paris, années 60. Jean-Louis Joubert, agent de change rigoureux et père de famille « coincé », découvre qu’une joyeuse cohorte de bonnes espagnoles vit... au sixième étage de son immeuble bourgeois. Maria, la jeune femme qui travaille sous son toit, lui fait découvrir un univers exubérant et folklorique à l’opposé des manières et de l’austérité de son milieu. Touché par ces femmes pleines de vie, il se laisse aller et goûte avec émotion aux plaisirs simples pour la première fois. Mais peut-on vraiment changer de vie à 45 ans ?"
+    },
+    {
+      "id": 190,
+      "title": "L'Inconnu du lac",
+      "image": "img/190-linconnu-du-lac.webp",
+      "annee": "2013",
+      "realisateur": "Alain Guiraudie",
+      "synopsis": "L'été. Un lieu de drague pour hommes, caché au bord d'un lac. Franck tombe amoureux de Michel. Un homme beau, puissant et mortellement dangereux. Franck le sait, mais il veut vivre cette passion."
+    },
+    {
+      "id": 191,
+      "title": "Le dîner de cons",
+      "image": "img/191-le-diner-de-cons.jpg",
+      "annee": "1998",
+      "realisateur": "Francis Veber",
+      "synopsis": "Tous les mercredis, Pierre Brochant et ses amis organisent un dîner où chacun doit amener un con. Celui qui a trouvé le plus spectaculaire est declaré vainqueur. Ce soir, Brochant exulte, il est sur d'avoir trouvé la perle rare, un con de classe mondiale: Francois Pignon, comptable au ministère des Finances et passionné de modèles réduits en allumettes. Ce qu'il ignore c'est que Pignon est passe maître dans l'art de déclencher des catastrophes."
+    },
+    {
+      "id": 192,
+      "title": "Le nom des gens",
+      "image": "img/192-le-nom-des-gens.webp",
+      "annee": "2010",
+      "realisateur": "Michel Leclerc",
+      "synopsis": "Bahia Benmahmoud, jeune femme extravertie, se fait une haute idée de l'engagement politique puisqu'elle n'hésite pas à coucher avec ses ennemis pour les convertir à sa cause - ce qui peut faire beaucoup de monde vu qu'en gros, tous les gens de droite sont concernés. En règle générale, elle obtient de bons résultats. Jusqu'au jour où elle rencontre Arthur Martin, comme celui des cuisines, quadragénaire discret, adepte du risque zéro. Elle se dit qu'avec un nom pareil, il est forcément un peu facho. Mais les noms sont fourbes et les apparences trompeuses..."
+    },
+    {
+      "id": 193,
+      "title": "Swimming Pool",
+      "image": "img/193-swimming-pool.jpg",
+      "annee": "2003",
+      "realisateur": "François Ozon",
+      "synopsis": "Sarah Morton, auteur anglais de polars à succès, se rend en France dans le Luberon, dans la maison de son éditeur, pour se reposer et travailler. Mais une nuit, Julie, la fille française de ce dernier, débarque dans la demeure et vient perturber la quiétude de la romancière..."
+    },
+    {
+      "id": 194,
+      "title": "Tatie Danielle",
+      "image": "img/194-tatie-danielle.jpg",
+      "annee": "1990",
+      "realisateur": "Étienne Chatiliez",
+      "synopsis": "A la mort de son principal souffre-douleur, Odile, sa gouvernante, Mme Billard, veuve du colonel Edouard Billard, est secourue par ses charmants neveux. Pour Tatie Danielle, le champ de bataille s'élargit et elle va pouvoir exercer sa tyrannie sur ses neveux Billard."
+    },
+    {
+      "id": 195,
+      "title": "L'Étrange Noël de Monsieur Jack",
+      "image": "img/195-létrange-noel-de-monsieur-jack.webp",
+      "annee": "1993",
+      "realisateur": "Henry Selick",
+      "synopsis": "Jack Skellington, roi des citrouilles et guide de Halloween-ville, s'ennuie : depuis des siècles, il en a assez de préparer la même fête de Halloween qui revient chaque année, et il rêve de changement. C'est alors qu'il a l'idée de s'emparer de la fête de Noël..."
+    },
+    {
+      "id": 196,
+      "title": "La Cabane dans les bois",
+      "image": "img/196-la-cabane-dans-les-bois.jpg",
+      "annee": "2012",
+      "realisateur": "Drew Goddard",
+      "synopsis": "Cinq amis partent passer le week-end dans une cabane perdue au fond des bois. Ils n’ont aucune idée du cauchemar qui les y attend, ni de ce que cache vraiment la cabane dans les bois… Signé par deux maîtres de l’horreur, Joss Whedon et Drew Goddard, voici un film qui réinvente et repousse toutes les conventions du genre. Attendez-vous à découvrir un nouveau niveau de terreur…"
+    },
+    {
+      "id": 197,
+      "title": "La Révolution française",
+      "image": "img/197-la-révolution-française.jpg",
+      "annee": "1989",
+      "realisateur": "Robert Enrico et Richard T. Heffron",
+      "synopsis": "L'histoire de la Révolution française en deux parties : la première partie regroupe les évènements de 1789 au 10 août 1792, quand le roi Louis XVI est jeté en prison, tandis que la seconde partie nous emmène jusqu'à la fin de la Terreur en 1794, avec les exécutions de Louis XVI, Marie-Antoinette, Danton et Desmoulins..."
+    },
+    {
+      "id": 198,
+      "title": "The Mist",
+      "image": "img/198-the-mist.jpg",
+      "annee": "2007",
+      "realisateur": "Frank Darabont",
+      "synopsis": "Tandis qu'une brume étrange semble envelopper une petite ville du Maine, David Drayton et son jeune fils Billy se retrouvent pris au piège dans un supermarché, en compagnie d'autres habitants terrorisés. David ne tarde pas à s'apercevoir que le brouillard est peuplé d'inquiétantes créatures... Leur seule chance à tous de s'en sortir consiste à s'unir. Mais est-ce possible quand on connaît la nature humaine ? Alors que certains cèdent à la panique, David se demande ce qui est le plus effrayant : les monstres qui rôdent dans la brume ou ses semblables réfugiés dans le supermarché ?"
+    },
+    {
+      "id": 199,
+      "title": "La Planète des singes",
+      "image": "img/199-la-planète-des-singes.webp",
+      "annee": "1968",
+      "realisateur": "Franklin J. Schaffner",
+      "synopsis": "Egaré dans l'espace-temps, un engin spatial américain s'écrase en 3978 sur une planète inconnue. Les astronautes Taylor, Landon et Dodge découvrent que les hommes primitifs de cette planète mystérieuse sont placés sous le joug de singes très évolués..."
+    },
+    {
+      "id": 200,
+      "title": "The Door : La Porte du Passé",
+      "image": "img/200-the-door-la-porte-du-passé.jpg",
+      "annee": "2009",
+      "realisateur": "Anno Saul",
+      "synopsis": "David, un ancien peintre à succès, cherche un sens à sa vie après s'être rendu responsable de la mort de sa fille de sept ans. Cinq ans plus tard, il découvre une porte qui lui donne une seconde chance, celle de recommencer tout à zéro. Mais ce nouveau départ qui tient du miracle va se transformer en un cauchemar éveillé car dans le passé, les apparences sont trompeuses..."
+    },
+    {
+      "id": 201,
+      "title": "Cry Freedom - Le Cri de la liberté",
+      "image": "img/201-cry-freedom-le-cri-de-la-liberté.avif",
+      "annee": "1987",
+      "realisateur": "Richard Attenborough",
+      "synopsis": "1975, Afrique du Sud. Rédacteur en chef de l’un des journaux d’opposition les plus lus du pays, Donald Woods rencontre Steve Biko, un activiste qu’il soupçonne de prôner la haine des Noirs contre les Blancs. Immédiatement, entre les deux hommes, s’établit un rapport de confiance et de respect qui se transforme en profonde amitié. Après l’assassinat de Steve Biko par la police, Donald Woods reprend son combat, prêt à endurer toutes les épreuves pour que la vérité sur les crimes de l’Apartheid soit révélée au monde entier…"
+    },
+    {
+      "id": 202,
+      "title": "District 9",
+      "image": "img/202-district-9.avif",
+      "annee": "2009",
+      "realisateur": "Neill Blomkamp",
+      "synopsis": "Il y a vingt-huit ans, des extraterrestres entrèrent en contact avec la Terre...Ces visiteurs d'au-delà des étoiles étaient des réfugiés et furent installés dans le District 9, en Afrique du Sud, pendant que les nations du monde se querellaient pour savoir quoi en faire...Depuis, la gestion de la situation a été transférée au MNU (Multi-National United), une société privée qui n'a pas grand-chose à faire du sort de ces créatures, mais qui fera d'énormes bénéfices si elle arrive à faire fonctionner leur extraordinaire armement. Jusqu'à présent, toutes les tentatives ont échoué : pour que les armes marchent, il faut de l'ADN extraterrestre. La tension entre extraterrestres et humains atteint son maximum lorsque le MNU commence à évacuer les non-humains du District 9 vers un nouveau camp, en envoyant des agents de terrain s'occuper de leur transfert. L'un de ces agents, Wikus van der Merwe, contracte un virus extraterrestre qui se met à modifier son ADN. Wikus est à présent l'homme le plus recherché de la planète, celui qui vaut plus qu'une fortune : il est la clé qui permettra de percer le secret de la technologie alien.Repoussé, isolé, sans aide ni amis, il ne lui reste qu'un seul endroit où se cacher : le District 9..."
+    },
+    {
+      "id": 203,
+      "title": "Gerontophilia",
+      "image": "img/203-gerontophilia.avif",
+      "annee": "2014",
+      "realisateur": "Bruce LaBruce",
+      "synopsis": "Lake, 18 ans, un garçon plutôt ordinaire, vit avec une mère névrosée et sort avec une fille de son âge, un peu excentrique. Mais il se découvre un penchant de plus en plus fort pour... les vieux messieurs. Embauché dans une maison de retraite pour l’été, il tombe sous le charme de M. Peabody, un séduisant patient de 82 ans."
+    },
+    {
+      "id": 204,
+      "title": "Les témoins",
+      "image": "img/204-les-temoins.jpg",
+      "annee": "2007",
+      "realisateur": "André Téchiné",
+      "synopsis": "Manu débarque à Paris, où il partage la chambre de sa soeur Julie dans un hôtel modeste. Il fera la connaissance d'Adrien et nouera une amitié chaste et joyeuse avec ce médecin quinquagénaire, qui lui fera découvrir le style de vie de son milieu. Au cours d'une balade en bateau, Adrien présentera à Manu Sarah et Mehdi, un couple de jeunes mariés qui vient d'avoir son premier enfant. Une passion amoureuse imprévue et l'irruption de l'épidémie du sida, encore perçue dans les médias et l'imaginaire collectif comme une peste moderne et honteuse vont bouleverser le tranquille agencement de ces destins particuliers. Chacun va devenir acteur et témoin d'un drame contemporain, où ceux qui ne mourront pas ressortiront peut-être plus forts, mais en tout cas pas indemnes."
+    },
+    {
+      "id": 205,
+      "title": "La mauvaise éducation",
+      "image": "img/205-la-mauvaise-éducation.webp",
+      "annee": "2004",
+      "realisateur": "Pedro Almodovar",
+      "synopsis": "Deux garçons, Ignacio et Enrique, découvrent l'amour, le cinéma et la peur dans une école religieuse au début des années soixante. Le père Manolo, directeur de l'institution et professeur de littérature, est témoin et acteur de ces premières découvertes. Les trois personnages se reverront deux autres fois, à la fin des années 70 et en 1980. Cette deuxième rencontre marquera la vie et la mort de l'un d'entre eux."
+    },
+    {
+      "id": 206,
+      "title": "Les Sœurs fâchées",
+      "image": "img/206-les-soeurs-fachees.jpg",
+      "annee": "2004",
+      "realisateur": "Alexandra Leclère",
+      "synopsis": "Louise, esthéticienne au Mans, vient passer trois jours chez sa soeur Martine qui vit à Paris. Martine a apparemment tout ! Tout sauf l'essentiel. Et l'essentiel, justement, Louise l'a ! En l'espace de trois jours, Louise et son bonheur évident exaspèrent Martine au plus haut point et font voler sa vie en éclats."
+    },
+    {
+      "id": 207,
+      "title": "Sicko",
+      "image": "img/207-sicko.jpg",
+      "annee": "2007",
+      "realisateur": "Michael Moore",
+      "synopsis": "Le système de santé américain est en plein marasme. Car non seulement 47 millions de citoyens n'ont aucune couverture médicale, mais des millions d'autres, pourtant bénéficiaires d'une mutuelle, se heurtent systématiquement aux lourdeurs administratives du système. Au terme d'une enquête sans concession sur le système de santé dans son propre pays, Michael Moore nous offre un tour d'horizon des dispositifs existants au Canada, en Grande-Bretagne et en France, où les citoyens sont soignés gratuitement."
+    },
+    {
+      "id": 208,
+      "title": "Diane a les épaules",
+      "image": "img/208-diane-a-les-épaules.avif",
+      "annee": "2017",
+      "realisateur": "Fabien Gorgeart",
+      "synopsis": "Sans hésiter, Diane a accepté de porter l’enfant de Thomas et Jacques, ses meilleurs amis. C’est dans ces circonstances, pas vraiment idéales, qu’elle tombe amoureuse de Fabrizio."
+    },
+    {
+      "id": 209,
+      "title": "Lifeboat",
+      "image": "img/209-lifeboat.webp",
+      "annee": "1944",
+      "realisateur": "Alfred Hitchcock",
+      "synopsis": "Un navire américain est coulé par un sous-marin allemand. Les survivants gagnent un canot de sauvetage, bientôt rejoints par Willy, un marin appartenant à l'équipage du sous-marin, également naufragé. Tandis que Willy prend le contrôle de l'embarcation, une liaison semble naître entre deux rescapés, la journaliste Constance Porter et le mécanicien Novak."
+    },
+    {
+      "id": 210,
+      "title": "Plein soleil",
+      "image": "img/210-plein-soleil.avif",
+      "annee": "1960",
+      "realisateur": "René Clément",
+      "synopsis": "Tom Ripley est chargé par un milliardaire américain, M. Greenleaf, de ramener à San Francisco son fils Philippe qui passe de trop longues vacances en Italie auprès de sa maîtresse Marge. Tom entre dans l'intimité du couple et devient l'homme à tout faire de Philippe qui le fait participer à toutes ses aventures sans cesser de le mépriser."
+    },
+    {
+      "id": 211,
+      "title": "Fargo",
+      "image": "img/211-fargo.jpg",
+      "annee": "1996",
+      "realisateur": "Joel et Ethan Coen",
+      "synopsis": "Un vendeur de voitures d’occasion endetté fait enlever sa femme par deux petites frappes afin de toucher la rançon qui sera versée par son richissime beau-père. Mais le plan ne va pas résister longtemps à l’épreuve des faits et au flair d’une policière enceinte…"
+    },
+    {
+      "id": 212,
+      "title": "Juliettes des esprits",
+      "image": "img/212-juliette-des-esprits.webp",
+      "annee": "1965",
+      "realisateur": "Federico Fellini",
+      "synopsis": "Giulietta est une femme bourgeoise qui vit aisément dans une riche demeure avec son mari et deux soubrettes. Ses parents et sa famille la distraient d'un univers aseptisé. Mais elle découvre que son mari, qu'elle aime naïvement, lui est infidèle. S'ouvre alors à elle un univers mental extraordinaire, dans lequel son esprit mêle rêve et réalité. On découvre en Giulietta non plus la bourgeoise conformiste, mais un être d'une extraordinaire richesse intérieure."
+    },
+    {
+      "id": 213,
+      "title": "Viridiana",
+      "image": "img/213-viridiana.jpg",
+      "annee": "1961",
+      "realisateur": "Luis Buñuel",
+      "synopsis": "La jeune Viridiana souhaite entrer au couvent, mais la mère supérieure exige avant tout que la jeune femme aille rendre visite à son vieil oncle et bienfaiteur Don Jaime. Celui-ci, troublé par la ressemblance de sa nièce et de sa femme décédée, tente d'abuser sexuellement de la jeune femme. Choquée, Viridiana s'enfuit mais apprend que son oncle s'est suicidé. Se sentant coupable la jeune femme décide de revenir au domaine et de dédier sa vie à aider les gens pauvres. Elle héberge donc les mendiants du village dans la maison de son oncle dont elle a hérité à sa mort..."
+    },
+    {
+      "id": 214,
+      "title": "La Dame de Shanghai",
+      "image": "img/214-la-dame-de-shangai.webp",
+      "annee": "1948",
+      "realisateur": "Orson Welles",
+      "synopsis": "Un aventurier, séduit par la femme d’un homme très riche, se fait engager par lui sur son yacht. Il est contacté par l’associé du mari pour simuler son propre meurtre. Mais l’homme meurt effectivement et l’aventurier est accusé."
+    },
+    {
+      "id": 215,
+      "title": "Requiem pour un massacre",
+      "image": "img/215-requiem-pour-un-massacre.webp",
+      "annee": "1985",
+      "realisateur": "Elem Klimov",
+      "synopsis": "En 1943, en Biélorussie, un jeune villageois, Fliora, déterre le fusil d’un soldat mort et s’engage chez les partisans contre l’envahisseur allemand. Avec l’énergie et l’idéalisme d’un enfant, il plonge dans l’horreur d’un monde qui dépasse les adultes eux-mêmes. Entre errance et combat, Fliora devient le témoin de toutes les horreurs de la guerre."
+    },
+    {
+      "id": 216,
+      "title": "Atlantic City",
+      "image": "img/216-atlantic-city.jpg",
+      "annee": "1980",
+      "realisateur": "Louis Malle",
+      "synopsis": "Sally, serveuse dans un casino, hébèrge son mari, Dave qui vit maintenant avec sa soeur, dans un vieil immeuble d'Atlantic City. Dave a trouvé de la drogue dans une cabine téléphonique et aidé de Lou, voisin de Sally qui a toujours rêvé d'être un truand, tente de la revendre. Mais reconnu par les propriétaires des sachets de drogue, Dave est abattu. Lou, en possession de cette nouvelle richesse, va pouvoir enfin réaliser ses rêves."
+    },
+    {
+      "id": 217,
+      "title": "Soudain l'été dernier",
+      "image": "img/217-soudain-lété-dernier.jpg",
+      "annee": "1959",
+      "realisateur": "Joseph L. Mankiewicz",
+      "synopsis": "A la Nouvelle-Orléans de 1937, une riche veuve, Violet Venable, propose de financer l'hôpital public Lyons View si l'un de ses praticiens, le docteur Cukrowicz, accepte de pratiquer une lobotomie sur sa nièce Catherine Holly. Celle-ci est internée depuis le décès mystérieux, durant un périple estival, de Sebastian Venable, poète et fils de Mrs Venable. La version que raconte Catherine du décès de Sebastian paraît tellement loufoque, que Violet la croit folle à lier. Avec l'aide du Dr Cukrowicz, Catherine va peu à peu recouvrer la mémoire jusqu'à révéler une vérité que certains auraient préféré rester enfouie..."
+    },
+    {
+      "id": 218,
+      "title": "L'Été meurtrier",
+      "image": "img/218-lété-meurtrier.webp",
+      "annee": "1983",
+      "realisateur": "Jean Becker",
+      "synopsis": "En 1976, la jeune Éliane, sensuelle et aguicheuse, emménage dans un petit village de Provence avec Gabriel, son père adoptif paralytique et sa mère Eva Braun. La jeune femme fait alors la rencontre d'un pompier volontaire du village, surnommé Pin Pon, dont elle finit par tomber amoureuse."
+    },
+    {
+      "id": 219,
+      "title": "Police Python 357",
+      "image": "img/219-police-python-357.jpg",
+      "annee": "1976",
+      "realisateur": "Alain Corneau",
+      "synopsis": "Orléans. Meurtrier de sa maîtresse après qu'il ait appris sa liaison avec l'inspecteur Ferrot, le commissaire Ganay confie l'enquête à ce dernier. Tous les indices se retournent bientôt contre l'inspecteur Ferrot..."
+    },
+    {
+      "id": 220,
+      "title": "Le Poulpe",
+      "image": "img/220-le-poulpe.jpg",
+      "annee": "1998",
+      "realisateur": "Guillaume Nicloux",
+      "synopsis": "Gabriel Letourneur, alias le Poulpe, accompagne son amie Cheryl à Morsang, petite ville balnéaire de l'ouest de la France ou ses grands-parents reposent, plus exactement reposaient, car leur tombe vient d'être profanée. La police n'a pas l'ombre d'une piste sur les pilleurs du cimetière mais le Poulpe se rend compte très vite que deux des profanateurs ont déjà été assassinés. Pourquoi ces adolescents sans ambition sont-ils devenus des témoins gênants ?"
+    },
+    {
+      "id": 221,
+      "title": "L'Arche russe",
+      "image": "img/221-larche-russe.jpg",
+      "annee": "2002",
+      "realisateur": "Alexandre Sokourov",
+      "synopsis": "Invisible pour ceux qui l'entourent, un réalisateur contemporain se retrouve comme par magie dans le musée de l'Ermitage à Saint-Pétersbourg au début du XVIIIe siècle. Il y rencontre un cynique diplomate français du XIXe siècle. Les deux hommes deviennent complices au cours d'un extraordinaire voyage dans le temps, à travers le turbulent passé de la Russie, qui les conduit jusqu'à nos jours."
+    },
+    {
+      "id": 222,
+      "title": "Le bateau (das Boot)",
+      "image": "img/222-le-bateau-das-boot.webp",
+      "annee": "1981",
+      "realisateur": "Wolfgang Petersen",
+      "synopsis": "Pendant la deuxième Guerre Mondiale, 40 000 sous-mariniers allemands envoyés par Hitler embarquent pour une mission de routine dans l'Atlantique Nord. L'insouciance règne à bord. Ce qu'ils ne savent pas, c'est que seuls 10 000 hommes retourneront chez eux vivants."
+    },
+    {
+      "id": 223,
+      "title": "Pas son genre",
+      "image": "img/223-pas-son-genre.jpg",
+      "annee": "2014",
+      "realisateur": "Lucas Belvaux",
+      "synopsis": "Clément, jeune professeur de philosophie parisien est affecté à Arras pour un an. Loin de Paris et ses lumières, Clément ne sait pas à quoi occuper son temps libre. C'est alors qu'il rencontre Jennifer, jolie coiffeuse, qui devient sa maîtresse. Si la vie de Clément est régie par Kant ou Proust, celle de Jennifer est rythmée par la lecture de romans populaires, de magazines « people » et de soirées karaoké avec ses copines. Cœurs et corps sont libres pour vivre le plus beau des amours mais cela suffira-t-il à renverser les barrières culturelles et sociales ?"
+    },
+    {
+      "id": 224,
+      "title": "Témoin à charge",
+      "image": "img/224-témoin-à-charge.jpg",
+      "annee": "1957",
+      "realisateur": "Billy Wilder",
+      "synopsis": "A peine remis d'un infarctus qui a failli le terrasser, Sir Wilfrid Robarts, ténor du barreau, accepte de prendre la défense de Leonard Stephen Vole, accusé de meurtre. L'affaire, déjà difficilement plaidable, se complique encore lorsque Christine Vole, l'épouse du prévenu, devient l'un des témoins capitaux de l'accusation..."
+    },
+    {
+      "id": 225,
+      "title": "Qu'est-ce que j'ai fait pour mériter ça ?",
+      "image": "img/225-quest-ce-que-jai-fait-pour-meriter-ca.jpg",
+      "annee": "1984",
+      "realisateur": "Pedro Almodovar",
+      "synopsis": "Gloria est une maîtresse de maison qui n'a pas une minute à elle. Pour équilibrer son maigre budget, elle fait des ménages et quand elle rentre, elle doit s'occuper de toute la famille : mari, enfants, belle-mère et même des voisins. Pour réussir cette survie, Gloria prend des amphétamines. Aussi, quand la pharmacienne lui refuse sa dose, Gloria va exploser... Troisieme long-métrage d'un jeune et controversé cinéaste espagnol, chef de file de la Movida, bohème espagnole. Un film noir acide où l'humour étouffe sous la cruaute de ce qui s'y passe ."
+    },
+    {
+      "id": 226,
+      "title": "Mademoiselle",
+      "image": "img/226-mademoiselle.jpg",
+      "annee": "2016",
+      "realisateur": "Park Chan-Wook",
+      "synopsis": "Corée. Années 30, pendant la colonisation japonaise. Une jeune femme (Sookee) est engagée comme servante d’une riche japonaise (Hideko), vivant recluse dans un immense manoir sous la coupe d’un oncle tyrannique. Mais Sookee a un secret. Avec l’aide d’un escroc se faisant passer pour un comte japonais, ils ont d’autres plans pour Hideko…"
+    },
+    {
+      "id": 227,
+      "title": "L'Emploi du temps",
+      "image": "img/227-lemploi-du-temps.avif",
+      "annee": "2001",
+      "realisateur": "Laurent Cantet",
+      "synopsis": "Vincent, consultant en entreprise, est licencié. Il décide de le cacher à son entourage et à sa famille en s'inventant un nouvel emploi du temps à Genève. Contraint non seulement de trouver coûte que coûte de l'argent, mais aussi d'étayer chaque jour davantage la fiction de son emploi, Vincent tombe dans son propre piège. Mentir à ses proches devient alors une occupation à plein temps."
+    },
+    {
+      "id": 228,
+      "title": "Le Mystère Picasso",
+      "image": "img/228-le-mystère-picasso.webp",
+      "annee": "1956",
+      "realisateur": "Henri-Georges Clouzot",
+      "synopsis": "Ce film unique en son genre montre le peintre et génie Pablo Picasso en pleine création. Au gré de son inspiration, l'artiste compose plusieurs oeuvres sous l'oeil de la caméra du réalisateur Henri-Georges Clouzot."
+    },
+    {
+      "id": 229,
+      "title": "El reino",
+      "image": "img/229-el-reino.jpg",
+      "annee": "2018",
+      "realisateur": "Rodrigo Sorogoyen",
+      "synopsis": "Manuel López-Vidal est un homme politique influent dans sa région. Alors qu'il doit entrer à la direction nationale de son parti, il se retrouve impliqué dans une affaire de corruption qui menace un de ses amis les plus proches. Pris au piège, il plonge dans un engrenage infernal..."
     }
   ]
 }
