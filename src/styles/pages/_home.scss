@@ -1,24 +1,52 @@
 .home {
-  background: rgba(134, 134, 134, 0.342);
-  height: 100vh;
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+
   display: flex;
   align-items: center;
   justify-content: center;
 
-  .game-rules-box {
-    h1 {
-      text-align: center;
+  .home-grid {
+    position: absolute;
+    inset: 0;
+    z-index: 1;
+
+    display: grid;
+    grid-template-columns: repeat(11, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    gap: 2px;
+    @media (max-width: 910px) {
+      grid-template-columns: repeat(7, 1fr);
+      grid-template-rows: repeat(6, 1fr);
     }
+
+    .grid-cell {
+      background-size: cover;
+      background-position: center;
+      filter: brightness(0.45);
+    }
+  }
+
+  .game-rules-box {
+    position: relative;
+    z-index: 2;
+
     border-radius: 10px;
     padding: 60px;
     width: 70%;
-    background: rgba(0, 0, 0, 0.507);
+    background: rgba(0, 0, 0, 0.65);
     display: flex;
     flex-direction: column;
     align-items: center;
     border: 2px solid rgb(255, 255, 255);
     gap: 50px;
     color: white;
+    backdrop-filter: blur(4px);
+
+    h1 {
+      text-align: center;
+    }
 
     .game-rules {
       text-align: center;
@@ -31,6 +59,7 @@
     @media (max-width: 530px) {
       padding: 20px;
       font-size: 0.9rem;
+      width: 90%;
     }
   }
 }
