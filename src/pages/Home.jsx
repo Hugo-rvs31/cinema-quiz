@@ -8,6 +8,7 @@ const shuffleArray = (array) => {
 
 const Home = () => {
   const [images, setImages] = useState([]);
+  const [maxCells, setMaxCells] = useState(88); // valeur par défaut
 
   useEffect(() => {
     axios
@@ -19,12 +20,50 @@ const Home = () => {
       .catch(console.error);
   }, []);
 
+  // calcul dynamique du nombre de cellules selon la largeur de la fenêtre
+  useEffect(() => {
+    const updateGridCells = () => {
+      const width = window.innerWidth;
+      let columns = 11;
+      let rows = 8;
+
+      if (width <= 400) {
+        columns = 2;
+        rows = 5;
+      } else if (width <= 500) {
+        columns = 3;
+        rows = 5;
+      } else if (width <= 650) {
+        columns = 4;
+        rows = 6; // on peut ajuster selon tes besoins
+      } else if (width <= 910) {
+        columns = 5;
+        rows = 6;
+      } else if (width <= 1050) {
+        columns = 6;
+        rows = 8;
+      } else if (width <= 1280) {
+        columns = 9;
+        rows = 8;
+      } else {
+        columns = 11;
+        rows = 8;
+      }
+
+      setMaxCells(columns * rows);
+    };
+
+    updateGridCells();
+    window.addEventListener("resize", updateGridCells);
+    return () => window.removeEventListener("resize", updateGridCells);
+  }, []);
+
   const shuffledImages = useMemo(() => shuffleArray(images), [images]);
 
   return (
     <div className="home">
       <div className="home-grid">
-        {shuffledImages.map((img, index) => (
+        {shuffledImages.slice(0, maxCells).map((img, index) => (
           <div
             key={index}
             className="grid-cell"
@@ -37,10 +76,12 @@ const Home = () => {
         <h1>Quiz Cinéma</h1>
         <div className="game-rules">
           Trouvez le film correspondant à l'image en moins de 10 secondes.{" "}
-          <br /> Plus vous trouvez de films, plus votre score final sera élevé,{" "}
-          chaque film vaut 1 point de 1 à 20 films, puis 2 points de 21 à 40
-          films (le jeu fonctionne par palier de 20 films) et ainsi de suite
-          <br /> Êtes-vous prêt à tester vos connaissances cinéma ?
+          <br />
+          Plus vous trouvez de films, plus votre score final sera élevé, chaque
+          film vaut 1 point de 1 à 20 films, puis 2 points de 21 à 40 films (le
+          jeu fonctionne par palier de 20 films) et ainsi de suite
+          <br />
+          Êtes-vous prêt à tester vos connaissances cinéma ?
         </div>
         <Navigation />
       </div>

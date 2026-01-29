@@ -27,6 +27,9 @@
     padding: 10px !important;
     letter-spacing: 1px !important;
   }
+  @media (max-width: 380px) {
+    margin-top: -10px !important;
+  }
   @media (max-width: 325px) {
     font-size: 0.8rem !important;
     letter-spacing: 0px !important;

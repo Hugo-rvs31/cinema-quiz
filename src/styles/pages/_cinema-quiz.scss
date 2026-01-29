@@ -1,10 +1,29 @@
 .cinema-quiz {
-  background: url("/img/img-background/backgroundCinemaQuiz.jpg") center/cover
-    no-repeat;
-  min-height: 100vh;
   position: relative;
+  min-height: 100vh;
+
+  // Damier noir/blanc en fond
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: linear-gradient(
+        45deg,
+        #fff 25%,
+        #57ecec 45%,
+        #e23737 75%,
+        #fff 75%
+      ),
+      linear-gradient(45deg, #fff 25%, #000 25%, #000 75%, #fff 75%);
+    background-size: 40px 40px; // taille des cases
+    background-position: 0 0, 20px 20px; // pour créer le damier
+    opacity: 0.4; // ajustable
+    z-index: 0; // derrière le contenu
+  }
 
   .container-cinema-quiz {
+    position: relative;
+    z-index: 1; // au-dessus du damier
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -18,7 +37,9 @@
     }
 
     .box-quiz {
-      background: #1c1c1c;
+      position: relative; // pour rester au-dessus du damier
+      z-index: 2;
+      background: #414040de;
       color: white;
       border-radius: 1rem;
       padding: 2rem;
@@ -40,7 +61,7 @@
         font-size: 1rem;
         margin-bottom: 1rem;
         font-weight: bold;
-        color: #ffd700; // doré pour les paliers
+        color: #ffd700;
       }
 
       .timer {
@@ -107,11 +128,11 @@
           &:hover {
             background: #666;
           }
-
           &:disabled {
             background: #222;
             cursor: not-allowed;
           }
+
           @media (max-width: 530px) {
             padding: 0.5rem 1.1rem;
             font-size: 0.8rem;
@@ -125,15 +146,12 @@
 
         &.success {
           color: #00ff88;
-
           @media (max-width: 641px) {
             font-size: 1rem;
           }
         }
-
         &.error {
           color: #ff4040;
-
           @media (max-width: 641px) {
             font-size: 1rem;
           }
@@ -142,7 +160,7 @@
 
       .end-block {
         position: absolute;
-        top: 310px;
+        top: 210px;
         background: rgba(231, 132, 132, 0.384);
         border-radius: 20px;
         padding: 30px;
@@ -174,42 +192,38 @@
           svg {
             transition: transform 0.3s;
           }
-
           &:hover svg {
             transform: rotate(-90deg);
           }
         }
+
         @media (max-width: 1200px) {
-          top: 285px;
+          top: 185px;
         }
         @media (max-width: 641px) {
-          top: 280px;
+          top: 170px;
         }
-
         @media (max-width: 470px) {
-          top: 260px;
+          top: 150px;
         }
         @media (max-width: 370px) {
-          top: 242px;
+          top: 135px;
         }
         @media (max-width: 239px) {
-          top: 260px;
+          top: 135px;
         }
         @media (max-width: 217px) {
-          top: 285px;
+          top: 155px;
         }
       }
     }
 
-    .tier-banner {
-    }
     .tier-info {
       background: rgba(255, 255, 255, 0.671);
       display: flex;
       flex-direction: column;
       gap: 3px;
       border: 2px solid rgba(225, 219, 240, 0.685);
-      padding: 5px 0;
       padding: 5px 0;
       border-radius: 20px;
 
