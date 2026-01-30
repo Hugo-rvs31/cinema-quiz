@@ -4,14 +4,19 @@ const Navigation = () => {
   const location = useLocation();
 
   const isHome = location.pathname === "/";
+  const isLibrary = location.pathname === "/library";
 
   return (
     <NavLink
       id="navigation"
       to={isHome ? "/quiz" : "/"}
-      className={isHome ? "nav-home" : "nav-quiz"}
+      className={isHome ? "nav-home" : isLibrary ? "nav-library" : "nav-quiz"}
     >
-      {isHome ? "Démarrer le quiz Cinéma" : "Accueil"}
+      {isHome
+        ? "Démarrer le quiz Cinéma"
+        : isLibrary
+        ? "Retour à l’accueil"
+        : "Accueil"}
     </NavLink>
   );
 };

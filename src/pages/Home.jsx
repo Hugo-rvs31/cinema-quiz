@@ -1,6 +1,7 @@
 import React, { useEffect, useMemo, useState } from "react";
 import Navigation from "../components/Navigation";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
 
 const shuffleArray = (array) => {
   return [...array].sort(() => Math.random() - 0.5);
@@ -9,6 +10,11 @@ const shuffleArray = (array) => {
 const Home = () => {
   const [images, setImages] = useState([]);
   const [maxCells, setMaxCells] = useState(88); // valeur par défaut
+  const navigate = useNavigate();
+
+  const handleGridClick = () => {
+    navigate("/library"); // future page bibliothèque
+  };
 
   useEffect(() => {
     axios
@@ -68,11 +74,12 @@ const Home = () => {
             key={index}
             className="grid-cell"
             style={{ backgroundImage: `url(${img})` }}
+            onClick={handleGridClick}
           />
         ))}
       </div>
 
-      <div className="game-rules-box">
+      <div className="game-rules-box" onClick={(e) => e.stopPropagation()}>
         <h1>Quiz Cinéma</h1>
         <div className="game-rules">
           Trouvez le film correspondant à l'image en moins de 10 secondes.{" "}

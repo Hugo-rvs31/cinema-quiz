@@ -1,0 +1,102 @@
+import React, { useEffect, useMemo, useState } from "react";
+import axios from "axios";
+import Navigation from "../components/Navigation";
+
+const Library = () => {
+  const [films, setFilms] = useState([]);
+  const [search, setSearch] = useState("");
+  const [sortType, setSortType] = useState("title-asc");
+
+  // 🔹 Fetch des films
+  useEffect(() => {
+    axios
+      .get("/cinema-quiz/db-cinema.json")
+      .then((res) => {
+        setFilms(res.data.films);
+      })
+      .catch(console.error);
+  }, []);
+
+  // 🔹 Films filtrés + triés
+  const filteredFilms = useMemo(() => {
+    let result = [...films];
+
+    // --- SEARCH (title + realisateur, case insensitive)
+    if (search.trim() !== "") {
+      const value = search.toLowerCase();
+
+      result = result.filter(
+        (film) =>
+          film.title.toLowerCase().includes(value) ||
+          film.realisateur.toLowerCase().includes(value)
+      );
+    }
+
+    // --- SORT
+    if (sortType === "title-asc") {
+      result.sort((a, b) => a.title.localeCompare(b.title));
+    }
+
+    if (sortType === "title-desc") {
+      result.sort((a, b) => b.title.localeCompare(a.title));
+    }
+
+    if (sortType === "year-asc") {
+      result.sort((a, b) => Number(a.annee) - Number(b.annee));
+    }
+
+    if (sortType === "year-desc") {
+      result.sort((a, b) => Number(b.annee) - Number(a.annee));
+    }
+
+    return result;
+  }, [films, search, sortType]);
+
+  return (
+    <div className="library">
+      <Navigation />
+
+      <h1>Bibliothèque de films</h1>
+
+      {/* 🔎 TOOLS */}
+      <div className="library-tools">
+        <input
+          type="text"
+          placeholder="Rechercher par titre ou réalisateur..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+        />
+
+        <select value={sortType} onChange={(e) => setSortType(e.target.value)}>
+          <option value="title-asc">Titre A → Z</option>
+          <option value="title-desc">Titre Z → A</option>
+          <option value="year-asc">Année croissante</option>
+          <option value="year-desc">Année décroissante</option>
+        </select>
+      </div>
+
+      {/* 🎬 LIST */}
+      <div className="library-grid">
+        {filteredFilms.map((film) => (
+          <div key={film.id} className="library-card">
+            <div className="library-image">
+              <img src={film.image} alt={film.title} />
+
+              <div className="library-overlay">
+                <p>{film.synopsis}</p>
+              </div>
+            </div>
+
+            <h3 className="title">{film.title}</h3>
+            <p className="annee">
+              <strong>film sorti en {film.annee}</strong>
+            </p>
+            <p className="realisateur">Réalisé par {film.realisateur}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+export default Library;
