@@ -1,11 +1,13 @@
 import React, { useEffect, useMemo, useState } from "react";
 import axios from "axios";
 import Navigation from "../components/Navigation";
+import { useNavigate } from "react-router-dom";
 
 const Library = () => {
   const [films, setFilms] = useState([]);
   const [search, setSearch] = useState("");
   const [sortType, setSortType] = useState("title-asc");
+  const navigate = useNavigate();
 
   // 🔹 Fetch des films
   useEffect(() => {
@@ -54,8 +56,6 @@ const Library = () => {
 
   return (
     <div className="library">
-      <Navigation />
-
       <h1>Bibliothèque de films</h1>
 
       {/* 🔎 TOOLS */}
@@ -79,15 +79,17 @@ const Library = () => {
       <div className="library-grid">
         {filteredFilms.map((film) => (
           <div key={film.id} className="library-card">
-            <div className="library-image">
+            <div
+              className="library-image"
+              onClick={() => navigate(`/library/${film.id}`)}
+            >
               <img src={film.image} alt={film.title} />
 
               <div className="library-overlay">
-                <p>{film.synopsis}</p>
+                <h3 className="title">{film.title}</h3>
               </div>
             </div>
 
-            <h3 className="title">{film.title}</h3>
             <p className="annee">
               <strong>film sorti en {film.annee}</strong>
             </p>

@@ -3,6 +3,7 @@ import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import CinemaQuiz from "./pages/CinemaQuiz";
 import Library from "./pages/Library";
+import FilmDetails from "./pages/FilmDetails";
 
 const App = () => {
   return (
@@ -10,8 +11,11 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/quiz" element={<CinemaQuiz />} />
-        <Route path="*" element={<Home />} />
         <Route path="/library" element={<Library />} />
+        <Route path="/library/:id" element={<FilmDetails />} />
+
+        {/* ⚠️ toujours en dernier */}
+        <Route path="*" element={<Home />} />
       </Routes>
     </HashRouter>
   );

@@ -4,7 +4,7 @@ const Navigation = () => {
   const location = useLocation();
 
   const isHome = location.pathname === "/";
-  const isLibrary = location.pathname === "/library";
+  const isLibrary = location.pathname.startsWith("/library");
 
   return (
     <NavLink

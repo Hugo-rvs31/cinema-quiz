@@ -6,6 +6,12 @@
       "image": "/cinema-quiz/img/1-12-years-a-slave.jpg",
       "annee": "2013",
       "realisateur": "Steve McQueen",
+      "acteurs_principaux": [
+        "Chiwetel Ejiofor",
+        "Michael Fassbender",
+        "Lupita Nyong’o",
+        "Sarah Paulson"
+      ],
       "synopsis": "Les États-Unis, quelques années avant la guerre de Sécession. Solomon Northup, jeune homme noir originaire de l'État de New York, est enlevé et vendu comme esclave. Face à la cruauté d'un propriétaire de plantation de coton, Solomon se bat pour rester en vie et garder sa dignité."
     },
     {
@@ -14,6 +20,12 @@
       "image": "/cinema-quiz/img/2-28-jours-plus-tard.png",
       "annee": "2002",
       "realisateur": "Danny Boyle",
+      "acteurs_principaux": [
+        "Cillian Murphy",
+        "Naomie Harris",
+        "Christopher Eccleston",
+        "Brendan Gleeson"
+      ],
       "synopsis": "Un commando de la Protection Animale fait irruption dans un laboratoire top secret pour délivrer des dizaines de chimpanzés soumis à de terribles expériences. Mais aussitôt libérés, les primates, contaminés par un mystérieux virus et animés d'une rage incontrôlable, bondissent sur leurs sauveurs et les massacrent. 28 jours plus tard, le mal s'est répandu à une vitesse fulgurante à travers le pays, la population a été évacuée en masse et Londres n'est plus qu'une ville fantôme. Les rares rescapés se terrent pour échapper aux Contaminés assoiffés de violence. C'est dans ce contexte que Jim, un coursier, sort d'un profond coma..."
     },
     {
@@ -22,6 +34,12 @@
       "image": "/cinema-quiz/img/3-babel.webp",
       "annee": "2006",
       "realisateur": "Alejandro Gonzalez Inarritu",
+      "acteurs_principaux": [
+        "Brad Pitt",
+        "Cate Blanchett",
+        "Gael García Bernal",
+        "Rinko Kikuchi"
+      ],
       "synopsis": "En plein désert marocain, un coup de feu retentit. Il va déclencher toute une série d'événements qui impliqueront un couple de touristes américains au bord du naufrage, deux jeunes Marocains auteurs d'un crime accidentel, une nourrice qui voyage illégalement avec deux enfants américains, et une adolescente japonaise rebelle dont le père est recherché par la police à Tokyo. Séparés par leurs cultures et leurs modes de vie, chacun de ces quatre groupes de personnes va cependant connaître une même destinée d'isolement et de douleur..."
     },
     {
@@ -30,6 +48,12 @@
       "image": "/cinema-quiz/img/4-black-book.jpg",
       "annee": "2006",
       "realisateur": "Paul Verhoeven",
+      "acteurs_principaux": [
+        "Carice van Houten",
+        "Sebastian Koch",
+        "Thom Hoffman",
+        "Halina Reijn"
+      ],
       "synopsis": "La Haye, sous l'occupation allemande. Lorsque sa cachette est détruite par une bombe, la belle chanteuse Rachel Stein tente, avec un groupe de Juifs, de gagner la Hollande Méridionale, déjà libérée. Mais une patrouille allemande les intercepte dans le delta du Biesboch. Tous les réfugiés sont abattus ; seule Rachel échappe au massacre.Elle rejoint alors la Résistance et, sous le nom d'Ellis de Vries, parvient à infiltrer le Service de Renseignements allemand et à se lier avec l'officier Mûntze. Séduit, celui-ci lui offre un emploi..."
     },
     {
@@ -38,6 +62,12 @@
       "image": "/cinema-quiz/img/5-bullhead.png",
       "annee": "2011",
       "realisateur": "Michaël R. Roskam",
+      "acteurs_principaux": [
+        "Matthias Schoenaerts",
+        "Jeroen Perceval",
+        "Barbara Sarafian",
+        "Jeanne Dandoy"
+      ],
       "synopsis": "Jacky est issu d'une importante famille d'agriculteurs et d'engraisseurs du sud du Limbourg. A 33 ans, il apparaît comme un être renfermé et imprévisible, parfois violent… Grâce à sa collaboration avec un vétérinaire corrompu, Jacky s’est forgé une belle place dans le milieu de la mafia des hormones. Alors qu’il est en passe de conclure un marché exclusif avec le plus puissant des trafiquants d'hormones de Flandre occidentale, un agent fédéral est assassiné. C’est le branle-bas de combat parmi les policiers. Les choses se compliquent pour Jacky et tandis que l’étau se resserre autour de lui, tout son passé, et ses lourds secrets, ressurgissent…"
     },
     {
@@ -46,6 +76,12 @@
       "image": "/cinema-quiz/img/6-dark-city.jpg",
       "annee": "1998",
       "realisateur": "Alex Proyas",
+      "acteurs_principaux": [
+        "Rufus Sewell",
+        "Jennifer Connelly",
+        "Kiefer Sutherland",
+        "William Hurt"
+      ],
       "synopsis": "Se réveillant sans aucun souvenir dans une chambre d'hôtel impersonnelle, John Murdoch découvre bientôt qu'il est recherché pour une série de meurtres sadiques. Traqué par l'inspecteur Bumstead, il cherche à retrouver la mémoire et ainsi comprendre qui il est. Il s'enfonce dans un labyrinthe mystérieux où il croise des créatures douées de pouvoirs effrayants. Grâce au docteur Schreber, Murdoch réussit à se remémorer certains détails de son passé trouble."
     },
     {
@@ -54,6 +90,12 @@
       "image": "/cinema-quiz/img/7-elle-ladore.jpg",
       "annee": "2014",
       "realisateur": "Jeanne Herry",
+      "acteurs_principaux": [
+        "Sandrine Kiberlain",
+        "Laurent Lafitte",
+        "Antoine Reinartz",
+        "Mathilde Bisson"
+      ],
       "synopsis": "Muriel est esthéticienne. Elle est bavarde, un peu menteuse, elle aime raconter des histoires souvent farfelues. Depuis 20 ans, Muriel est aussi la première fan du chanteur à succès Vincent Lacroix. Avec ses chansons et ses concerts, il occupe presque toute sa vie.Lorsqu'une nuit Vincent, son idole, sonne à la porte de Muriel, sa vie bascule. Elle est entrainée dans une histoire qu’elle n’aurait pas osé inventer."
     },
     {
@@ -62,6 +104,12 @@
       "image": "/cinema-quiz/img/8-etreintes-brisees.jpg",
       "annee": "2009",
       "realisateur": "Pedro Almodovar",
+      "acteurs_principaux": [
+        "Penélope Cruz",
+        "Lluís Homar",
+        "Blanca Portillo",
+        "Tamar Novas"
+      ],
       "synopsis": "Dans l'obscurité, un homme écrit, vit et aime. Quatorze ans auparavant, il a eu un violent accident de voiture, dans lequel il n'a pas seulement perdu la vue mais où est morte Lena, la femme de sa vie.Cet homme a deux noms : Harry Caine, pseudonyme ludique sous lequel il signe ses travaux littéraires, ses récits et scénarios ; et Mateo Blanco, qui est son nom de baptême, sous lequel il vit et signe les films qu'il dirige. Après l'accident, Mateo Blanco devient son pseudonyme, Harry Caine. Dans la mesure où il ne peut plus diriger de films, il préfère survivre avec l'idée que Mateo Blanco est mort avec Lena, la femme qu'il aimait, dans l'accident. Désormais, Harry Caine vit grâce aux scénarios qu'il écrit et à l'aide de son ancienne et fidèle directrice de production, Judit García, et du fils de celle-ci, Diego. Depuis qu'il a décidé de vivre et de raconter des histoires, Harry est un aveugle très actif et attractif qui a développé tous ses autres sens pour jouir de la vie, sur fond d'ironie et dans une amnésie qu'il a volontairement choisie ou, plus exactement, qu'il s'est imposé. Il a effacé de sa biographie tout ce qui est arrivé quatorze ans auparavant. Il n'en parle plus, il ne pose plus de questions ; le monde a eu vite fait d'oublier Mateo Blanco et il est lui-même le premier à ne pas désirer le ressusciter... Une histoire d'amour fou, dominée par la fatalité, la jalousie et la trahison. Une histoire dont l'image la plus éloquente est la photo de Mateo et Lena, déchirée en mille morceaux."
     },
     {
@@ -70,6 +118,12 @@
       "image": "/cinema-quiz/img/9-get-out.webp",
       "annee": "2017",
       "realisateur": "Jordan Peele",
+      "acteurs_principaux": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Bradley Whitford",
+        "Catherine Keener"
+      ],
       "synopsis": "Couple mixte, Chris et sa petite amie Rose  filent le parfait amour. Le moment est donc venu de rencontrer la belle famille, Missy et Dean lors d’un week-end sur leur domaine dans le nord de l’État. Chris commence par penser que l’atmosphère tendue est liée à leur différence de couleur de peau, mais très vite une série d’incidents de plus en plus inquiétants lui permet de découvrir l’inimaginable."
     },
     {
@@ -78,6 +132,12 @@
       "image": "/cinema-quiz/img/10-incendies.webp",
       "annee": "2010",
       "realisateur": "Denis Villeneuve",
+      "acteurs_principaux": [
+        "Lubna Azabal",
+        "Mélissa Désormeaux-Poulin",
+        "Maxim Gaudette",
+        "Rémy Girard"
+      ],
       "synopsis": "A la lecture du testament de leur mère, Jeanne et Simon Marwan se voient remettre deux enveloppes : l’une destinée à un père qu’ils croyaient mort et l‘autre à un frère dont ils ignoraient l’existence. Jeanne voit dans cet énigmatique legs la clé du silence de sa mère, enfermée dans un mutisme inexpliqué les dernières semaines précédant sa mort. Elle décide immédiatement de partir au Moyen Orient exhumer le passé de cette famille dont elle ne sait presque rien… Simon, lui, n’a que faire des caprices posthumes de cette mère qui s’est toujours montrée distante. Mais son amour pour sa sœur jumelle le poussera bientôt à rejoindre Jeanne et à sillonner avec elle le pays de leurs ancêtres sur la piste d’une mère bien loin de celle qu’ils ont connue."
     },
     {
@@ -86,6 +146,12 @@
       "image": "/cinema-quiz/img/11-it-follows.avif",
       "annee": "2014",
       "realisateur": "David Robert Mitchell",
+      "acteurs_principaux": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Olivia Luccardi",
+        "Jake Weary"
+      ],
       "synopsis": "Dans une banlieue pavillonnaire de Detroit, Jay, étudiante insouciante d’une vingtaine d’années, se rend au cinéma avec Hugh, un garçon de son âge qu’elle a commencé à fréquenter. Mais ce dernier écourte la séance, pris de panique devant une étrange vision. Lors d’un second rendez-vous au bord du lac, les deux jeunes gens font l’amour pour la première fois. À la fin de leurs ébats, Hugh endort sa partenaire avec du chloroforme... Quand Jay reprend conscience, elle est attachée dans un fauteuil roulant. Face à elle, un Hugh apeuré lui explique qu’une chose, qui se présentera sous différentes formes, connues ou inconnues, la suit désormais dans le but de la tuer. Si elle parvient à ses fins, la malédiction s’abattra alors sur la personne qui la lui a transmise. Pour s’en libérer, Jay n’a qu’une solution : coucher avec quelqu’un d’autre, qui deviendra cible à sa place…"
     },
     {
@@ -94,6 +160,12 @@
       "image": "/cinema-quiz/img/12-la-mome.jpg",
       "annee": "2007",
       "realisateur": "Olivier Dahan",
+      "acteurs_principaux": [
+        "Marion Cotillard",
+        "Sylvie Testud",
+        "Pascal Greggory",
+        "Emmanuelle Seigner"
+      ],
       "synopsis": "De son enfance à la gloire, de ses victoires à ses blessures, de Belleville à New York, l'exceptionnel parcours d'Edith Piaf. A travers un destin plus incroyable qu'un roman, découvrez l'âme d'une artiste et le coeur d'une femme. Intime, intense, fragile et indestructible, dévouée à son art jusqu'au sacrifice, voici la plus immortelle des chanteuses..."
     },
     {
@@ -102,6 +174,12 @@
       "image": "/cinema-quiz/img/13-la-mouche.webp",
       "annee": "1986",
       "realisateur": "David Cronenberg",
+      "acteurs_principaux": [
+        "Jeff Goldblum",
+        "Geena Davis",
+        "John Getz",
+        "Joy Boushel"
+      ],
       "synopsis": "Seth Brundle est un jeune biologiste très doué. Après avoir fait ses premières armes dans une brillante équipe, il se décide à travailler seul. Il met au point une invention qui doit révolutionner le monde : la téléportation, qui consiste à transporter la matière à travers l'espace. Les essais sur un babouin sont peu convaincants et après des fuites dans la presse, il décide de se téléporter lui-même. Seulement il ne s'aperçoit pas qu'une mouche fait partie du voyage."
     },
     {
@@ -110,6 +188,12 @@
       "image": "/cinema-quiz/img/14-la-vie-des-autres.png",
       "annee": "2006",
       "realisateur": "Florian H. von Donnersmarck",
+      "acteurs_principaux": [
+        "Ulrich Mühe",
+        "Martina Gedeck",
+        "Sebastian Koch",
+        "Ulrich Tukur"
+      ],
       "synopsis": "Au début des années 1980, en Allemagne de l'Est, l'auteur à succès Georg Dreyman et sa compagne, l'actrice Christa-Maria Sieland, sont considérés comme faisant partie de l'élite des intellectuels de l'Etat communiste, même si, secrètement, ils n'adhèrent aux idées du parti. Le Ministère de la Culture commence à s'intéresser à Christa et dépêche un agent secret, nommé Wiesler, ayant pour mission de l'observer. Tandis qu'il progresse dans l'enquête, le couple d'intellectuels le fascine de plus en plus..."
     },
     {
@@ -118,6 +202,12 @@
       "image": "/cinema-quiz/img/15-lage-de-cristal.webp",
       "annee": "1976",
       "realisateur": "Michael Anderson",
+      "acteurs_principaux": [
+        "Michael York",
+        "Jenny Agutter",
+        "Richard Jordan",
+        "Roscoe Lee Browne"
+      ],
       "synopsis": "Dans la société de 2274, si les sujets vivent essentiellement de plaisirs, ils sont contraints de mourir à 30 ans pour éviter la surpopulation. Mais Logan 5 et Jessica 6 se rebellent et s'enfuient..."
     },
     {
@@ -126,6 +216,12 @@
       "image": "/cinema-quiz/img/16-lauberge-espagnole.webp",
       "annee": "2002",
       "realisateur": "Cédric Klapisch",
+      "acteurs_principaux": [
+        "Romain Duris",
+        "Audrey Tautou",
+        "Cécile de France",
+        "Judith Godrèche"
+      ],
       "synopsis": "Xavier, un jeune homme de vingt-cinq ans, part à Barcelone pour terminer ses études en économie et apprendre l'espagnol. Cette langue est nécessaire pour occuper un poste, que lui promet un ami de son père, au ministère des finances. Mais pour ce faire, il doit quitter sa petite amie Martine, avec qui il vit depuis quatre ans. En Espagne, Xavier cherche un logement et trouve finalement un appartement dans le centre de Barcelone qu'il compte partager avec sept autres personnes. Chacun de ses co-locataires est originaire d'un pays différent."
     },
     {
@@ -134,6 +230,12 @@
       "image": "/cinema-quiz/img/17-le-fabuleux-destin-damelie-poulain.jpg",
       "annee": "2001",
       "realisateur": "Jean-Pierre Jeunet",
+      "acteurs_principaux": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus",
+        "Isabelle Nanty"
+      ],
       "synopsis": "Amélie, une jeune serveuse dans un bar de Montmartre, passe son temps à observer les gens et à laisser son imagination divaguer. Elle s'est fixé un but : faire le bien de ceux qui l'entourent. Elle invente alors des stratagèmes pour intervenir incognito dans leur existence. Le chemin d'Amélie est jalonné de rencontres : Georgette, la buraliste hypocondriaque ; Lucien, le commis d'épicerie ; Madeleine Wallace, la concierge portée sur le porto et les chiens empaillés ; Raymond Dufayel alias l'homme de verre, son voisin qui ne vit qu'à travers une reproduction d'un tableau de Renoir. Cette quête du bonheur amène Amélie à faire la connaissance de Nino Quincampoix, un étrange prince charmant. Celui-ci partage son temps entre un train fantôme et un sex-shop, et cherche à identifier un inconnu dont la photo réapparaît sans cesse dans plusieurs cabines de Photomaton."
     },
     {
@@ -142,6 +244,12 @@
       "image": "/cinema-quiz/img/18-le-scaphandre-et-le-papillon.jpg",
       "annee": "2007",
       "realisateur": "Julian Schnabel",
+      "acteurs_principaux": [
+        "Mathieu Amalric",
+        "Emmanuelle Seigner",
+        "Marie-José Croze",
+        "Anne Consigny"
+      ],
       "synopsis": "Le 8 décembre 1995, un accident vasculaire brutal a plongé Jean-Dominique Bauby, journaliste et père de deux enfants, dans un coma profond. Quand il en sortit, toutes ses fonctions motrices étaient détériorées. Atteint de ce que la médecine appelle le locked-in syndrome, il ne pouvait plus bouger, parler ni même respirer sans assistance. Dans ce corps inerte, seul un oeil bouge. Cet oeil, devient son lien avec le monde, avec les autres, avec la vie. Il cligne une fois pour dire oui, deux fois pour dire non. Avec son oeil, il arrête l'attention de son visiteur sur les lettres de l'alphabet qu'on lui dicte et forme des mots, des phrases, des pages entières... Avec son oeil, il écrit ce livre, Le Scaphandre et le papillon, dont chaque matin pendant des semaines, il a mémorisé les phrases avant de les dicter..."
     },
     {
@@ -150,6 +258,12 @@
       "image": "/cinema-quiz/img/19-les-fils-de-lhomme.webp",
       "annee": "2006",
       "realisateur": "Alfonso Cuaron",
+      "acteurs_principaux": [
+        "Clive Owen",
+        "Julianne Moore",
+        "Michael Caine",
+        "Chiwetel Ejiofor"
+      ],
       "synopsis": "Dans une société futuriste où les êtres humains ne parviennent plus à se reproduire, l'annonce de la mort de la plus jeune personne, âgée de 18 ans, met la population en émoi. Au même moment, une femme tombe enceinte - un fait qui ne s'est pas produit depuis une vingtaine d'années - et devient par la même occasion la personne la plus enviée et la plus recherchée de la Terre. Un homme est chargé de sa protection..."
     },
     {
@@ -158,6 +272,12 @@
       "image": "/cinema-quiz/img/20-les-liaisons-dangereuses.jpg",
       "annee": "1988",
       "realisateur": "Stephen Frears",
+      "acteurs_principaux": [
+        "Glenn Close",
+        "John Malkovich",
+        "Michelle Pfeiffer",
+        "Uma Thurman"
+      ],
       "synopsis": "Deux aristocrates brillants et spirituels, la marquise de Merteuil et le séduisant Vicomte de Valmont, signent un pacte d'inviolable amitié à la fin de leur liaison. C'est au nom de celui-ci que la marquise demande à Valmont de séduire la candide Cecile de Volanges qui doit prochainement épouser son ex-favori, M. de Bastide. Mais Valmont a entrepris de séduire la vertueuse Mme de Tourvel."
     },
     {
@@ -166,6 +286,12 @@
       "image": "/cinema-quiz/img/21-looper.jpg",
       "annee": "2012",
       "realisateur": "Rian Johnson",
+      "acteurs_principaux": [
+        "Joseph Gordon-Levitt",
+        "Bruce Willis",
+        "Emily Blunt",
+        "Paul Dano"
+      ],
       "synopsis": "Dans un futur proche, la Mafia a mis au point un système infaillible pour faire disparaître tous les témoins gênants. Elle expédie ses victimes dans le passé, à notre époque, où des tueurs d’un genre nouveau (les Loopers) les éliminent. Un jour, l’un d’entre eux, Joe, découvre que la victime qu’il doit exécuter n’est autre que… lui-même, avec 20 ans de plus. La machine si bien huilée déraille…"
     },
     {
@@ -174,6 +300,12 @@
       "image": "/cinema-quiz/img/22-midsommar.webp",
       "annee": "2019",
       "realisateur": "Ari Aster",
+      "acteurs_principaux": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "Will Poulter",
+        "William Jackson Harper"
+      ],
       "synopsis": "Dani et Christian sont sur le point de se séparer quand la famille de Dani est touchée par une tragédie. Attristé par le deuil de la jeune femme, Christian ne peut se résoudre à la laisser seule et l’emmène avec lui et ses amis à un festival estival qui n’a lieu qu'une fois tous les 90 ans et se déroule dans un village suédois isolé. Mais ce qui commence comme des vacances insouciantes dans un pays où le soleil ne se couche pas va vite prendre une tournure beaucoup plus sinistre et inquiétante."
     },
     {
@@ -182,6 +314,12 @@
       "image": "/cinema-quiz/img/23-millenium.jpg",
       "annee": "2009",
       "realisateur": "Niels Arden Oplev",
+      "acteurs_principaux": [
+        "Noomi Rapace",
+        "Michael Nyqvist",
+        "Lena Endre",
+        "Peter Haber"
+      ],
       "synopsis": "Mikael Blomkvist est journaliste économique dans le magazine Millenium. Condamné pour diffamation, il décide de prendre de la distance avec sa vie et son métier. Mais Henrik Vanger, grande figure de l'industrie suédoise, fait appel à lui afin d'enquêter sur une disparition non élucidée, celui d'Harriet Vanger, nièce du grand homme et disparue à l'âge de seize ans. Au cours de ses recherches, Blomkvist se rend compte que La famille Vanger semble cacher bien des haines et des secrets. Dans le cadre de son enquête, le journaliste est amené à rencontrer Lisbeth Salander. La jeune femme de vingt-quatre ans possède un don exceptionnel, celui de découvrir des informations introuvables. Tous deux vont être amenés à se croiser dans une enquête qui va révéler beaucoup plus que ce que chacun aurait pu imaginer..."
     },
     {
@@ -190,6 +328,12 @@
       "image": "/cinema-quiz/img/24-minority-report.webp",
       "annee": "2002",
       "realisateur": "Steven Spielberg",
+      "acteurs_principaux": [
+        "Tom Cruise",
+        "Colin Farrell",
+        "Samantha Morton",
+        "Max von Sydow"
+      ],
       "synopsis": "A Washington, en 2054, la société du futur a éradiqué le meurtre en se dotant du système de prévention / détection / répression le plus sophistiqué du monde. Dissimulés au coeur du Ministère de la Justice, trois extra-lucides captent les signes précurseurs des violences homicides et en adressent les images à leur contrôleur, John Anderton, le chef de la Précrime devenu justicier après la disparition tragique de son fils. Celui-ci n'a alors plus qu'à lancer son escouade aux trousses du coupable... Mais un jour se produit l'impensable : l'ordinateur lui renvoie sa propre image. D'ici 36 heures, Anderton aura assassiné un parfait étranger. Devenu la cible de ses propres troupes, Anderton prend la fuite. Son seul espoir pour déjouer le complot : dénicher sa future victime ; sa seule arme : les visions parcellaires, énigmatiques, de la plus fragile des Pré-Cogs : Agatha."
     },
     {
@@ -198,6 +342,12 @@
       "image": "/cinema-quiz/img/25-celine.jpeg",
       "annee": "1992",
       "realisateur": "Jean-Claude Brisseau",
+      "acteurs_principaux": [
+        "Isabelle Pasco",
+        "Elsa Zylberstein",
+        "Danièle Evenou",
+        "Philippe Laudenbach"
+      ],
       "synopsis": "Céline, jeune femme au bord du suicide, est recueillie par Geneviève, infirmière qui l'apaise et la soigne en lui apprenant les techniques de relaxation. Céline prend goût à ces exercices et se perd en méditation. Mais bientôt des phénomènes étranges se passent en elle et autour d'elle."
     },
     {
@@ -206,6 +356,12 @@
       "image": "/cinema-quiz/img/26-music-box.avif",
       "annee": "1989",
       "realisateur": "Costa Gavras",
+      "acteurs_principaux": [
+        "Jessica Lange",
+        "Armin Mueller-Stahl",
+        "Frederic Forrest",
+        "Donald Moffat"
+      ],
       "synopsis": "Ann Talbot, brillante avocate de Chicago, est amenée à défendre son père, poursuivi pour crimes de guerre. Michael Laszlo a fui la Hongrie à la fin de la Seconde Guerre mondiale et s'est refugié aux Etats-Unis. Après quarante-cinq ans de vie paisible et honnête, il est convoqué par le bureau des enquêtes spéciales. Des preuves accablantes ont été réunies contre lui et de nombreux témoins auraient reconnu en lui un tortionnaire nazi. Pour Ann, il s'agit de démonter un traquenard politique, mais l'enquête qu'elle entreprend va s'avérer plus complexe que prévu."
     },
     {
@@ -214,6 +370,12 @@
       "image": "/cinema-quiz/img/27-mysterious-skin.jpg",
       "annee": "2004",
       "realisateur": "Gregg Araki",
+      "acteurs_principaux": [
+        "Joseph Gordon-Levitt",
+        "Brady Corbet",
+        "Michelle Trachtenberg",
+        "Jeff Licon"
+      ],
       "synopsis": "A huit ans, Brian Lackey se réveille dans la cave de sa maison, le nez en sang, sans aucune idée de ce qui a pu lui arriver. Sa vie change complètement après cet incident : peur du noir, cauchemars, évanouissements... Dix ans plus tard, il est certain d'avoir été enlevé par des extraterrestres et pense que seul Neil Mc Cormick pourrait avoir la clé de l'énigme. Ce dernier est un outsider à la beauté du diable, une petite frappe dont tout le monde tombe amoureux mais qui ne s'attache à personne. Il regrette encore la relation qu'il avait établie avec son coach de baseball quand il avait huit ans. Brian tente de retrouver Neil pour dénouer le mystère qui les empêche de vivre."
     },
     {
@@ -222,6 +384,12 @@
       "image": "/cinema-quiz/img/28-potiche.jpg",
       "annee": "2010",
       "realisateur": "François Ozon",
+      "acteurs_principaux": [
+        "Catherine Deneuve",
+        "Gérard Depardieu",
+        "Fabrice Luchini",
+        "Karin Viard"
+      ],
       "synopsis": "En 1977, dans une province de la bourgeoisie française, Suzanne Pujol est l’épouse popote et soumise d’un riche industriel Robert Pujol. Il dirige son usine de parapluies d’une main de fer et s’avère aussi désagréable et despote avec ses ouvriers qu’avec ses enfants et sa femme, qu’il prend pour une potiche. À la suite d’une grève et d’une séquestration de son mari, Suzanne se retrouve à la direction de l’usine et se révèle à la surprise générale une femme de tête et d’action. Mais lorsque Robert rentre d’une cure de repos en pleine forme, tout se complique…"
     },
     {
@@ -230,6 +398,12 @@
       "image": "/cinema-quiz/img/29-ridicule.jpg",
       "annee": "1996",
       "realisateur": "Patrice Lecomte",
+      "acteurs_principaux": [
+        "Charles Berling",
+        "Fanny Ardant",
+        "Jean Rochefort",
+        "Bernard Giraudeau"
+      ],
       "synopsis": "A travers les aventures de Grégoire Ponceludon de Malavoy, issu d'une famille d'ancienne noblesse tombée dans la précarite, une étude de la cour de Louis XVI et ses antichambres à Versailles en 1780, ou déjà la spiritualité avait pour ennemi mortel le ridicule."
     },
     {
@@ -238,6 +412,12 @@
       "image": "/cinema-quiz/img/30-tamara-drewe.webp",
       "annee": "2010",
       "realisateur": "Stephen Frears",
+      "acteurs_principaux": [
+        "Gemma Arterton",
+        "Roger Allam",
+        "Luke Evans",
+        "Dominic Cooper"
+      ],
       "synopsis": "Avec son nez refait, ses jambes interminables, son job dans la presse people, ses aspirations à la célébrité et sa facilité à briser les coeurs, Tamara Drewe est l'Amazone londonienne du XXIe siècle. Son retour au village où vécut sa mère est un choc pour la petite communauté qui y prospère en paix. Hommes et femmes, bobos et ruraux, auteur de best-sellers, universitaire frustré, rock star au rancart ou fils du pays, tous sont attirés par Tamara dont la beauté pyromane et les divagations amoureuses éveillent d'obscures passions et vont provoquer un enchaînement de circonstances aussi absurdes que poignantes."
     },
     {
@@ -246,6 +426,12 @@
       "image": "/cinema-quiz/img/31-the-truman-show.png",
       "annee": "1998",
       "realisateur": "Peter Weir",
+      "acteurs_principaux": [
+        "Jim Carrey",
+        "Laura Linney",
+        "Ed Harris",
+        "Noah Emmerich"
+      ],
       "synopsis": "Truman Burbank mène une vie calme et heureuse. Il habite dans un petit pavillon propret de la radieuse station balnéaire de Seahaven. Il part tous les matins à son bureau d'agent d'assurances dont il ressort huit heures plus tard pour regagner son foyer, savourer le confort de son habitat modèle, la bonne humeur inaltérable et le sourire mécanique de sa femme, Meryl. Mais parfois, Truman étouffe sous tant de bonheur et la nuit l'angoisse le submerge. Il se sent de plus en plus étranger, comme si son entourage jouait un rôle. Il se sent observé..."
     },
     {
@@ -254,6 +440,13 @@
       "image": "/cinema-quiz/img/32-titanic.jpg",
       "annee": "1997",
       "realisateur": "James Cameron",
+      "acteurs_principaux": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane",
+        "Kathy Bates"
+      ],
+
       "synopsis": "Southampton, 10 avril 1912. Le paquebot le plus grand et le plus moderne du monde, réputé pour son insubmersibilité, le Titanic, appareille pour son premier voyage. Quatre jours plus tard, il heurte un iceberg. A son bord, un artiste pauvre et une grande bourgeoise tombent amoureux."
     },
     {
@@ -262,6 +455,12 @@
       "image": "/cinema-quiz/img/33-total-recall.jpg",
       "annee": "1990",
       "realisateur": "Paul Verhoeven",
+      "acteurs_principaux": [
+        "Arnold Schwarzenegger",
+        "Sharon Stone",
+        "Michael Ironside",
+        "Ronny Cox"
+      ],
       "synopsis": "La planète Terre, 2048. Hanté par un cauchemar qui l’entraîne chaque nuit sur Mars, Doug Quaid s’adresse à un laboratoire, Rekall, qui lui offre de matérialiser son rêve grâce à un puissant hallucinogène. Mais l’expérience dérape : la drogue réveille en lui le souvenir d’un séjour bien réel sur Mars, à l’époque où il était l’agent le plus redouté du despote Cohaagen. Des tueurs désormais à ses trousses, Quaid décide de repartir sur la planète rouge où l’attendent d’autres souvenirs et bien d’autres dangers..."
     },
     {
@@ -270,6 +469,12 @@
       "image": "/cinema-quiz/img/34-trois-couleurs-rouge.jpg",
       "annee": "1994",
       "realisateur": "Krzysztof Kieslowski",
+      "acteurs_principaux": [
+        "Irène Jacob",
+        "Jean-Louis Trintignant",
+        "Frédérique Feder",
+        "Samuel Le Bihan"
+      ],
       "synopsis": "Dans ce troisième volet qui conclut les trois couleurs, une jeune femme, Valentine, étudiante de l'université de Genève, modèle, écrase un chien. Le chien est juste blessé. Sur une plaque, attachée a son collier, Valentine trouve l'adresse du propritétaire. C'est un juge..."
     },
     {
@@ -278,6 +483,13 @@
       "image": "/cinema-quiz/img/35-we-need-to-talk-about-kevin.jpg",
       "annee": "2011",
       "realisateur": "Lynne Ramsay",
+      "acteurs_principaux": [
+        "Tilda Swinton",
+        "Ezra Miller",
+        "John C. Reilly",
+        "Kate Lyn Sheil"
+      ],
+
       "synopsis": "Eva a mis sa vie professionnelle et ses ambitions personnelles entre parenthèses pour donner naissance à Kevin. La communication entre mère et fils s’avère d’emblée très compliquée. A l’aube de ses 16 ans, il commet l’irréparable. Eva s’interroge alors sur sa responsabilité. En se remémorant les étapes de sa vie avant et avec Kevin, elle tente de comprendre ce qu’elle aurait pu ou peut-être dû faire."
     },
     {
@@ -286,6 +498,13 @@
       "image": "/cinema-quiz/img/36-valley-of-love.jpg",
       "annee": "2015",
       "realisateur": "Guillaume Nicloux",
+      "acteurs_principaux": [
+        "Isabelle Huppert",
+        "Gérard Depardieu",
+        "Dan Warner",
+        "Joanna Rochette"
+      ],
+
       "synopsis": "Isabelle et Gérard se rendent à un étrange rendez-vous dans la Vallée de la mort, en Californie. Ils ne se sont pas revus depuis des années et répondent à une invitation de leur fils Michael, photographe, qu'ils ont reçue après son suicide, 6 mois auparavant. Malgré l'absurdité de la situation, ils décident de suivre la programme initiatique imaginé par Michael..."
     },
     {
@@ -294,6 +513,13 @@
       "image": "/cinema-quiz/img/37-the-bubble.jpg",
       "annee": "2006",
       "realisateur": "Eytan Fox",
+      "acteurs_principaux": [
+        "Ohad Knoller",
+        "Yehuda Levi",
+        "Alon Friedman",
+        "Yoni Rechter"
+      ],
+
       "synopsis": "Trois jeunes Israéliens, Noam, disquaire, Yali, gérant de café, et Lulu, vendeuse dans une boutique de produits de beauté, partagent un appartement dans un quartier branché de Tel-Aviv, symbole de cette bulle, surnom donné à la ville. Dans ce cocon quasi déconnecté de la réalité des territoires et des conflits politiques qui agitent le pays, ils mènent une existence tout à fait ordinaire, préférant se concentrer sur leur vie amoureuse. Leur quotidien va pourtant être bouleversé par l'arrivée d'Ashraf, un Palestinien dont Noam tombe amoureux lors d'un incident au Check Point de Naplouse."
     },
 
@@ -303,6 +529,13 @@
       "image": "/cinema-quiz/img/38-le-diable-par-la-queue.jpg",
       "annee": "1969",
       "realisateur": "Philippe de Broca",
+      "acteurs_principaux": [
+        "Yves Montand",
+        "Marthe Keller",
+        "Jean Rochefort",
+        "Madeleine Renaud"
+      ],
+
       "synopsis": "Une famille d'aristocrates désargentés a transformé son château en hôtel. Malgré la bonne volonté de chacun, l’isolement du manoir ne s’avère guère propice aux affaires. Pour remédier à cela, la jolie Amélie séduit Charles, un jeune garagiste, qui accepte de rabattre vers leur établissement les clients de sa station-service en mettant leur voiture en panne. Un certain nombre de voyageurs se retrouvent ainsi immobilisés un soir d'orage. Parmi eux, un insolite trio : le baron César Anselme de Maricorne, flanqué de ses deux secrétaires. Cet homme séduisant est en réalité un dangereux gangster qui vient de réussir un hold-up de 50 millions de francs..."
     },
 
@@ -312,6 +545,12 @@
       "image": "/cinema-quiz/img/39-parasite.webp",
       "annee": "2019",
       "realisateur": "Bong Joon-Ho",
+      "acteurs_principaux": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik"
+      ],
       "synopsis": "Toute la famille de Ki-taek est au chômage, et s’intéresse fortement au train de vie de la richissime famille Park. Un jour, leur fils réussit à se faire recommander pour donner des cours particuliers d’anglais chez les Park. C’est le début d’un engrenage incontrôlable, dont personne ne sortira véritablement indemne..."
     },
     {
@@ -320,6 +559,13 @@
       "image": "/cinema-quiz/img/40-marie-antoinette.webp",
       "annee": "2006",
       "realisateur": "Sofia Coppola",
+      "acteurs_principaux": [
+        "Kirsten Dunst",
+        "Jason Schwartzman",
+        "Judy Davis",
+        "Rip Torn"
+      ],
+
       "synopsis": "Évocation de la vie de la reine d'origine autrichienne, épouse mal-aimée de Louis XVI, guillotinée en 1793. Au sortir de l'adolescence, une jeune fille découvre un monde hostile et codifié, un univers frivole où chacun observe et juge l'autre sans aménité. Mariée à un homme maladroit qui la délaisse, elle est rapidement lassée par les devoirs de représentation qu'on lui impose. Elle s'évade dans l'ivresse de la fête et les plaisirs des sens pour réinventer un monde à elle. Y a-t-il un prix à payer à chercher le bonheur que certains vous refusent ?"
     },
     {
