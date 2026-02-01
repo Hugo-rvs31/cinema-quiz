@@ -56,6 +56,7 @@ const Library = () => {
 
   return (
     <div className="library">
+      <Navigation />
       <h1>Bibliothèque de films</h1>
 
       {/* 🔎 TOOLS */}

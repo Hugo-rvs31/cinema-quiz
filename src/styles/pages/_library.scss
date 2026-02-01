@@ -3,7 +3,7 @@
 
   h1 {
     text-align: center;
-    padding-top: 50px;
+    padding-top: 100px;
   }
 }
 
@@ -11,7 +11,7 @@
   background: pink;
   margin: 20px auto;
   text-align: center;
-  height: 100px;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,11 +20,12 @@
     border-radius: 20px;
     border: none;
     outline: none;
-    height: 40px;
-    width: 20%;
+    height: 50px;
+    width: clamp(280px, 40vw, 30%);
     padding-left: 20px;
     margin-top: 10px;
   }
+
   select {
     border-radius: 10px;
     height: 30px;
@@ -38,12 +39,28 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(370px, 1fr));
   gap: 20px;
+
+  @media (max-width: 500px) {
+    justify-items: center;
+  }
+  @media (max-width: 400px) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 .library-card {
   color: white;
   background: rgba(120, 197, 152, 0.699);
   border-radius: 10px;
+
+  @media (max-width: 500px) {
+    width: 95%;
+  }
+  @media (max-width: 400px) {
+    width: 90%;
+  }
 
   .title {
     color: white;
@@ -71,6 +88,11 @@
     object-fit: cover;
     display: block;
     transition: transform 0.3s ease;
+    @media (max-width: 500px) {
+      height: 250px;
+    }
+    @media (max-width: 400px) {
+    }
   }
 
   &:hover img {
