@@ -1,10 +1,25 @@
-import { NavLink, useLocation } from "react-router-dom";
+import { NavLink, useLocation, useNavigate } from "react-router-dom";
 
 const Navigation = () => {
   const location = useLocation();
+  const navigate = useNavigate();
 
   const isHome = location.pathname === "/";
-  const isLibrary = location.pathname.startsWith("/library");
+  const isFilmDetails = location.pathname.startsWith("/library/");
+  const isLibrary = location.pathname === "/library";
+
+  // 👉 Si on est sur FilmDetails, on ne met pas de "to"
+  if (isFilmDetails) {
+    return (
+      <button
+        id="navigation"
+        className="nav-library"
+        onClick={() => navigate(-1)}
+      >
+        Retour à la bibliothèque
+      </button>
+    );
+  }
 
   return (
     <NavLink
@@ -15,8 +30,8 @@ const Navigation = () => {
       {isHome
         ? "Démarrer le quiz Cinéma"
         : isLibrary
-        ? "Retour à l’accueil"
-        : "Accueil"}
+          ? "Retour à l’accueil"
+          : "Accueil"}
     </NavLink>
   );
 };

@@ -27,11 +27,12 @@ const Library = () => {
     if (search.trim() !== "") {
       const value = search.toLowerCase();
 
-      result = result.filter(
-        (film) =>
-          film.title.toLowerCase().includes(value) ||
-          film.realisateur.toLowerCase().includes(value)
-      );
+      result = result.filter((film) => {
+        const title = film.title?.toLowerCase() || "";
+        const realisateur = film.realisateur?.toLowerCase() || "";
+
+        return title.includes(value) || realisateur.includes(value);
+      });
     }
 
     // --- SORT

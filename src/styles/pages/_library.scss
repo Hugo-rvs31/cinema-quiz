@@ -1,5 +1,5 @@
 .library {
-  background: #efeeee;
+  background: #dadada;
 
   h1 {
     text-align: center;
@@ -8,7 +8,6 @@
 }
 
 .library-tools {
-  background: pink;
   margin: 20px auto;
   text-align: center;
 
@@ -52,7 +51,7 @@
 
 .library-card {
   color: white;
-  background: rgba(120, 197, 152, 0.699);
+  background: rgba(158, 165, 224, 0.699);
   border-radius: 10px;
 
   @media (max-width: 500px) {
@@ -71,7 +70,7 @@
     text-align: center;
   }
   .realisateur {
-    color: pink;
+    color: white;
     text-align: center;
   }
 }
