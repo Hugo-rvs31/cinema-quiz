@@ -1,7 +1,7 @@
 .film-details {
   min-height: 100vh;
-  background: #4b4a4a;
-  color: white;
+  background: #edf4ff;
+  color: black;
   padding: 40px;
   text-align: center;
 
@@ -13,6 +13,20 @@
     font-size: 3rem;
     margin-bottom: 120px;
     margin-top: 70px;
+
+    @media (max-width: 1200px) {
+      margin-bottom: 80px;
+    }
+    @media (max-width: 800px) {
+      font-size: 2.7rem;
+    }
+    @media (max-width: 570px) {
+      margin-top: 110px;
+      font-size: 2.3rem;
+    }
+    @media (max-width: 450px) {
+      font-size: 2rem;
+    }
   }
 }
 
@@ -41,6 +55,7 @@
   }
 
   .infos {
+    background: #acc9f8;
     padding: 20px;
     max-width: 500px;
     text-align: left;
@@ -50,10 +65,44 @@
     border: 1px solid rgb(195, 245, 179);
     border-radius: 10px;
     box-shadow: 6px 10px 35px 11px rgba(0, 0, 0, 0.38);
+    color: rgb(255, 255, 255);
 
-    ul {
-      li {
-        list-style: none;
+    .acteurs {
+      display: flex;
+      gap: 55px;
+      align-items: center;
+      border: 1px solid white;
+      padding: 13px;
+      border-radius: 10px;
+      background: #ffe4e1;
+      box-shadow: 4px 5px 7px 3px rgba(175, 175, 175, 0.38);
+      color: black;
+
+      @media (max-width: 600px) {
+        flex-direction: column;
+        gap: 16px;
+      }
+      strong {
+        @media (max-width: 600px) {
+          text-decoration: underline;
+        }
+      }
+      ul {
+        li {
+          list-style-type: none;
+          font-size: 0.9rem;
+          position: relative;
+          &::before {
+            content: "🎭";
+            position: absolute;
+            left: -25px;
+            top: -2px;
+          }
+          @media (max-width: 600px) {
+            margin-left: 40px;
+            margin-top: 10px;
+          }
+        }
       }
     }
   }
@@ -61,5 +110,8 @@
   .synopsis {
     margin-top: 20px;
     line-height: 1.5;
+    @media (max-width: 400px) {
+      font-size: 0.9rem;
+    }
   }
 }

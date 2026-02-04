@@ -38,7 +38,7 @@ const FilmDetails = () => {
           </p>
 
           {film.acteurs_principaux && film.acteurs_principaux.length > 0 && (
-            <div>
+            <div className="acteurs">
               <strong>Acteurs principaux :</strong>
               <ul>
                 {film.acteurs_principaux.map((actor, index) => (

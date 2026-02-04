@@ -8,8 +8,9 @@ const Library = () => {
   const [search, setSearch] = useState("");
   const [sortType, setSortType] = useState("title-asc");
   const navigate = useNavigate();
+  const [showScrollTop, setShowScrollTop] = useState(false);
 
-  // 🔹 Fetch des films
+  // Fetch des films
   useEffect(() => {
     axios
       .get("/cinema-quiz/db-cinema.json")
@@ -19,7 +20,28 @@ const Library = () => {
       .catch(console.error);
   }, []);
 
-  // 🔹 Films filtrés + triés
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 1500) {
+        setShowScrollTop(true);
+      } else {
+        setShowScrollTop(false);
+      }
+    };
+
+    window.addEventListener("scroll", handleScroll);
+
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth",
+    });
+  };
+
+  // Films filtrés + triés
   const filteredFilms = useMemo(() => {
     let result = [...films];
 
@@ -31,7 +53,14 @@ const Library = () => {
         const title = film.title?.toLowerCase() || "";
         const realisateur = film.realisateur?.toLowerCase() || "";
 
-        return title.includes(value) || realisateur.includes(value);
+        const acteurs = film.acteurs_principaux || [];
+        const matchActor = acteurs.some((actor) =>
+          actor.toLowerCase().includes(value),
+        );
+
+        return (
+          title.includes(value) || realisateur.includes(value) || matchActor
+        );
       });
     }
 
@@ -58,13 +87,17 @@ const Library = () => {
   return (
     <div className="library">
       <Navigation />
+      {showScrollTop && (
+        <button className="scroll-top-btn" onClick={scrollToTop}>
+          ↑
+        </button>
+      )}
       <h1>Bibliothèque de films</h1>
 
-      {/* 🔎 TOOLS */}
       <div className="library-tools">
         <input
           type="text"
-          placeholder="Rechercher par titre ou réalisateur..."
+          placeholder="Rechercher par titre, réalisateur ou acteur..."
           value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
@@ -77,7 +110,6 @@ const Library = () => {
         </select>
       </div>
 
-      {/* 🎬 LIST */}
       <div className="library-grid">
         {filteredFilms.map((film) => (
           <div key={film.id} className="library-card">

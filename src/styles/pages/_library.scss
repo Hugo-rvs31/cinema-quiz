@@ -1,9 +1,39 @@
 .library {
-  background: #dadada;
+  background: #dfeafc;
+  min-height: 100vh;
+  .scroll-top-btn {
+    position: fixed;
+    bottom: 13px;
+    right: 13px;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    border: none;
+    background: #efe6ffad;
+    color: #2e2148;
+    font-size: 22px;
+    cursor: pointer;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    transition:
+      transform 0.2s ease,
+      opacity 0.2s ease;
+    z-index: 999;
+  }
+
+  .scroll-top-btn:hover {
+    transform: scale(1.1);
+    background: #e0d2ff;
+  }
 
   h1 {
     text-align: center;
     padding-top: 100px;
+
+    @media (max-width: 450px) {
+      font-size: 1.8rem;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
   }
 }
 
@@ -23,6 +53,11 @@
     width: clamp(280px, 40vw, 30%);
     padding-left: 20px;
     margin-top: 10px;
+  }
+  input::placeholder {
+    @media (max-width: 1050px) {
+      font-size: 0.7rem;
+    }
   }
 
   select {
@@ -51,7 +86,7 @@
 
 .library-card {
   color: white;
-  background: rgba(158, 165, 224, 0.699);
+  background: #6ee0a4;
   border-radius: 10px;
 
   @media (max-width: 500px) {
